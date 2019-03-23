@@ -21,7 +21,7 @@ Vrei sa contribui timp? Poți începe de la https://github.com/cipy/unpi.web (î
 - Azi, transportul de la Amazon.de către Romania este sub €10
 
 
-#### P.S: nu am nici un NGO (momentan), e inițiativa privata.
+#### P.S: nu am nici un NGO (momentan), e inițiativă privată.
 
 
 Numai bine, și mulțumim!
