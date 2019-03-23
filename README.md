@@ -2,7 +2,7 @@
 
 Sper ca ești bine,
 
-E aproape weekend (azi, 22.03.2019) și am un proiect nou în mapa: https://donez.unii.ro/ 😎
+E aproape weekend (azi, 22.03.2019) și am un proiect nou în mapa: https://donez.unpi.ro/ 😎
 
 Sunt ITist și am văzut ieri un fost coleg de facultate postind o poza cu primul lui [HC'85](https://duckduckgo.com/?q=hc+85+calculator+romanesc&iax=images&ia=images&iaf=type%3Aphoto-photo), și mi-am adus aminte ce norocoși am fost unii dintre noi sa primim (de la părinti, rude?) un calculator personal în anii '90.
 
