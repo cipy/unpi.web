@@ -8,10 +8,10 @@ Sunt ITist și am văzut ieri un fost coleg de facultate postînd o poză cu pri
 
 Cum prețurile au scăzut mult de atunci, dar problema a rămas în esența aceeași (_nu toți/mulți copii în Romania își permit un calculator personal_), lansez proiectul de mai sus pentru a dona un Raspberry PI 3 B+/recent copiilor (cu prioritate către cei defavorizați) din Romania.
 
-Eu mă angajez să [donez](http://donez.unpi.ro/) cate unPi pe an și sa pregătesc materiale (text, ulterior video? În licența publică) pentru un [curs în limbajul de programare Go](http://go.unpi.ro/) pentru ei (nu știu [Golang](https://go-tour-ro.appspot.com/) azi, dar învăț și eu odată cu ei 😇).
+Eu mă angajez să [donez](http://donez.unpi.ro/) cate unPi pe an și sa pregătesc materiale (text, ulterior video? în licența publică) pentru un [curs în limbajul de programare Go](http://go.unpi.ro/) pentru ei (nu știu [Golang](https://go-tour-ro.appspot.com/) azi, dar învăț și eu odată cu ei 😇).
 
 Vrei să contribui €? Contactează-mă pe Gmail (_prenume.nume_), ori trimite link-ul [donez](http://donez.unpi.ro/) mai departe!
-Vrei să contribui timp? Poți începe de la https://github.com/cipy/unpi.web (în lucru acum)
+Vrei să contribui timp? Poți începe de la https://github.com/cipy/unpi.web (pagina aceasta, în lucru acum)
 
 #### Bugetul pentru un Pi pe an este €120 de participant/donator și conține:
 
