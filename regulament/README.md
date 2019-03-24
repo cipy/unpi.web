@@ -10,7 +10,7 @@ Pentru a primi unPi te **angajezi** (părinte și copil) **solemn** să respecț
 
 2. Dacă nu mai găsesc unPi folositor pentru punctul 1., mă angajez să-l **returnez** la [unPi](https://www.unpi.ro/returnez) pentru beneficiul altui copil. (vei primi bani pentru transport și adresa destinație unde să-l trimiți)
 
-3. Mă angajez să **nu cer**, **stochez**, nici **furnizez** informații personale de orice fel, ale mele ori ale altor elevi [unPi](https://www.unpi.ro/), indiferent cine le cere. (informații personale pot fi de exemplu: prenumele, varsta, localitatea, sexul, numele școlii, numele părinților, ori numele străzii unde locuiești, șamd)
+3. Mă angajez să **nu cer**, **stochez**, nici **furnizez** informații personale de orice fel, ale mele ori ale altor elevi [unPi](https://www.unpi.ro/), indiferent cine le cere. (informații personale pot fi de exemplu: poza, prenumele, varsta, localitatea, sexul, numele școlii, numele părinților, ori numele străzii unde locuiești, șamd)
 
 4. **nu** voi folosi unPi în nici un fel de activitate care ar putea fi **ilegala** pe teritoriul Romaniei, ori altei tari din lume, indiferent de locația geografică.
 
