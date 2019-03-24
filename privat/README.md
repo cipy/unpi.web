@@ -16,4 +16,4 @@ Răspuns: Nu. Doar trebuie sa faci ceea ce este recomandat puțin mai sus la pun
 
 4. Trebuie să știu limba engleză?
 
-Răspuns: Nu pentru [cursul Go](https://go.unpi.ro/), va fi (totul) în limba romană. Dar, pe termen lung ar trebui să depui puțin efort în a invăța și ceva engleză. Te va ajuta (în lucrul cu calculatorul) pe termen lung. Poți incepe studiul limibii engleze cu aplicatia mobilă [mondly](https://www.mondly.com), e făcută la Brașov 🤓
+Răspuns: Nu pentru [cursul Go](https://go.unpi.ro/), va fi (totul) în limba romană. Dar, pe termen lung ar trebui să depui puțin efort în a invăța și ceva engleză. Te va ajuta (în lucrul cu calculatorul) pe termen lung. Poți incepe studiul limibii engleze cu aplicația mobilă [mondly](https://www.mondly.com), e făcută la Brașov 🤓
