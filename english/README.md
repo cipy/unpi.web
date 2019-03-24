@@ -13,7 +13,7 @@ In Computer Science engineering _speak_: **concurrency** is the capacity of a pr
 - it's [my](https://www.linkedin.com/in/ciprianalexandrumanea/) home country. I'm paying it forward.
 - while gifted RO students have graduated every year from US Ivy League Universities, had or are still working at Google/ Microsoft/ Amazon/ Facebook/ other Fortune 50 companies, the country as a whole has not changed (that) much. And the _real_ reasons are too many to list here, _unfortunately_.
 - its Internet infrastructure is [top notch](http://business-review.eu/news/romania-has-5th-fastest-internet-speed-in-the-world-176801) (#5 worldwide)
-- the cheapest monthly [Internet subscription](https://www.digiromania.ro/servicii/internet) at one of the leading national providers is today 30 RON, or about 7,15 USD and gives you 350Mbps download with 150Mbps upload. Hello Western Europe?!
+- the cheapest monthly [Internet subscription](https://www.digiromania.ro/servicii/internet) at one of the leading national providers is today 30 RON, or about 7,15 USD and gives you 300Mbps download with 150Mbps upload. Hello Western Europe?!
 - [Raspberry Pi 3 B+](https://static.raspberrypi.org/files/product-briefs/Raspberry-Pi-Model-Bplus-Product-Brief.pdf) has 4 cores (small processors) and 300Mbps network interface, asking for Golang programmers 🤓
 
 ## What are you gifting to a Romanian child?
