@@ -4,7 +4,7 @@ Internetul a fost creat pe baza încrederii reciproce, și ca o modalitate de a 
 
 Înțeleg că unele lucuri au mai regresat de atunci, dar în acest proiect vă atrag atenția că vom folosi cel mai valoros bun pe care îl aveți, și anume: **onoarea**.
 
-Pentru a primi unPi te **angajezi** (părinte și copil) **solemn** să respecți următoarele reguli (pe care părintele la va primi și într-o scrisoare recomandă prin poșta, înainte de a primi unPi):
+Pentru a primi unPi te **angajezi** (părinte și copil) **solemn** să respecți următoarele reguli (pe care părintele le va primi și într-o scrisoare recomandă prin poșta, înainte de a primi unPi):
 
 1. Voi folosi unPi cu preponderență pentru **a invăța** despre calculatoare, programare, și ca ajutor în temele școlare.
 
