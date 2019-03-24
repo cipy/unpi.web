@@ -8,7 +8,7 @@ Răspuns: Cel mai simplu iți cumperi același [unPi](http://spec.unpi.ro/) pent
 
 2. Pot să folosesc programul guvernamental [Euro 200](http://www.euro200.edu.ro) să-i cumpăr copilului meu unPi?
 
-Răspuns: Sună bine! Nu am experiență cu programul Euro 200, dar dacă citești condițiile lor de pe [site](http://www.euro200.edu.ro) și te încadrezi, ar trebui să-i primești! Iți recomand să comanzi aceeași [configurație unPi](https://www.unpi.ro/spec/) de la una din firmele agreate in programul guvernamental, și-ți mai răman €80 pentru [accesorii](http://extra.unpi.ro/) la unPi 😎
+Răspuns: Sună bine! Nu am experiență cu programul Euro 200, dar dacă citești condițiile lor de pe [site](http://www.euro200.edu.ro) și te încadrezi, ar trebui să-i primești! Îți recomand să comanzi aceeași [configurație unPi](https://www.unpi.ro/spec/) de la una din firmele agreate in programul guvernamental, și-ți mai răman €80 pentru [accesorii](http://extra.unpi.ro/) la unPi 😎. Aplicația ta în programul Euro 200 trebuie depusă **înainte de 21 Aprilie**!
 
 3. Vreau să înregistrez unPi al meu privat în proiectul [unPi](https://www.unpi.ro/) și să interacționez cu elevii unPi.
 
