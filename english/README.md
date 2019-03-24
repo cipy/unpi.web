@@ -2,7 +2,7 @@
 
 I guess you came here via our [Patreon](https://www.patreon.com/unPi) page.
 
-This [site](https://www.unpi.ro/), project and github [repository](https://github.com/cipy/unpi.web) are about helping _unprivileged_ children from Romania get _fast_ access to the Internet, and especially _start programming_ in [Golang](https://golang.org) using a tailored [Go course in the Romanian language](https://go.unpi.ro/).
+This [site](https://www.unpi.ro/), project and github [repository](https://github.com/cipy/unpi.web) are about helping _unprivileged_ children from Romania get _fast_ access to the Internet, and especially _start programming_ in [Golang](https://golang.org) using a tailored [Go course in the Romanian language](https://go.unpi.ro/) we create.
 
 Go is a modern programming language invented at Google (by one of the founders of the [C programming language](https://en.wikipedia.org/wiki/C_(programming_language) & others)). This language was designed from the get go to be **simple** to learn, **safe** to use, with built-in support for _concurrency_ and _multi platform_.
 
