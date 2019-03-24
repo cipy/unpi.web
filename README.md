@@ -17,7 +17,7 @@ Vrei să contribui timp? Poți începe de la https://github.com/cipy/unpi.web (p
 
 - [Raspberry Pi 3 B+ Ultimate Starter Kit](https://www.amazon.de/gp/product/B07DDCRFP6/) €80 
 - [Tastatură cu trackpad incorporat](https://www.amazon.de/gp/product/B07HG5Q851/) (wireless) €20 
-- [Cablu rețea](https://www.amazon.de/gp/product/B00QV1F160/) €9 
+- [Cablu rețea profesional](https://www.amazon.de/gp/product/B00QV1F160/) €9 
 - Azi, transportul de la Amazon.de către Romania este sub €10
 
 
