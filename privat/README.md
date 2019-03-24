@@ -6,7 +6,7 @@ Oh, sunt un utilizator privat, interesantă inițiativa [unPi](https://www.unpi.
 
 Răspuns: Cel mai simplu iți cumperi același [unPi](http://spec.unpi.ro/) pentru care cursul este făcut, și citești mai departe ce trebuie să faci în [cursul Go](https;//go.unpi.ro/). Puțin mai complicat, dacă ai un Raspberry Pi mai vechi și vrei să-l folosești, e posibil să meargă. O să testez o parte din exerciții pe vechiul meu Raspberry Pi 1 B+, din cand în cand, dar efortul principal este pentru [specificația](http://spec.unpi.ro/) unPi. Dacă vrei să folosești Windows 10, ești singur cu Bill Gates. Sorry!
 
-2. Vreau să înregistrez unPi al meu privat în proiectul [unPi](https://www.unpi.ro/) si să interacționez cu elevii unPi.
+2. Vreau să înregistrez unPi al meu privat în proiectul [unPi](https://www.unpi.ro/) și să interacționez cu elevii unPi.
 
 Răspuns: În primul rand trebuie să aderi la, și să respecți cu strictețe [regulamentul](https://www.unpi.ro/regulament). Instrucțiunile tehnice pentru cazul acesta vor fi create ulterior, bazat pe cerere.
 
