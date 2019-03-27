@@ -2,7 +2,7 @@
 
 #### OK, m-ai convins, cum donez acum unPi?
 
-Răspuns: contactează-mă [personal](mailto:ciprian.manea@gmail.com?subject=vreau%20sa%20donez%20unPi) și vei primi instrucțiunile pentru a vira €120 (bugetul pentru unPi) în contul necesar. Vei fi întrebat dacă dorești să fii informat la fiecare pas în procesul de cumpărare, livrare, etc. Donația este posibila _doar_ în Euro.
+Răspuns: contactează-mă [personal](mailto:ciprian.manea@gmail.com?subject=vreau%20sa%20donez%20unPi) și vei primi instrucțiunile pentru a vira €120 (bugetul pentru unPi) în contul necesar. Vei fi întrebat dacă dorești să fii informat la fiecare pas în procesul de cumpărare, livrare, etc. Donația este posibila _doar_ în Euro. De asemenea poți dona și mai puțin de €120, dacă nu îți permiți intreaga sumă.
 
 #### OK, cum donez unPi mai vizibil? mai social?
 
@@ -17,7 +17,7 @@ Răspuns: poți trimite oricând echivalentul a €120 (ori cât de mult îți p
 
 #### Hmm, și dacă nu am un cont bancar în Euro?
 
-Răspuns: poți să-ți faci un cont [Revolut](https://www.revolut.com) care vine automat cu un cont în Euro; în aplicația lor poți face de asemenea conversia RON la EUR și invers (plus alte valute).
+Răspuns: poți să-ți faci un cont [Revolut](https://www.revolut.com) care vine automat cu un cont în Euro; în aplicația lor poți face de asemenea instantaneu conversia de la RON la EUR și invers (plus alte valute).
 
 #### Hmm, îmi place ideea dar vreau să donez direct.
 
