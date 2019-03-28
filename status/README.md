@@ -2,7 +2,7 @@
 
 ##### 2019
 
-###### donatori
+###### donatori (seria #1, _de aur_)
 
 1. BS din Thailanda, Bangkok a virat
 2. CM din Finlanda, Helsinki a promis
@@ -16,3 +16,8 @@
 10. CS din România, Bucuresti a promis
 11. CR din Germania, Nurnberg a promis
 12. SN din Olanda, Amsterdam a promis
+13. SP din România, Bucuresti a promis
+14. DT din România, Bucuresti a promis
+15. DM din Finlanda, Helsinki a promis
+
+###### donatori (seria #2)
