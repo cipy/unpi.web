@@ -2,7 +2,7 @@
 
 #### (or ce) vreți să faceți (cu) proiectul unPi.ro?
 
-Răspuns: sunt copii în România care au pierdut din start la loteria vieții. Poate au rămas fără părinți, poate s-au născut într-o familie foarte săracă, șamd. Cu [unPi](https://www.unpi.ro/) vrem să-i ajutăm să-și depășească condiția socială în care s-au născut, și să le dăm o posibilitate de a crea un viitor mai frumos pentru ei și familiile lor.
+Răspuns: sunt copii în România care au pierdut din start la loteria vieții. Poate au rămas fără părinți, poate s-au născut într-o familie foarte săracă, șamd. Cu proiectul [unPi](https://www.unpi.ro/) vrem să-i ajutăm să-și depășească condiția socială în care s-au născut, și să le dăm o posibilitate de a crea un viitor mai frumos pentru ei și familiile lor.
 
 #### programare? IT?
 
