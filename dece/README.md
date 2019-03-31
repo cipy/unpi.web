@@ -4,6 +4,10 @@
 
 Răspuns: sunt copii în România care au pierdut din start la loteria vieții. Poate au rămas fără părinți, poate s-au născut într-o familie foarte săracă, șamd. Cu [unPi](https://www.unpi.ro/) vrem să-i ajutăm să-și depășească condiția socială în care s-au născut, și să le dăm o posibilitate de a crea un viitor mai frumos pentru ei și familiile lor.
 
+#### programare? IT?
+
+Răspuns: programarea, munca în IT în general, este cea mai _democratică_ ocupație pe Pamant, platită cel mai bine (în raport cu diplomele acumulate, or lipsa lor). Toate meseriile necesită un mecanism de certificare (ex. ai nevoie de o diplomă, de la o universitate, colegiu, ori certificat) pentru a putea profesa și caștiga bani. In IT nu este așa. Desigur, dacă ai diplome și certificări în IT poți caștiga și mai mult, dar [din 2018, firme mari precum: Google, Apple, IBM nu-ți mai cer să ai o diplomă de facultate](https://www.cnbc.com/2018/08/16/15-companies-that-no-longer-require-employees-to-have-a-college-degree.html) pentru a lucra la ei 🤓.
+
 #### tu/autorul?
 
 Răspuns: eu am avut scânteia/ideea inițială, dar oricine poate acum [să doneze](https://www.unpi.ro/donez/), ori să corecteze textele [unPi.ro](https://www.unpi.ro/), ori să contribuie la [cursul Golang în limba romană](https://go.unpi.ro/), ori să creeze alte cursuri pentru proiectul unPi.
@@ -22,4 +26,4 @@ Răspuns: prioritatea este pentru copiii defavorizați, dar pe măsură ce primi
 
 #### unPi și nu un calculator la mâna a doua?
 
-Răspuns: oricine lucrează profesional cu calculatoarele iți poate spune cât de fragile sunt, și cât de complicat este să faci un soft care să meargă _exact_ la fel pe toate. [Configurația unPi](https://www.unpi.ro/spec/) ne permite să testăm ușor materialele pentru [cursul Go](https://go.unpi.ro/) și să ne asigurăm că totul va arăta la fel, la toți elevii. E _mult mai greu_ de făcut asta cu _diverse_ calculatoare la mâna a doua.
+Răspuns: oricine lucrează profesional cu calculatoarele îți poate spune cât de fragile sunt, și cât de complicat este să faci un soft care să meargă _exact_ la fel pe toate. [Configurația unPi](https://www.unpi.ro/spec/) ne permite să testăm ușor materialele pentru [cursul Go](https://go.unpi.ro/) și să ne asigurăm că totul va arăta la fel, la toți elevii. E _mult mai greu_ de făcut asta cu _diverse_ calculatoare la mâna a doua.
