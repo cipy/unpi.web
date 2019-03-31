@@ -16,6 +16,10 @@ Răspuns: dacă ești un copil în dificultate (financiară, socială), și ai c
 
 Răspuns: conceptele în programare, chiar explicate la nivelul unui copil, nu sunt foarte ușor de înțeles. Avem nevoie de o minimă maturitate în gândire (chiar începând cu: "_ooh, m-am născut sărac, acum înțeleg, dar pot schimba asta_"), plus capacitatea de a gândi [abstract](https://dexonline.ro/intrare/abstract/144). Desigur, cu implicarea directă a părinților, programarea poate fi predată la orice vârstă.
 
+#### numai copii?
+
+Răspuns: prioritatea este pentru copiii defavorizați, dar pe măsură ce primim noi donații vom putea extinde aplicabilitatea și la alte vârste. Indiferent de vârstă, dacă vrei să primesti [unPi](https://www.unpi.ro/), trebuie să te angajezi că respecți cu strictețe [regulamentul](https://www.unpi.ro/regulament/). Părinții care își permit să cumpere un calculator în [configurația unPi](https://www.unpi.ro/spec/) vor putea urma cursurile unPi în mod [privat](https://www.unpi.ro/privat/).
+
 #### unPi și nu un calculator la mâna a doua?
 
 Răspuns: oricine lucrează profesional cu calculatoarele iți poate spune cât de fragile sunt, și cât de complicat este să faci un soft care să meargă _exact_ la fel pe toate. [Configurația unPi](https://www.unpi.ro/spec/) ne permite să testăm ușor materialele pentru [cursul Go](https://go.unpi.ro/) și să ne asigurăm că totul va arăta la fel, la toți elevii. E _mult mai greu_ de făcut asta cu _diverse_ calculatoare la mâna a doua.
