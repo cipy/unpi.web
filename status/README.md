@@ -10,11 +10,11 @@
 4. LL din Germania, Berlin a promis
 5. SS din Germania, Munchen a promis
 6. PS din Norvegia, Oslo a promis
-7. RB din Statele Unite, San Francisco a promis
+7. RB din Statele Unite, San Francisco a virat
 8. MV din Canada, Montreal a virat
 9. AG din România, Bucuresti a virat
 10. CS din România, Bucuresti a promis
-11. CR din Germania, Nurnberg a promis
+11. CR din Germania, Nurnberg a virat
 12. SN din Olanda, Amsterdam a promis
 13. SP din România, Bucuresti a virat
 14. DT din România, Bucuresti a virat
