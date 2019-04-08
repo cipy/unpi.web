@@ -14,7 +14,7 @@ Răspuns: eu am avut scânteia/ideea inițială, dar oricine poate acum [să don
 
 #### noi/beneficiarul?
 
-Răspuns: dacă ești un copil în dificultate (financiară, socială), și ai cel puțin 10 ani, și vrei să-ți schimbi condiția prin forțe proprii, și _vrei să înveți programare_, roagă-l pe unul din părinți (ori tutor, dacă ai asa ceva) să contacteze unPi [direct](mailto:ciprian.manea@gmail.com?subject=vreau%20sa%20primesc%20unPi). (nu vă putem ajuta pe _toți_ din prima zi, din păcate, dar pe măsură ce primim noi donații, le vom trimite în ordine celor ce au fost selectați)
+Răspuns: dacă ești un copil în dificultate (financiară, socială), și ai cel puțin 10 ani, și vrei să-ți schimbi condiția prin forțe proprii, și _vrei să înveți programare_, roagă-l pe unul din părinți (ori tutor, dacă ai asa ceva) să contacteze unPi [direct](mailto:vreau@unpi.ro?subject=vreau%20sa%20primesc%20unPi). (nu vă putem ajuta pe _toți_ din prima zi, din păcate, dar pe măsură ce primim noi donații, le vom trimite în ordine celor ce au fost selectați)
 
 #### copii începând cu vârsta de 10 ani?
 
