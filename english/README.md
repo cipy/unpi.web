@@ -10,7 +10,7 @@ In Computer Science engineering _speak_: **concurrency** is the capacity of a pr
 
 ## Why [Romania](https://en.wikipedia.org/wiki/Romania)?
 
-- it's [my](https://www.linkedin.com/in/ciprianalexandrumanea/) home country. I'm paying it forward.
+- it's [my](https://www.linkedin.com/in/ciprian-manea/) home country. I'm paying it forward.
 - while [gifted Romanian students](https://space.nss.org/settlement/nasa/Contest/Results/2019/) have graduated every year from US Ivy League Universities, had or are still working at Google/ Microsoft/ Amazon/ Facebook/ other Fortune 50 companies, the country as a whole has not changed (that) much. And the _real_ reasons are too many to list here, _unfortunately_.
 - its Internet infrastructure is [top notch](http://business-review.eu/news/romania-has-5th-fastest-internet-speed-in-the-world-176801) (#5 worldwide)
 - the cheapest monthly [Internet subscription](https://www.digiromania.ro/servicii/internet) at one of the leading national providers is today 30 RON, or about 7,15 USD and gives you 300Mbps download with 150Mbps upload. Hello Western Europe?!
@@ -23,7 +23,7 @@ In Computer Science engineering _speak_: **concurrency** is the capacity of a pr
 - [professional network cable](https://www.amazon.de/gp/product/B00QV1F160/) €9
 - delivery costs from Amazon.de to Romania, about €10
 
-###### P.S: the project is at the moment a private initiative (to keep _maintenance_ costs down, etc), it will be registered in Romania or Finland (_my current residence_) as a Non Profit when it becomes successful (maintenance or taxation exceed my possibilities).
+###### P.S: the project is at the moment a private initiative (and we have started the oficial registation in Romania as a Non Profit).
 
 From my side, my supporters, and likely the future computer science careers we're likely to shape together: **I thank you from the bottom of my heart for your hard earned contribution** and we'll be forever in your debt.
 
