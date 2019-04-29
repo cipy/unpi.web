@@ -8,7 +8,7 @@
 2. CM din Finlanda, Helsinki a promis
 3. DD din Finlanda, Helsinki a promis
 4. LL din Germania, Berlin a promis
-5. SS din Germania, Munchen a promis
+5. SS din Germania, Munchen a virat
 6. PS din Norvegia, Oslo a promis
 7. RB din Statele Unite, San Francisco a virat
 8. MV din Canada, Montreal a virat
@@ -19,5 +19,6 @@
 13. SP din România, Bucuresti a virat
 14. DT din România, Bucuresti a virat
 15. DM din Finlanda, Helsinki a virat
+16. SG din Australia, Melbourne a virat
 
 ###### donatori (seria #2)
