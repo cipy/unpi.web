@@ -2,7 +2,7 @@
 
 #### OK, m-ai convins, cum donez acum unPi?
 
-Răspuns: contactează-ne [direct](mailto:donez@unpi.ro?subject=vreau%20sa%20donez%20unPi) și vei primi instrucțiunile pentru a vira €120 (bugetul pentru unPi) în contul necesar. Vei fi întrebat dacă dorești să fii informat la fiecare pas în procesul de cumpărare, livrare, etc. Donația este posibila _doar_ în Euro. De asemenea poți dona și mai puțin de €120, dacă nu îți permiți intreaga sumă.
+Răspuns: contactează-ne [direct](mailto:donez@unpi.ro?subject=vreau%20sa%20donez%20unPi) și vei primi instrucțiunile pentru a vira €120 (bugetul pentru unPi) în contul necesar. Vei fi întrebat dacă dorești să fii informat la fiecare pas în procesul de cumpărare, livrare, etc. Donația este posibilă _doar_ în Euro. De asemenea poți dona și mai puțin de €120, dacă nu îți permiți întreaga sumă.
 
 #### OK, cum donez unPi mai vizibil? mai social?
 
