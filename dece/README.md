@@ -2,11 +2,15 @@
 
 #### (or ce) vreți să faceți (cu) proiectul unPi.ro?
 
-Răspuns: sunt copii în România care au pierdut din start la loteria vieții. Poate au rămas fără părinți, poate s-au născut într-o familie foarte săracă, șamd. Cu proiectul [unPi](https://www.unpi.ro/) vrem să-i ajutăm să-și depășească condiția socială în care s-au născut, și să le dăm o posibilitate de a crea un viitor mai frumos pentru ei și familiile lor. Nu insistăm pe [monocultură](https://dexonline.ro/definitie/monocultură), gen "învață doar IT", dimpotrivă. Trebuie să vezi viitoarele tale cunoștiințe în IT drept o unealtă ce iți va permite să multiplici, uneori de sute, chiar mii de ori, ce poți face de unul singur. Dacă visezi să devii doctor, asistentă, avocat, economist, etc, vei putea folosi ulterior cunoștiințele tale specializate ca să creezi un program or mai multe programe pe calculator care să te ajute in munca (mult) visată, ori ca să știi ce să ceri unui consultant IT.
+Răspuns: sunt copii în România care au pierdut din start la loteria vieții. Poate au rămas fără părinți, poate s-au născut într-o familie foarte săracă, șamd. Cu proiectul [unPi](https://www.unpi.ro/) vrem să-i ajutăm să-și depășească condiția socială în care s-au născut, și să le dăm o posibilitate de a crea un viitor mai frumos pentru ei și familiile lor.
 
 #### programare? IT?
 
 Răspuns: programarea, munca în IT în general, este cea mai _democratică_ ocupație pe Pământ, plătită cel mai bine (în raport cu diplomele acumulate, or lipsa lor). Toate meseriile necesită un mecanism de certificare (ex. ai nevoie de o diplomă, de la o universitate, colegiu, ori certificat) pentru a putea profesa și câștiga bani. În IT nu este așa. Desigur, dacă ai diplome și certificări în IT poți câștiga și mai mult, dar [din 2018, firme mari precum: Google, Apple, IBM nu-ți mai cer să ai o diplomă de facultate](https://www.cnbc.com/2018/08/16/15-companies-that-no-longer-require-employees-to-have-a-college-degree.html) pentru a lucra la ei 🤓.
+
+#### nu altceva?
+
+Răspuns: nu insistăm pe [monocultură](https://dexonline.ro/definitie/monocultură), gen "învață doar IT", dimpotrivă. Trebuie să vezi viitoarele tale cunoștiințe în IT drept o unealtă ce iți va permite să multiplici, uneori de sute, chiar mii de ori, ce poți face de unul singur. Dacă visezi să devii doctor, asistentă, avocat, economist, etc, vei putea folosi ulterior cunoștiințele tale specializate ca să creezi un program or mai multe programe pe calculator care să te ajute în munca (mult) visată, ori ca să știi ce să ceri unui consultant IT.
 
 #### tu/autorul?
 
