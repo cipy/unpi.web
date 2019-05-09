@@ -2,7 +2,7 @@
 
 #### (or ce) vreți să faceți (cu) proiectul unPi.ro?
 
-Răspuns: sunt copii în România care au pierdut din start la loteria vieții. Poate au rămas fără părinți, poate s-au născut într-o familie foarte săracă, șamd. Cu proiectul [unPi](https://www.unpi.ro/) vrem să-i ajutăm să-și depășească condiția socială în care s-au născut, și să le dăm o posibilitate de a crea un viitor mai frumos pentru ei și familiile lor.
+Răspuns: sunt copii în România care au pierdut din start la loteria vieții. Poate au rămas fără părinți, poate s-au născut într-o familie foarte săracă, șamd. Cu proiectul [unPi](https://www.unpi.ro/) vrem să-i ajutăm să-și depășească condiția socială în care s-au născut, și să le dăm o posibilitate de a crea un viitor mai frumos pentru ei și familiile lor. Nu insistăm pe [monocultură](https://dexonline.ro/definitie/monocultură), gen "învață doar IT", dimpotrivă. Trebuie să vezi viitoarele tale cunoștiințe în IT drept o unealtă ce iți va permite să multiplici, uneori de sute, chiar mii de ori, ce poți face de unul singur. Dacă visezi să devii doctor, asistentă, avocat, economist, etc, vei putea folosi ulterior cunoștiințele tale specializate ca să creezi un program or mai multe programe pe calculator care să te ajute in munca (mult) visată, ori ca să știi ce să ceri unui consultant IT.
 
 #### programare? IT?
 
