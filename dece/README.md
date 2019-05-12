@@ -10,7 +10,7 @@ Răspuns: programarea, munca în IT în general, este cea mai _democratică_ ocu
 
 #### nu altceva?
 
-Răspuns: nu insistăm pe [monocultură](https://dexonline.ro/definitie/monocultură), gen "învață doar IT", dimpotrivă. Trebuie să vezi viitoarele tale cunoștiințe în IT drept o unealtă ce iți va permite să multiplici, uneori de sute, chiar mii de ori, ce poți face de unul singur. Dacă visezi să devii doctor, asistentă, avocat, economist, etc, vei putea folosi ulterior cunoștiințele tale specializate ca să creezi un program or mai multe programe pe calculator care să te ajute în munca (mult) visată, ori ca să știi ce să ceri unui consultant IT.
+Răspuns: nu insistăm pe [monocultură](https://dexonline.ro/definitie/monocultură), gen "învață doar IT", dimpotrivă. Trebuie să vezi viitoarele tale cunoștiințe în IT drept o unealtă ce iți va permite să multiplici, uneori de sute, chiar mii de ori, ce poți face de unul singur. Dacă visezi să devii doctor, asistentă, avocat, economist, etc, vei putea folosi ulterior cunoștiințele tale specializate ca să creezi un program or mai multe programe pe calculator care să te ajute în munca (mult) visată, ori ca să știi ce să-i ceri unui consultant IT.
 
 #### tu/autorul?
 
@@ -31,3 +31,7 @@ Răspuns: prioritatea este pentru copiii defavorizați, dar pe măsură ce primi
 #### unPi și nu un calculator la mâna a doua?
 
 Răspuns: oricine lucrează profesional cu calculatoarele îți poate spune cât de fragile sunt, și cât de complicat este să faci un soft care să meargă _exact_ la fel pe toate. [Configurația unPi](https://www.unpi.ro/spec/) ne permite să testăm ușor materialele pentru [cursul Go](https://go.unpi.ro/) și să ne asigurăm că totul va arăta la fel, la toți elevii. E _mult mai greu_ de făcut asta cu _diverse_ calculatoare la mâna a doua.
+
+#### nu vorbești de vârsta celor din IT?
+
+Răspuns: Da, nu este totul roz in IT. Si nimeni nu-ți prea spune asta din timp. Dacă atunci când ești tanăr ești căutat precum pâinea caldă, pe masură ce înaintezi in vârstă (să zicem după 35 de ani), devine din ce în ce mai greu să-ți găsești o slujbă (bine plătită) in IT, dacă nu ai acumulat în timp cunoștiințe specifice (în IT, ori alte domenii, vezi monocultura de care am vorbit mai sus). Iar dacă nu ai o diploma în IT, trebuie să fii întradevăr foarte bun la ceea ce faci, să înveți și să te instruiești mereu in tehnologiile noi care apar.
