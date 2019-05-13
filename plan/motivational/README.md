@@ -1,6 +1,6 @@
-## motivaționale
+## recompense motivaționale
 
-#### cum participarea școlarului în proiectul unPi va necesita *multă muncă individuală* pentru a invăta și practica conceptele folosite în programare, plus a rezolva exercițiile temă, ne gândim să oferim și una din următoarele recompense _după 1 an_ de activitate, doar elevilor unPi cu rezultate și implicare _excepționale_:
+#### cum participarea școlarului în proiectul unPi va necesita **multă muncă individuală** pentru a invăta și practica conceptele folosite în programare, plus a rezolva exercițiile temă, ne gândim să oferim și una din următoarele recompense _după 1 an_ de activitate, doar elevilor unPi cu rezultate și implicare _excepționale_:
 
 ##### _(inițial recompensele sunt doar pentru prima serie de donații, seriile următoare vor primi recompense doar dacă reușim să atragem donații pentru ele)_
 
