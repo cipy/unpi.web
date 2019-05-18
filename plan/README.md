@@ -9,7 +9,12 @@
 
 #### Tehnice
 
-- lucrează la paginile de prezentare a conceptului unPi
+- lucrează la paginile de prezentare a conceptului unPi plus ONG
 - lucrează la infrastructura unPi și automatizarea ei
 - testează unPi în [configurația planificată](https://www.unpi.ro/spec/), plus RPi 1 B+ când timpul permite
 - creează o nouă lecție Golang la fiecare 2 săptămani
+
+#### Vancanțe
+
+- de la 12 iulie 2019 până la 30 iulie 2019
+- de la 20 decembrie 2019 până la 7 ianuarie 2020
