@@ -6,7 +6,7 @@
 
 1. BS din Thailanda, Bangkok a virat
 2. CM din Finlanda, Helsinki a promis
-3. DD din Finlanda, Helsinki a promis
+3. DD din Finlanda, Helsinki a virat
 4. LL din Germania, Berlin a promis
 5. SS din Germania, Munchen a virat
 6. PS din Norvegia, Oslo a promis
