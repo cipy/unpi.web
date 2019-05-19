@@ -6,15 +6,15 @@
 
 ---
 
-1. [modem 3G](https://www.amazon.de/gp/product/B00L64LSWS/) pentru școlarii care vor să-și minimizeze cheltuielile cu Internetul (necesită o [cartela GSM prepaid pentru date](https://www.digiromania.ro/servicii/telefonie-mobila/cartela-digi/optiune-2-euro-3-luni-diva)/Internet, achizionată separat)
+1. [modem 3G USB](https://www.amazon.de/gp/product/B00L64LSWS/) pentru școlarii care vor să-și minimizeze cheltuielile cu Internetul (necesită o [cartela GSM prepaid pentru date](https://www.digiromania.ro/servicii/telefonie-mobila/cartela-digi/optiune-2-euro-3-luni-diva)/Internet, achizionată separat)
 
-![Huawei 3G modem](modem.jpg)
+![Huawei 3G modem](modem.jpg) ![Huawei 3G modem](modem3Gusb.jpg)
 
 ---
 
 2. radio programabil pentru unPi care [poate detecta avioanele](https://www.amazon.de/gp/product/B00VZ1AWQA/) ce zboară deasupra casei tale (trebuie să-i ții antena aproape de fereastră)
 
-![NooElec Mini 2](radio.jpg)
+![NooElec Mini 2](radio.jpg) ![NooElec Mini 2 antena](antena.jpg)
 
 ---
 
@@ -26,10 +26,10 @@
 
 4. display/[ecran foarte mic](https://www.amazon.de/gp/product/B06X191RX7/) pentru unPi
 
-![3.5 inch screen](ecran.jpg)
+![3.5 inch screen](ecran.jpg) ![3.5 inch screen back](ecranspate.jpg)
 
 ---
 
 5. procesor [Micro Bit](https://www.amazon.de/gp/product/B01G8X7VM2/) pentru programatori adevarați (în devenire)
 
-![Micro Bit](mibit.jpg)
+![Micro Bit](mibit.jpg) ![Micro Bit leds](mibitlove.jpg)
