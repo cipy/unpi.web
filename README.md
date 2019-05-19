@@ -8,7 +8,7 @@ Sunt [ITist](https://vimeo.com/327468799) și am văzut acum ceva vreme un fost 
 
 Cum prețurile au scăzut mult de atunci, dar problema a rămas în esență aceeași (_nu toți/mulți copii în România își permit un calculator personal_), lansez proiectul [unPi](https://www.unpi.ro/) pentru a dona un Raspberry Pi 3 B+/recent (botezat acum de mine: _unPi_) copiilor (cu prioritate către cei defavorizați) din România.
 
-Deci **unPi** este un mic calculator personal, _nou_, cu care poți invăța să programezi. Te ajutăm noi!
+Deci **unPi** este un [mic calculator personal](http://pc.unpi.ro/), _nou_, cu care poți invăța să programezi. Te ajutăm noi!
 
 Eu mă angajez să [donez](http://donez.unpi.ro/) câte unPi pe an și să pregătesc materiale (text, ulterior video? în licență publică, gratis) pentru un [curs în limbajul de programare Go](http://go.unpi.ro/) pentru copii, în limba română.
 
