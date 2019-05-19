@@ -8,7 +8,7 @@
 
 1. [modem 3G USB](https://www.amazon.de/gp/product/B00L64LSWS/) pentru școlarii care vor să-și minimizeze cheltuielile cu Internetul (necesită o [cartela GSM prepaid pentru date](https://www.digiromania.ro/servicii/telefonie-mobila/cartela-digi/optiune-2-euro-3-luni-diva)/Internet, achizionată separat)
 
-![Huawei 3G modem](modem.jpg) ![Huawei 3G modem](modem3Gusb.jpg)
+![Huawei 3G modem](modem3Gusb.jpg)
 
 ---
 
@@ -32,4 +32,4 @@
 
 5. procesor [Micro Bit](https://www.amazon.de/gp/product/B01G8X7VM2/) pentru programatori adevarați (în devenire)
 
-![Micro Bit](mibit.jpg) ![Micro Bit leds](mibitlove.jpg)
+![Micro Bit leds](mibitlove.jpg)
