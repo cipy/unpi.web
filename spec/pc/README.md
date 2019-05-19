@@ -2,16 +2,16 @@
 
 > unPi este un [mic calculator personal](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) (cât să-ți încapă într-o palmă), nou, care se conectează direct la TV pe portul HDMI. Primești de asemenea o tastatură US cu trackpad incorporat și un cablu de rețea profesional. Vezi mai jos.
 
-#### Cum arată calculatorul tău unPi după ce-l despachetezi
+### Cum arată calculatorul tău unPi după ce-l despachetezi
 
 ![Raspberry Pi 3B+ kit original](componente.jpg)
 
-#### Cum arată calculatorul tău unPi după ce-l asamblezi
+### Cum arată calculatorul tău unPi după ce-l asamblezi
 
 ![Raspberry Pi 3B+ kit asamblat](asamblat.jpg)
 ![Raspberry Pi 3B+ kit final](final.jpg)
 
-#### Ce conține în interior calculatorul tău personal unPi
+### Ce conține în interior calculatorul tău personal unPi
 
 ![Raspberry Pi 3B+ placa de bază](pi3board.jpg)
 
@@ -29,6 +29,6 @@
 11. 4x port(uri) seriale USB 2.0 (pentru [diverse](http://plus.unpi.ro/) accesorii USB)
 12. suport [PoE](https://en.wikipedia.org/wiki/Power_over_Ethernet) (necesită [PoE HAT](https://www.raspberrypi.org/products/poe-hat/), achiziționată separat)
 
-#### Cum arată [tastatura US cu trackpad incorporat](https://www.amazon.de/gp/product/B07HG5Q851/) pentru [unPi](https://www.unpi.ro/)
+### Cum arată [tastatura US cu trackpad incorporat](https://www.amazon.de/gp/product/B07HG5Q851/) pentru [unPi](https://www.unpi.ro/)
 
 ![tastatura unPi](tastatura.jpg) ![trackpad de la tastatura unPi](trackpad.jpg)
