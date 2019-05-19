@@ -29,6 +29,6 @@
 11. 4x port(uri) seriale USB 2.0 (pentru [diverse](http://plus.unpi.ro/) accesorii USB)
 12. suport [PoE](https://en.wikipedia.org/wiki/Power_over_Ethernet) (necesită [PoE HAT](https://www.raspberrypi.org/products/poe-hat/), achiziționată separat)
 
-#### Cum arată tastatura US cu trackpad incorporat pentru [unPi](https://www.unpi.ro/)
+#### Cum arată [tastatura US cu trackpad incorporat](https://www.amazon.de/gp/product/B07HG5Q851/) pentru [unPi](https://www.unpi.ro/)
 
 ![tastatura unPi](tastatura.jpg) ![trackpad de la tastatura unPi](trackpad.jpg)
