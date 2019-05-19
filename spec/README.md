@@ -1,4 +1,4 @@
-#### Specificația pentru unPi, software și hardware
+#### Specificația pentru [calculatorul personal](http://pc.unpi.ro/) unPi, software și hardware
 
 ###### Trebuie să primești de la [unPi](https://www.unpi.ro/), să cumperi, or să ai deja următoarele:
 
