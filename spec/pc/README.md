@@ -15,7 +15,6 @@
 
 ![Raspberry Pi 3B+ placa de bază](pi3board.jpg)
 
-0. (nu este arătată mai sus) memorie 1GB LPDDR2 SDRAM
 1. port [extensii electronice](https://www.adafruit.com/categories/405) GPIO cu 40 de pini
 2. antenă wireless 2.4 & 5GHz 802.11.b/g/n/ac și BLE 4.2
 3. [controller DSI pentru ecran digital cu sensor touch](https://www.adafruit.com/categories/804)
@@ -28,6 +27,7 @@
 10. [port Ethernet / RJ45](https://www.amazon.de/gp/product/B00QV1F19C/) (viteză maximă totală 300 Mbps)
 11. 4x port(uri) seriale USB 2.0 (pentru [diverse](http://plus.unpi.ro/) accesorii USB)
 12. suport [PoE](https://en.wikipedia.org/wiki/Power_over_Ethernet) (necesită [PoE HAT](https://www.raspberrypi.org/products/poe-hat/), achiziționată separat)
+13. (nu este arătată mai sus) memorie 1GB LPDDR2 SDRAM
 
 ### Cum arată [tastatura US cu trackpad incorporat](https://www.amazon.de/gp/product/B07HG5Q851/) pentru [unPi](https://www.unpi.ro/)
 
