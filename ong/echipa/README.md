@@ -2,6 +2,8 @@
 
 ![Ciprian Manea](cm.png) ![Andrei Manea](am.png) ![Nicolae Manea](nm.png)
 
+### Statut: numele "Asociația unPi pentru Școlari" a fost rezervat
+
 ### Contacte
 
 - dacă vrei să donezi, cu noi ori prin intermediul nostru, vezi pagina noastră [donez](http://donez.unpi.ro/)
