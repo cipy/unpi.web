@@ -4,7 +4,7 @@
 
 Sper că ești bine,
 
-Sunt [ITist](https://vimeo.com/327468799) și am văzut acum ceva vreme un fost coleg de facultate postând o poză cu primul lui [HC'85](https://duckduckgo.com/?q=hc+85+calculator+romanesc&iax=images&ia=images&iaf=type%3Aphoto-photo), ceea ce mi-a adus aminte cât de norocoși am fost unii dintre noi să primim (de la părinți, rude?) un calculator personal în anii '90.
+Sunt IT-ist [(📺)](https://vimeo.com/327468799) și am văzut acum ceva vreme un fost coleg de facultate postând o poză cu primul lui [HC'85](https://duckduckgo.com/?q=hc+85+calculator+romanesc&iax=images&ia=images&iaf=type%3Aphoto-photo), ceea ce mi-a adus aminte cât de norocoși am fost unii dintre noi să primim (de la părinți, rude?) un calculator personal în anii '90.
 
 Cum prețurile au scăzut mult de atunci, dar problema a rămas în esență aceeași (_nu toți/mulți copii în România își permit un calculator personal_), lansez proiectul [unPi](https://www.unpi.ro/) pentru a dona un Raspberry Pi 3 B+/recent (botezat acum de mine: _unPi_) copiilor (cu prioritate către cei defavorizați) din România.
 
@@ -28,3 +28,4 @@ Vrei să contribui €? Contactează-ne [direct](mailto:donez@unpi.ro?subject=vr
 Numai bine, și mulțumim!
 
 Ciprian & co
+
