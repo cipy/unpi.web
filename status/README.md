@@ -20,6 +20,7 @@
 14. DM din Finlanda, Helsinki a virat
 15. SG din Australia, Melbourne a virat
 16. CB din Finlanda, Helsinki a virat
+17. RB din România, Bucuresti a virat
 
 
 ###### donatori (seria #2)
