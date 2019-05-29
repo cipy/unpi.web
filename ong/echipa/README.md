@@ -15,4 +15,4 @@
 
 #### Membri de Onoare (_permanenți_, doar inițialele numelui)
 
-BS DD LL SS PS RB MV AG CR SN SP DT DM SG CB (donatori, seria #1)
+BS DD LL SS PS RB MV AG CR SN SP DT DM SG CB RB (donatori, seria #1)
