@@ -12,15 +12,15 @@
 - capacitatea financiară, dorința și locația fizică pentru a se putea conecta la Internet cu o legătură _fixă_, cel puțin pentru un an
 
 ##### Pas 1. Instalează pe telefonul mobil Android:
-- aplicația Whatsapp pentru comunicare ulterioara cu unPi
-- aplicația Revolut pentru verificarea identității părinte/tutore-lui
-- _opțional_, aplicația Telegram (nu este tradusă încă în limba română)
+- aplicația [Whatsapp](https://whatsapp.com/dl) pentru comunicare ulterioara cu unPi
+- aplicația [Revolut](https://revolut.com/r/cipria2dd) pentru verificarea identității părinte/tutore-lui
+- _opțional_, aplicația [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger) (nu este tradusă încă în limba română)
 
 ##### Pas 2. Creează-ți propriul cont bancar în Revolut:
 - urmează te rog procesul lor, din aplicația mobila Revolut, pas cu pas
-- dacă instalezi aplicația Revolut folosind link-ul de mai sus, este posibil - dacă ești puțin norocos, să prinzi o promoție care iți va acorda și trimite cardul lor bancar, Visa Electron sau Mastercard, gratis, acasă
+- dacă instalezi aplicația Revolut folosind [acest link](https://revolut.com/r/cipria2dd), este posibil - dacă ești puțin norocos, să prinzi o promoție care iți va acorda și trimite cardul lor bancar, Visa Electron sau Mastercard, gratis, acasă
 - Revolut este o bancă nouă, licențiată, europeană
-- NU iți recomandăm să-ți păstrezi economiile în Revolut app
+- NU îți recomandăm să-ți păstrezi economiile în Revolut
 
 ##### Pas 3. Cesionare drepturi digitale prin această aplicație:
 - parintele/tutorele care aplică pentru unPi se obligă:
@@ -39,16 +39,16 @@
 - o poză cu portul liber HDMI al televizorului
 - **NU TRIMITE**: poze doar cu minori (singuri), ori cele din care se pot extrage informații personale, gen: numarul casei ori al blocului ori a scării, ori numele străzii pe care locuiești. Toate materialele digitale de la acest pas sunt procesate _automat_ și publicate pe Internet _automat_ în 20-30 minute după ce au fost recepționate. NU TRIMITE conținut ilegal ori ce nu îți apartine, sub nici o formă!
 
-##### Pas 9. Stergerea aplicației și a datelor aferente:
+##### Pas 9. Ștergerea aplicației tale și a datelor aferente:
 - doar la cererea expresă a parintelui / tutorelui care a aplicat _inițial_ se pot șterge din sistemele noastre materialele sale digitale
-- cererea se poate trimite **doar prin SMS** la numărul unPi de contact: +358406640059 (număr internațional, te va costa până la 0.15 EUR per SMS trimis), **doar** de pe numărul **mobil** al aplicantului **inițial**, și trebuie să conțină **doar** textul: "TE ROG STERGE _PAROLA_", unde _PAROLA_ este textul _secret_ primit la Pas 4.
-- aceste cereri pot fi prelucrate (de asemenea) _automat_
+- cererea se poate trimite **doar prin SMS** la numărul unPi de contact: +358406640059 (număr internațional, te va costa până la 0.15 EUR per SMS trimis), **doar** de pe numărul **mobil** al aplicantului **inițial**, și trebuie să conțină **doar** textul: "TE ROG STERGE _PAROLA_", unde _PAROLA_ este textul _secret_ primit la Pas 4., și NU se folosesc diacritice!
+- aceste cereri pot și vor fi în mare parte prelucrate _automat_
 - vei primi o confirmare prin SMS a cererii, pe numărul tău mobil (_doar_ dacă erai deja înscris în sistem)
-- **NU mai POTI** cere stergerea aplicației tale dacă ai primit [unPi](http://pc.unpi.ro/)
-- vom incerca stergerea materialelor tale digitale și de pe Internet, din paginile web pe care le deținem, dar acest lucru **nu este garantat** (Internetul nu este sub controlul nimănui, este o rețea publică, descentralizată; nu este ușor ori chiar posibil tehnic să ștergi odata ce ai publicat ceva; cel mai bine: nu publici!)
-- după **30 de zile** calendaristice de la primirea cererii tale de ștergere a aplicatiei, promitem să oprim orice proces intern al "Asociația unPi pentru Școlari" ce folosea numele tău legal complet ori materialele tale digitale, în vreun fel ori format
+- **NU mai POȚI** cere ștergerea aplicației tale dacă ai primit [unPi, calculator personal](http://pc.unpi.ro/) de la noi
+- vom încerca ștergerea materialelor tale digitale și de pe Internet, din paginile web pe care le deținem, dar acest lucru **nu este garantat** (Internetul nu este sub controlul nimănui, este o rețea publică, [descentralizată](https://dexonline.ro/definitie/descentralizat); nu este ușor ori chiar posibil tehnic să ștergi odata ce ai publicat ceva; cel mai bine: **nu publica!**)
+- după **30 de zile** calendaristice de la primirea cererii tale de ștergere a aplicației, promitem să oprim orice proces intern al "Asociația unPi pentru Școlari" ce folosea numele tău legal complet ori materialele tale digitale, în vreun fel ori format
 
 NOTA:
 - dacă ai întrebari pe parcusul procesului de aplicare, [scrie-ne](mailto:intrebari@unpi.ro)
 - dacă ai probleme de orice fel cu aplicația ta, scrie-ne la [probleme](mailto:probleme@unpi.ro)
-- nu se fac excepții de nici un fel. în caz că nu era clar deja.
+- NU se fac excepții de nici un fel, în caz că nu era clar deja.
