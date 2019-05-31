@@ -5,11 +5,11 @@
 ### Pentru a te califica, tu ori familia ta, trebuie să urmezi cu atenție, exactitate și strictețe **toți** pașii enumerați mai jos. **Toate** etapele sunt necesare și eliminatorii! Pentru o familie poate aplica doar unul dintre părinți, ori tutorele legal al copilului, o singură dată.
 
 ##### Pas 0. Cerințe minime pentru familia ce aplică:
-- sinceritate și corectitudine
+- sinceritate și corectitudine, vezi și [regulamentul](http://regulament.unpi.ro) nostru
 - curent electric în casă, plătit la zi
 - un televizor cu un port HDMI liber
 - părintele/tutorele care aplică să dețină un telefon mobil Android
-- capacitatea financiară, dorința și locația fizică pentru a se putea conecta la Internet cu o legătură _fixă_, cel puțin pentru un an
+- capacitatea financiară, dorința și locația fizică pentru a se putea conecta la Internet cu o legătură _fixă_, cel puțin pentru un an (**doar** pentru prima serie de donații, [acum suntem la seria #1, **prima**], _poți primi 15 RON pe luna, timp de un an_, de la noi, drept suport material, _dacă_ iți faci un **contract nou** de Internet _fix_ după ce ai fost nominalizat ca beneficiar unPi; pentru seriile următoare [avem nevoie de mai mulți donatori](http://donez.unpi.ro/))
 
 ##### Pas 1. Instalează pe telefonul mobil Android:
 - aplicația [Whatsapp](https://whatsapp.com/dl) pentru comunicare ulterioara cu unPi
@@ -17,22 +17,32 @@
 - _opțional_, aplicația [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger) (nu este tradusă încă în limba română)
 
 ##### Pas 2. Creează-ți propriul cont bancar în Revolut:
-- urmează te rog procesul lor, din aplicația mobila Revolut, pas cu pas
+- urmează te rog procesul lor, din aplicația mobilă Revolut, pas cu pas, până la sfârșit!
+- **așteaptă** te rog ca cei de la Revolut să-ți valideze actele de identitate și să-ți deschidă contul bancar
 - dacă instalezi aplicația Revolut folosind [acest link](https://revolut.com/r/cipria2dd), este posibil - dacă ești puțin norocos, să prinzi o promoție care iți va acorda și trimite cardul lor bancar, Visa Electron sau Mastercard, gratis, acasă
+- **doar** în aplicația / contul tău bancar Revolut poți/vei primi cei 15 RON pe lună menționați la Pas 0.
 - Revolut este o bancă nouă, licențiată, europeană
 - NU îți recomandăm să-ți păstrezi economiile în Revolut
 
 ##### Pas 3. Cesionare drepturi digitale prin această aplicație:
-- parintele/tutorele care aplică pentru unPi se obligă:
+- parintele/tutorele care **acum** aplică pentru unPi **se obligă**:
 - să [cesioneze](https://dexonline.ro/definitie/cesiona) către "Asociația unPi pentru Școlari" toate drepturile sale asupra materialelor digitale ce sunt necesare și fac parte din aplicația sa la unPi: poze personale, filme scurte, texte, descrieri, alte documente digitale
 - să acorde dreptul de publicare pe Internet a numelui sau legal complet (prenume, nume de familie) catre "Asociația unPi pentru Școlari" și reprezentanții săi legali
 - să se oprească aici din procesul de aplicare la [unPi](https://www.unpi.ro/), dacă nu este de acord cu vreuna din condițiile enunțate mai sus, ori cele ce urmează
 
 ##### Pas 4. Verifică-te prin Revolut la proiectul unPi:
-- (_momentan in lucru_)
+- trimite un **SMS** la [numărul unPi de contact](tel:+358406640059) +358406640059 cu textul "APLIC Prenume Nume"
+- textul tău _trebuie_ să fie fără diacritice, fără ghilimelele din exemplu. include și nume mijlociu în el dacă ai
+- număr nostru [mobil](tel:+358406640059) este internațional, te va costa până la 0.15 EUR per SMS trimis
+- **dacă** ai urmat cu atenție instucțiunile de la Pas 2., vei primi în curând 1 HUF (1 forint maghiar) în Revolut
+- deschide aplicația Revolut, caută și deschide în ea tranzacția de 1 HUF (va apare marcată ca **+ Ft1**); în interiorul tranzacției vei putea observa urmatorul mesaj: "vreau+PAROLA@unpi.ro este adresa corecta unde poti sa aplici"
+- PAROLA este un grup de 6 caractere (_doar_ litere mari și cifre) pe care trebuie să le memorezi și folosești mai departe (de exemplu la Pas 5.)
+- NU spune nimănui PAROLA ta! este personală, unică pentru fiecare aplicant în parte
+- dacă uiți PAROLA, ne poți trimite iar un SMS (vezi Pas 4.); _dar nu ne trimite email!_
+- dacă ai urmat Pas 2. dar nu ai primit 1 HUF în 1-5 minute după ce ai trimis SMS, scrie-ne la [probleme](mailto:probleme@unpi.ro)
 
-##### Pas 5. Trimite, prin email, la adresa primită la Pas 3.:
-- o poză de familie, în care apare și școlarul de 10+ ani
+##### Pas 5. Trimite, prin **email**, la adresa primită la Pas 4.:
+- o poză de familie, în care apare și școlarul/școlarița de 10+ ani
 - o poză din casă/sufragerie, cu sau fără persoane (adulte)
 - o poză din lateral ori spate a casei/blocului unde locuiți
 - o poză cu televizorul vostru, de aproape
@@ -52,3 +62,4 @@ NOTA:
 - dacă ai întrebari pe parcusul procesului de aplicare, [scrie-ne](mailto:intrebari@unpi.ro)
 - dacă ai probleme de orice fel cu aplicația ta, scrie-ne la [probleme](mailto:probleme@unpi.ro)
 - NU se fac excepții de nici un fel, în caz că nu era clar deja.
+- dacă nu ai încă Internet pe telefonul mobil (Android), ai putea să-ți activezi opțiunea asta de la operatorul tău telecom, ori să-ți cumperi temporar, doar pentru perioada cât aplici la [unPi](https://www.unpi.ro/), o [cartela preplătită de date](https://www.digiromania.ro/servicii/telefonie-mobila/cartela-digi)/Internet; problema va apare cu vechiul tău număr mobil, pe care va trebui să-l redirectezi către noua cartelă, cel puțin temporar.
