@@ -49,6 +49,14 @@
 - o poză cu portul liber HDMI al televizorului
 - **NU TRIMITE**: poze doar cu minori (singuri), ori cele din care se pot extrage informații personale, gen: numarul casei ori al blocului ori a scării, ori numele străzii pe care locuiești. Toate materialele digitale de la acest pas sunt procesate _automat_ și publicate pe Internet _automat_ în 20-30 minute după ce au fost recepționate. NU TRIMITE conținut ilegal ori ce nu îți apartine, sub nici o formă!
 
+##### Pas 6. Aplicația ta apare online, pe GitHub, la [cer.unpi.ro](https://cer.unpi.ro/)
+- imediat după ce ai trimis SMS (Pas 4.) poți vedea aplicația ta la aplicatia.unpi.ro/prenume-nume/prenume-nume
+- înlocuiește _prenume-nume_ în exemplul de mai sus, de 2 ori, cu numele tău legal (_doar în litere mici_), vezi Pas 4.
+- materialele trimise pe email (la vreau+_PAROLA_@unpi.ro, vezi Pas 5.) vor apare mai târziu, după 20-30 de minute 
+- trimite-ți prietenii, rudele, cunoștiințele să [voteze online pentru tine](http://votez.unpi.ro) la votez.unpi.ro
+- **așteaptă** procesul de selecție. dacă colectezi voturi multe, _[legitime](https://dexonline.ro/definitie/legitim)_, vei fi contactat pe mobil/Whatsapp/Telegram
+- acum e timpul să adaugi [contactele noastre](http://ong.unpi.ro/) în agenda ta și să ne urmarești în online 🤓
+
 ##### Pas 9. Ștergerea aplicației tale și a datelor aferente:
 - doar la cererea expresă a parintelui / tutorelui care a aplicat _inițial_ se pot șterge din sistemele noastre materialele sale digitale
 - cererea se poate trimite **doar prin SMS** la numărul unPi de contact: +358406640059 (număr internațional, te va costa până la 0.15 EUR per SMS trimis), **doar** de pe numărul **mobil** al aplicantului **inițial**, și trebuie să conțină **doar** textul: "TE ROG STERGE _PAROLA_", unde _PAROLA_ este textul _secret_ primit la Pas 4., și NU se folosesc diacritice!
