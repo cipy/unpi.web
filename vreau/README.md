@@ -20,7 +20,7 @@
 - urmează te rog procesul lor, din aplicația mobilă Revolut, pas cu pas, până la sfârșit!
 - **așteaptă** te rog ca cei de la Revolut să-ți valideze actele de identitate și să-ți deschidă contul bancar
 - dacă instalezi aplicația Revolut folosind [acest link](https://revolut.com/r/cipria2dd), este posibil - dacă ești puțin norocos, să prinzi o promoție care iți va acorda și trimite cardul lor bancar, Visa Electron sau Mastercard, gratis, acasă
-- **doar** în aplicația / contul tău bancar Revolut poți/vei primi cei 15 RON pe lună menționați la Pas 0.
+- **doar** în contul tău bancar din Revolut poți/vei primi cei 15 RON pe lună menționați la Pas 0.
 - Revolut este o bancă nouă, licențiată, europeană
 - NU îți recomandăm să-ți păstrezi economiile în Revolut
 
