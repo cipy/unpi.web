@@ -12,8 +12,8 @@
 - capacitatea financiară, dorința și locația fizică pentru a se putea conecta la Internet cu o legătură _fixă_, cel puțin pentru un an (**doar** pentru prima serie de donații, [acum suntem la seria #1, **prima**], _poți primi 15 RON pe luna, timp de un an_, de la noi, drept suport material, _dacă_ iți faci un **contract nou** de Internet _fix_ după ce ai fost nominalizat ca beneficiar unPi; pentru seriile următoare [avem nevoie de mai mulți donatori](http://donez.unpi.ro/))
 
 ##### Pas 1. Instalează pe telefonul mobil Android:
-- aplicația [Whatsapp](https://whatsapp.com/dl) pentru comunicare ulterioara cu unPi
-- aplicația [Revolut](https://revolut.com/r/cipria2dd) pentru verificarea identității părinte/tutore-lui
+- aplicația [Whatsapp](https://whatsapp.com/dl) pentru comunicare ulterioară cu Asociația unPi pentru Școlari
+- aplicația [Revolut](https://revolut.com/r/cipria2dd) (folosește acest link) pentru verificarea identității părinte/tutore-lui
 - _opțional_, aplicația [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger) (nu este tradusă încă în limba română)
 
 ##### Pas 2. Creează-ți propriul cont bancar în Revolut:
