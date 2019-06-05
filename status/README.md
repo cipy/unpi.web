@@ -12,15 +12,16 @@
 6. PS din Norvegia, Oslo a promis
 7. RB din Statele Unite, San Francisco a virat
 8. MV din Canada, Montreal a virat
-9. AG din România, Bucuresti a virat
+9. AG din România, București a virat
 10. CR din Germania, Nurnberg a virat
 11. SN din Olanda, Amsterdam a virat
-12. SP din România, Bucuresti a virat
-13. DT din România, Bucuresti a virat
+12. SP din România, București a virat
+13. DT din România, București a virat
 14. DM din Finlanda, Helsinki a virat
 15. SG din Australia, Melbourne a virat
 16. CB din Finlanda, Helsinki a virat
-17. RB din România, Bucuresti a virat
+17. RB din România, București a virat
+18. CO din România, Prahova a promis
 
 
 ###### donatori (seria #2)
