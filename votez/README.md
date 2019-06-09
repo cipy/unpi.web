@@ -4,7 +4,7 @@
 
 #### Trebuie doar să știi **numele legal**, complet al beneficiarului.
 
-##### un nume legal, **corect** este de forma Prenume Nume, **doar** cu primele litere capitalizate! ca sursă de inspirație, poti vedea toți aplicanții pentru [unPi](http://pc.unpi.ro/) în pagina noastră ce înregistrează [cererea](https://github.com/cipy/unpi.cererea/pulls); cu mențiunea că atunci când îi votezi trebuie să-i identifici cu "Prenume Nume" (cu _spațiu_ ca separator și _fără_ ghilimele!)
+#### un nume legal, **corect** este de forma Prenume Nume, **doar** cu primele litere capitalizate! ca sursă de inspirație, poti vedea toți aplicanții pentru [unPi](http://pc.unpi.ro/) în pagina noastră ce înregistrează [cererea](https://github.com/cipy/unpi.cererea/pulls); cu mențiunea că atunci când îi votezi trebuie să-i identifici cu "Prenume Nume" (cu _spațiu_ ca separator și _fără_ ghilimele!)
 
 #### **Te rugăm** să votezi **maxim o singură dată** per aplicant unPi!
 
