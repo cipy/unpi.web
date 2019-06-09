@@ -25,4 +25,4 @@
 
 ##### Voturile cu cont Github au greutate / importanță mai mare decât cele prin email, dar NU trișa ori folosi un emoticon care nu reprezintă experiența ta pe Github! Altfel, contul tău Github va fi blocat în toate repository-urile noastre!
 
-#### Importanță, vot prin email: 1, 👍🏻: 2, ❤️: 5, 🚀: 10
+#### Importanță, ori puncte acordate pentru vot prin email: 1, 👍🏻: 2, ❤️: 5, 🚀: 10
