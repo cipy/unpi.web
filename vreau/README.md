@@ -52,7 +52,7 @@
 ##### Pas 6. Aplicația ta apare online, pe GitHub, la [cererea.unpi.ro](https://cererea.unpi.ro/)
 - imediat după ce ai trimis SMS (Pas 4.) poți vedea aplicația ta la http://cer.unpi.ro/prenume-nume/
 - înlocuiește _prenume_ și _nume_ în exemplul de mai sus, cu numele tău legal, _folosit_ la Pas 2. și 4.
-- materialele trimise pe email (la vreau+_PAROLA_@unpi.ro, vezi Pas 5.) vor apare mai târziu, după 20-30 de minute 
+- materialele trimise pe email (la vreau+_PAROLA_@unpi.ro, vezi Pas 5.) vor apare mai târziu, după 20-30 de minute; _nu uita_ mai sus de caracterul **-** în http://cer.unpi.ro/prenume-nume/ ca separator între _prenume_ și _nume_
 - trimite-ți prietenii, rudele, cunoștiințele să [voteze online pentru tine](http://votez.unpi.ro) la votez.unpi.ro
 - **așteaptă** procesul de selecție. dacă colectezi voturi multe, _[legitime](https://dexonline.ro/definitie/legitim)_, vei fi contactat pe mobil/Whatsapp/Telegram
 - acum e timpul să adaugi [contactele noastre](http://ong.unpi.ro/) în agenda ta și să ne urmarești în online 🤓
