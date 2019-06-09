@@ -14,7 +14,7 @@ Răspuns: nu insistăm pe [monocultură](https://dexonline.ro/definitie/monocult
 
 #### tu/autorul?
 
-Răspuns: eu am avut scânteia/ideea inițială, dar oricine poate acum [să doneze](https://www.unpi.ro/donez/), ori să corecteze textele [unPi.ro](https://www.unpi.ro/), ori să contribuie la [cursul Golang în limba romană](https://go.unpi.ro/), ori să creeze alte cursuri pentru proiectul unPi.
+Răspuns: eu am avut scânteia/ideea inițială, dar oricine poate acum [să doneze](https://www.unpi.ro/donez/), ori să corecteze textele [unPi.ro](https://www.unpi.ro/), ori să contribuie la [cursul Golang în limba română](https://go.unpi.ro/), ori să creeze alte cursuri pentru proiectul unPi.
 
 #### noi/beneficiarul?
 
@@ -28,10 +28,10 @@ Răspuns: conceptele în programare, chiar explicate la nivelul unui copil, nu s
 
 Răspuns: prioritatea este pentru copiii defavorizați, dar pe măsură ce primim noi donații vom putea extinde aplicabilitatea și la alte vârste. Indiferent de vârstă, dacă vrei să primești [unPi](https://www.unpi.ro/), trebuie să te angajezi că respecți cu strictețe [regulamentul](https://www.unpi.ro/regulament/). Părinții care își permit să cumpere un calculator în [configurația unPi](https://www.unpi.ro/spec/) vor putea urma cursurile unPi în mod [privat](https://www.unpi.ro/privat/).
 
-#### unPi și nu un calculator la mâna a doua?
-
-Răspuns: oricine lucrează profesional cu calculatoarele îți poate spune cât de fragile sunt, și cât de complicat este să faci un soft care să meargă _exact_ la fel pe toate. [Configurația unPi](https://www.unpi.ro/spec/) ne permite să testăm ușor materialele pentru [cursul Go](https://go.unpi.ro/) și să ne asigurăm că totul va arăta la fel, la toți elevii. E _mult mai greu_ de făcut asta cu _diverse_ calculatoare la mâna a doua.
-
 #### nu vorbești de vârsta celor din IT?
 
-Răspuns: Da, nu este totul roz in IT. Si nimeni nu-ți prea spune asta din timp. Dacă atunci când ești tanăr ești căutat precum pâinea caldă, pe masură ce înaintezi in vârstă (să zicem după 35 de ani), devine din ce în ce mai greu să-ți găsești o slujbă (bine plătită) in IT, dacă nu ai acumulat în timp cunoștiințe specifice (în IT, ori alte domenii, vezi monocultura de care am vorbit mai sus). Iar dacă nu ai o diploma în IT, trebuie să fii întradevăr foarte bun la ceea ce faci, să înveți și să te instruiești mereu in tehnologiile noi care apar.
+Răspuns: Da, nu este totul roz în IT. Și nimeni nu-ți prea spune asta din timp. Dacă atunci când ești tanăr ești căutat precum pâinea caldă, pe masură ce înaintezi în vârstă (să zicem după 35 de ani), devine din ce în ce mai greu să-ți găsești o slujbă (bine plătită) în IT, dacă nu ai acumulat în timp cunoștiințe specifice (în IT, ori alte domenii, vezi monocultura de care am vorbit mai sus). Iar dacă nu ai o diploma în IT, trebuie să fii întradevăr foarte bun la ceea ce faci, să înveți și să te instruiești mereu in tehnologiile noi care apar.
+
+#### unPi și nu un calculator la mâna a doua?
+
+Răspuns: oricine lucrează profesional cu calculatoarele îți poate spune cât de fragile sunt, și cât de complicat este să faci un soft ori program care să meargă _exact_ la fel pe toate. [Configurația unPi](https://www.unpi.ro/spec/) ne permite să testăm ușor materialele pentru [cursul Go](https://go.unpi.ro/) și să ne asigurăm că totul va arăta la fel, la toți elevii. E _mult mai greu_ de făcut asta cu _diverse_ calculatoare la mâna a doua.
