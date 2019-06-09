@@ -35,7 +35,7 @@
 - textul tău _trebuie_ să fie fără diacritice, fără ghilimelele din exemplu. iar numele tău legal _identic_ cu Pas 2.
 - număr nostru [mobil](tel:+358406640059) este internațional, te va costa până la 0.15 EUR per SMS trimis
 - **dacă** ai urmat cu atenție instucțiunile de la Pas 2., vei primi în curând 1 [HUF](https://ro.wikipedia.org/wiki/Forint) în Revolut
-- deschide aplicația Revolut, caută și deschide în ea [tranzacția de 1 HUF](huf.jpg) (1 forint maghiar, va apare marcată ca **+ Ft1**); în interiorul tranzacției vei putea observa urmatorul mesaj: "vreau+PAROLA@unpi.ro este adresa corecta unde poti sa aplici"
+- deschide aplicația Revolut, caută și deschide în ea [tranzacția de 1 HUF](huf.jpg) (1 forint maghiar, va apare marcată ca **+ Ft1**); în interiorul tranzacției vei putea observa următorul mesaj: "vreau+PAROLA@unpi.ro este adresa corecta unde poti sa aplici"
 - PAROLA este un grup de 6 caractere (_doar_ litere mari și cifre) pe care trebuie să le memorezi și folosești mai departe (de exemplu la Pas 5.)
 - NU spune nimănui PAROLA ta! este personală, unică pentru fiecare aplicant în parte
 - dacă uiți PAROLA, ne poți trimite iar un SMS (vezi Pas 4.); _dar nu ne trimite email!_
@@ -50,8 +50,8 @@
 - **NU TRIMITE**: poze doar cu minori (singuri), ori cele din care se pot extrage informații personale, gen: numarul casei ori al blocului ori a scării, ori numele străzii pe care locuiești. Toate materialele digitale de la acest pas sunt procesate _automat_ și publicate pe Internet _automat_ în 20-30 minute după ce au fost recepționate. NU TRIMITE conținut ilegal ori ce nu îți apartine, sub nici o formă!
 
 ##### Pas 6. Aplicația ta apare online, pe GitHub, la [cererea.unpi.ro](https://cererea.unpi.ro/)
-- imediat după ce ai trimis SMS (Pas 4.) poți vedea aplicația ta la cer.unpi.ro/prenume-nume/
-- înlocuiește _prenume-nume_ în exemplul de mai sus, cu numele tău legal (_doar în litere mici_), vezi Pas 4.
+- imediat după ce ai trimis SMS (Pas 4.) poți vedea aplicația ta la http://cer.unpi.ro/prenume-nume/
+- înlocuiește _prenume-nume_ în exemplul de mai sus, cu numele tău legal _identic_ cu cel de la Pas 2. și Pas 4.
 - materialele trimise pe email (la vreau+_PAROLA_@unpi.ro, vezi Pas 5.) vor apare mai târziu, după 20-30 de minute 
 - trimite-ți prietenii, rudele, cunoștiințele să [voteze online pentru tine](http://votez.unpi.ro) la votez.unpi.ro
 - **așteaptă** procesul de selecție. dacă colectezi voturi multe, _[legitime](https://dexonline.ro/definitie/legitim)_, vei fi contactat pe mobil/Whatsapp/Telegram
