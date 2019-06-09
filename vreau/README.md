@@ -9,7 +9,7 @@
 - curent electric în casă, plătit la zi
 - un televizor cu un port HDMI liber
 - părintele/tutorele care aplică să dețină un telefon mobil Android
-- capacitatea financiară, dorința și locația fizică pentru a se putea conecta la Internet cu o legătură _fixă_, cel puțin pentru un an (**doar** pentru prima serie de donații, [acum suntem la seria #1, **prima**], _poți primi 15 RON pe luna, timp de un an_, de la noi, drept suport material, _dacă_ iți faci un **contract nou** de Internet _fix_ după ce ai fost nominalizat ca beneficiar unPi; pentru seriile următoare [avem nevoie de mai mulți donatori](http://donez.unpi.ro/))
+- capacitatea financiară, dorința și locația fizică pentru a se putea conecta la Internet cu o legătură _fixă_, cel puțin pentru un an (**doar** pentru prima serie de donații, [acum suntem la seria #1, **prima**], _poți primi 15 RON pe lună, timp de un an_, de la noi, drept suport material, _dacă_ iți faci un **contract nou** de Internet _fix_ după ce ai fost nominalizat ca beneficiar unPi; pentru seriile următoare [avem nevoie de mai mulți donatori](http://donez.unpi.ro/))
 
 ##### Pas 1. Instalează pe telefonul mobil Android:
 - aplicația [Whatsapp](https://whatsapp.com/dl) pentru comunicare ulterioară cu Asociația unPi pentru Școlari
@@ -51,7 +51,7 @@
 
 ##### Pas 6. Aplicația ta apare online, pe GitHub, la [cererea.unpi.ro](https://cererea.unpi.ro/)
 - imediat după ce ai trimis SMS (Pas 4.) poți vedea aplicația ta la http://cer.unpi.ro/prenume-nume/
-- înlocuiește _prenume-nume_ în exemplul de mai sus, cu numele tău legal _identic_ cu cel de la Pas 2. și Pas 4.
+- înlocuiește _prenume-nume_ în exemplul de mai sus, cu numele tău legal, _folosit_ la Pas 2. și Pas 4.
 - materialele trimise pe email (la vreau+_PAROLA_@unpi.ro, vezi Pas 5.) vor apare mai târziu, după 20-30 de minute 
 - trimite-ți prietenii, rudele, cunoștiințele să [voteze online pentru tine](http://votez.unpi.ro) la votez.unpi.ro
 - **așteaptă** procesul de selecție. dacă colectezi voturi multe, _[legitime](https://dexonline.ro/definitie/legitim)_, vei fi contactat pe mobil/Whatsapp/Telegram
