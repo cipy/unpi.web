@@ -33,11 +33,11 @@
 ##### Pas 4. Verifică-te prin Revolut la proiectul unPi:
 - trimite un **SMS** la [numărul unPi de contact](tel:+358406640059) +358406640059 cu textul "APLIC Prenume Nume"
 - textul tău _trebuie_ să fie fără diacritice, fără ghilimelele din exemplu. iar numele tău legal _identic_ cu Pas 2.
-- număr nostru [mobil](tel:+358406640059) este internațional, te va costa până la 0.15 EUR per SMS trimis
+- numărul nostru [mobil](tel:+358406640059) este internațional, te va costa până la 0.15 EUR per SMS trimis
 - **dacă** ai urmat cu atenție instucțiunile de la Pas 2., vei primi în curând 1 [HUF](https://ro.wikipedia.org/wiki/Forint) în Revolut
 - deschide aplicația Revolut, caută și deschide în ea [tranzacția de 1 HUF](huf.jpg) (1 forint maghiar, va apare marcată ca **+ Ft1**); în interiorul tranzacției vei putea observa următorul mesaj: "vreau+PAROLA@unpi.ro este adresa corecta unde poti sa aplici"
 - PAROLA este un grup de 6 caractere (_doar_ litere mari și cifre) pe care trebuie să le memorezi și folosești mai departe (de exemplu la Pas 5.)
-- NU spune nimănui PAROLA ta! este personală, unică pentru fiecare aplicant în parte
+- NU spune nimănui PAROLA ta! Este personală, unică pentru fiecare aplicant în parte.
 - dacă uiți PAROLA, ne poți trimite iar un SMS (vezi Pas 4.); _dar nu ne trimite email!_
 - dacă ai urmat Pas 2. dar nu ai primit 1 HUF în 1-5 minute după ce ai trimis SMS, scrie-ne la [probleme](mailto:probleme@unpi.ro)
 
