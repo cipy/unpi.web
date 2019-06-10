@@ -41,13 +41,14 @@
 - dacă uiți PAROLA, ne poți trimite iar un SMS (vezi Pas 4.); _dar nu ne trimite email!_
 - dacă ai urmat Pas 2. dar nu ai primit 1 HUF în 1-5 minute după ce ai trimis SMS, scrie-ne la [probleme](mailto:probleme@unpi.ro)
 
-##### Pas 5. Trimite, prin **email**, la adresa primită la Pas 4.:
+##### Pas 5. Trimite, prin **email**, la adresa vreau+PAROLA@unpi.ro primită la Pas 4.:
 - o poză de familie, în care apare și școlarul/școlarița de 10+ ani
 - o poză din casă/sufragerie/bucătărie, cu sau fără persoane (adulte)
 - o poză din lateral ori spate a casei/blocului unde locuiți
 - o poză cu televizorul vostru, de aproape (îl poți porni dacă nu vrei să apari în reflexie)
 - o poză cu portul liber HDMI al televizorului; vezi [exemplul](http://cer.unpi.ro/ciprian-manea) la cer.unpi.ro/ciprian-manea
 - un scurt text în email, opțional, cu descrierea ori motivația voastră ca familie
+- _te rog_ alege pentru fiecare email trimis un subiect al email-ului care să-l reprezinte
 - **NU TRIMITE**: poze doar cu minori (singuri), ori cele din care se pot extrage informații personale, gen: numarul casei ori al blocului ori a scării, ori numele străzii pe care locuiești. Toate materialele digitale de la acest pas sunt procesate _automat_ și publicate pe Internet _automat_ în 20-30 minute după ce au fost recepționate. NU TRIMITE conținut ilegal ori ce nu îți apartine, sub nici o formă!
 
 ##### Pas 6. Aplicația ta apare online, pe GitHub, la [cererea.unpi.ro](https://cererea.unpi.ro/)
