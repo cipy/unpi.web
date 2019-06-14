@@ -9,7 +9,7 @@
 3. DD din Finlanda, Helsinki a virat
 4. LL din Germania, Berlin a promis
 5. SS din Germania, Munchen a virat
-6. PS din Norvegia, Oslo a promis
+6. PS din Norvegia, Oslo a virat
 7. RB din Statele Unite, San Francisco a virat
 8. MV din Canada, Montreal a virat
 9. AG din România, București a virat
