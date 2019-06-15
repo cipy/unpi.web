@@ -62,9 +62,9 @@
 ##### Pas 9. Ștergerea aplicației tale și a datelor aferente:
 - doar la cererea expresă a parintelui / tutorelui care a aplicat _inițial_ se pot șterge din sistemele noastre materialele sale digitale
 - cererea se poate trimite **doar prin SMS** la numărul unPi de contact: +358406640059 (număr internațional, te va costa până la 0.15 EUR per SMS trimis), **doar** de pe numărul **mobil** al aplicantului **inițial**, și trebuie să conțină **doar** textul: "TE ROG STERGE _PAROLA_", unde _PAROLA_ este textul _secret_ primit la Pas 4., și NU se folosesc diacritice!
-- aceste cereri pot și vor fi în mare parte prelucrate _automat_
+- aceste cereri pot și vor fi în mare parte prelucrate _automat_ (de către un calculator)
 - vei primi o confirmare prin SMS a cererii, pe numărul tău mobil (_doar_ dacă erai deja înscris în sistem)
-- **NU mai POȚI** cere ștergerea aplicației tale dacă ai primit [unPi, calculator personal](http://pc.unpi.ro/) de la noi
+- **TE RUGĂM** NU cere ștergerea aplicației tale dacă ai primit [unPi, calculator personal](http://pc.unpi.ro/) de la noi
 - vom încerca ștergerea materialelor tale digitale și de pe Internet, din paginile web pe care le deținem, dar acest lucru **nu este garantat** (Internetul nu este sub controlul nimănui, este o rețea publică, [descentralizată](https://dexonline.ro/definitie/descentralizat); nu este ușor ori chiar posibil tehnic să ștergi odata ce ai publicat ceva; cel mai bine: **nu publica!**)
 - după **30 de zile** calendaristice de la primirea cererii tale de ștergere a aplicației, promitem să oprim orice proces intern al "Asociația unPi pentru Școlari" ce folosea numele tău legal complet ori materialele tale digitale, în vreun fel ori format
 
