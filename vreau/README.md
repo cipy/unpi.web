@@ -5,7 +5,7 @@
 ### Pentru a te califica, tu ori familia ta, trebuie să urmezi cu atenție, exactitate și strictețe **toți** pașii enumerați mai jos. **Toate** etapele sunt necesare și eliminatorii! Pentru o familie poate aplica doar unul dintre părinți, ori tutorele legal al copilului, o singură dată.
 
 ##### Pas 0. Cerințe minime pentru familia ce aplică:
-- sinceritate și corectitudine, vezi și [regulamentul](http://regulament.unpi.ro) nostru
+- sinceritate și corectitudine, vezi [regulamentul](http://regulament.unpi.ro) nostru și pagina [GDPR](http://gdpr.unpi.ro/)
 - curent electric în casă, plătit la zi
 - un televizor cu un port HDMI liber
 - părintele/tutorele care aplică să dețină un telefon mobil Android
@@ -28,7 +28,7 @@
 - parintele/tutorele care **acum** aplică pentru unPi **se obligă**:
 - să [cesioneze](https://dexonline.ro/definitie/cesiona) către "Asociația unPi pentru Școlari" toate drepturile sale asupra materialelor digitale ce sunt necesare și fac parte din aplicația sa la unPi: poze personale, filme scurte, texte, descrieri, alte documente digitale
 - să acorde dreptul de publicare pe Internet a numelui sau legal complet (prenume, nume de familie) catre "Asociația unPi pentru Școlari" și reprezentanții săi legali
-- să se oprească aici din procesul de aplicare la [unPi](https://www.unpi.ro/), dacă nu este de acord cu vreuna din condițiile enunțate mai sus, ori cele ce urmează
+- să se oprească aici din procesul de aplicare la [unPi](https://www.unpi.ro/), dacă nu este de acord cu vreuna din condițiile enunțate mai sus (vezi mai ales [regulamentul](http://regulament.unpi.ro/) și pagina [GDPR](http://gdpr.unpi.ro/), limitari tehnice), ori vreuna din condițiile ce urmează:
 
 ##### Pas 4. Verifică-te prin Revolut la proiectul unPi:
 - trimite un **SMS** la [numărul unPi de contact](tel:+358406640059) +358406640059 cu textul "APLIC Prenume Nume"
@@ -66,7 +66,7 @@
 - vei primi o confirmare prin SMS a cererii, pe numărul tău mobil (_doar_ dacă erai deja înscris în sistem)
 - **TE RUGĂM** NU cere ștergerea aplicației tale dacă ai primit [unPi, calculator personal](http://pc.unpi.ro/) de la noi
 - vom încerca ștergerea materialelor tale digitale și de pe Internet, din paginile web pe care le deținem, dar acest lucru **nu este garantat** (Internetul nu este sub controlul nimănui, este o rețea publică, [descentralizată](https://dexonline.ro/definitie/descentralizat); nu este ușor ori chiar posibil tehnic să ștergi odata ce ai publicat ceva; cel mai bine: **nu publica!**)
-- după **30 de zile** calendaristice de la primirea cererii tale de ștergere a aplicației, promitem să oprim orice proces intern al "Asociația unPi pentru Școlari" ce folosea numele tău legal complet ori materialele tale digitale, în vreun fel ori format
+- după **30 de zile** (calendaristice) de la primirea cererii de ștergere a aplicației tale la unPi, **promitem să oprim** orice proces extern al "Asociația unPi pentru Școlari" ce folosea numele tău legal complet ori materialele tale digitale, în vreun fel ori format
 
 NOTA:
 - dacă ai întrebari pe parcusul procesului de aplicare, [scrie-ne](mailto:intrebari@unpi.ro)
