@@ -24,6 +24,6 @@
 
 - email-urile tale către adresele pentru intrebari, probleme, presa @unpi.ro, inclusiv tichetele de suport/ajutor asociate, vor fi șterse în termen de 90 de zile de la data când ne ceri STERGErea lor.
 
-- **după 30 de zile** (calendaristice) de la primirea cererii de STERGEre a aplicației tale unPi, **promitem să oprim** orice proces extern al “Asociația unPi pentru Școlari” ce folosea numele tău legal complet ori materialele tale digitale, în vreun fel ori format.
+- **după 30 de zile** (calendaristice) de la primirea cererii de STERGEre a aplicației tale la unPi, **promitem să oprim** orice proces extern al “Asociația unPi pentru Școlari” ce folosea numele tău legal complet ori materialele tale digitale, în vreun fel ori format.
 
 #### MULȚUMIM!
