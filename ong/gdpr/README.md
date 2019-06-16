@@ -16,7 +16,7 @@
 
 - email-uri tale cu destinația vreau+PAROLA@unpi.ro sunt păstrate în Gmail (în USA) pentru până la 6 luni de zile de la data la care au fost recepționate. Dar pot fi șterse și dupa 90 de zile, în funcție de trafic.
 
-- atașamentele din email-urile tale către vreau+PAROLA@unpi.ro vor fi păstrate în Google Cloud (în USA), până primim [cererea ta prin SMS](http://vreau.unpi.ro/) de a le STERGE.
+- atașamentele din email-urile tale către vreau+PAROLA@unpi.ro vor fi păstrate în Google Cloud (în USA), până primim [cererea ta prin SMS](http://vreau.unpi.ro/#pas-9-ștergerea-aplicației-tale-și-a-datelor-aferente) de a le STERGE.
 
 - **vom încerca** (la cererea ta) STERGErea materialelor tale digitale **și din Github**, de pe pagina [cererea](https://cererea.unpi.ro/), ori alte pagini publicate pe [Github](https://github.com), dar acest lucru NU ÎL PUTEM GARANTA, datorita modului cum Github a fost gândit și construit să funcționeze.
 
