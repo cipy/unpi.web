@@ -1,4 +1,4 @@
-> vezi și: [vreau](https://www.unpi.ro/vreau/), [de ce](https://www.unpi.ro/dece/), [ce primești](https://vimeo.com/329034464), [asamblezi](https://vimeo.com/329035192), [conectezi](https://vimeo.com/329036345), [la TV](https://vimeo.com/329037141)
+> vezi și [vreau](https://www.unpi.ro/vreau/), [de ce](https://www.unpi.ro/dece/), [ce primești](https://vimeo.com/329034464), [asamblezi](https://vimeo.com/329035192), [conectezi](https://vimeo.com/329036345), [la TV](https://vimeo.com/329037141)
 
 ## Salut,
 
@@ -22,7 +22,7 @@ Vrei să contribui €? Contactează-ne [direct](mailto:donez@unpi.ro?subject=vr
 - Azi, transportul de la Amazon.de către România este sub €10
 
 
-#### P.S: inițiativa este privată momentan (dar am început demersurile pentru a crea o asociație ONG/non profit)
+#### P.S: inițiativa este privată momentan (dar am început demersurile pentru a crea o asociație [ONG](http://ong.unpi.ro/)/non profit)
 
 
 Numai bine, și mulțumim!
