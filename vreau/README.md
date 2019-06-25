@@ -13,13 +13,13 @@
 
 ##### Pas 1. Instalează pe telefonul mobil Android:
 - aplicația [Whatsapp](https://whatsapp.com/dl) pentru comunicare ulterioară cu Asociația unPi pentru Școlari
-- aplicația [Revolut](https://revolut.com/r/cipria2dd) (folosește acest link) pentru verificarea identității părinte/tutore-lui
+- aplicația [Revolut](https://revolut.com/referral/cipria2dd) (folosește [acest link](https://revolut.com/referral/cipria2dd)) pentru verificarea identității părinte/tutore-lui
 - _opțional_, aplicația [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger) (nu este tradusă încă în limba română)
 
 ##### Pas 2. Creează-ți propriul cont bancar în Revolut:
 - urmează te rog procesul lor, din aplicația mobilă Revolut, pas cu pas, până la sfârșit!
 - **așteaptă** te rog ca cei de la Revolut să-ți valideze actele de identitate și să-ți deschidă contul bancar
-- dacă instalezi aplicația Revolut folosind [acest link](https://revolut.com/r/cipria2dd), este posibil - dacă ești puțin norocos, să prinzi o promoție care iți va acorda și trimite cardul lor bancar, Visa Electron sau Mastercard, gratis, acasă
+- dacă instalezi aplicația Revolut folosind [acest link](https://revolut.com/referral/cipria2dd), este posibil - dacă ești puțin norocos, să prinzi o promoție care iți va acorda și trimite cardul lor bancar, Visa Electron sau Mastercard, gratis, acasă
 - **doar** în contul tău bancar din Revolut poți/vei primi cei 15 RON pe lună menționați la Pas 0.
 - Revolut este o bancă nouă, licențiată, europeană
 - NU îți recomandăm să-ți păstrezi economiile în Revolut
