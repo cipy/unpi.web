@@ -1,3 +1,12 @@
+<script src="https://wchat.freshchat.com/js/widget.js"></script>
+
+<script>
+  window.fcWidget.init({
+    token: "1dbeef16-76f2-47bc-bc8a-f848842e00d7",
+    host: "https://wchat.freshchat.com"
+  });
+</script>
+
 ## Eu cu cine votez?
 
 #### **Oricine poate vota online** pentru unul, ori mai mulți posibili beneficiari ai proiectului [unPi](https://www.unpi.ro/), folosind una din modalitățile de mai jos:
