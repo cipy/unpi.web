@@ -1,3 +1,12 @@
+<script src="https://wchat.freshchat.com/js/widget.js"></script>
+
+<script>
+  window.fcWidget.init({
+    token: "1dbeef16-76f2-47bc-bc8a-f848842e00d7",
+    host: "https://wchat.freshchat.com"
+  });
+</script>
+
 ## Secțiune pentru utilizatorii privați
 
 Oh, sunt un utilizator privat, interesantă inițiativa [unPi](https://www.unpi.ro/), dar nu vreau să donez or să contribui încă. Însă:
