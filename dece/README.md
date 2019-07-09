@@ -1,3 +1,12 @@
+<script src="https://wchat.freshchat.com/js/widget.js"></script>
+
+<script>
+  window.fcWidget.init({
+    token: "1dbeef16-76f2-47bc-bc8a-f848842e00d7",
+    host: "https://wchat.freshchat.com"
+  });
+</script>
+
 ## De ce?
 
 #### (or ce) vreți să faceți (cu) proiectul unPi.ro?
