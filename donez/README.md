@@ -1,3 +1,12 @@
+<script src="https://wchat.freshchat.com/js/widget.js"></script>
+
+<script>
+  window.fcWidget.init({
+    token: "1dbeef16-76f2-47bc-bc8a-f848842e00d7",
+    host: "https://wchat.freshchat.com"
+  });
+</script>
+
 ## Vreau să donez [unPi](https://www.unpi.ro/) unui copil defavorizat din România
 
 #### OK, m-ai convins, cum donez acum unPi?
