@@ -1,13 +1,6 @@
-<script src="https://wchat.freshchat.com/js/widget.js"></script>
-
-<script>
-  window.fcWidget.init({
-    token: "1dbeef16-76f2-47bc-bc8a-f848842e00d7",
-    host: "https://wchat.freshchat.com"
-  });
-</script>
-
 ## Vreau să primesc [unPi](https://www.unpi.ro/), [mic calculator personal](http://pc.unpi.ro/), nou
+
+### Acces Rapid: **doar** pentru familiile care au un copil ori membru al familiei cu cerințe educaționale speciale (CES); aplicația familiei tale și toată comunicația cu noi va ramâne confidențială. Continuă te rog la [vreau access rapid](https://start.unpi.ro/vreau/rapid/).
 
 #### NU **promitem** micul calculator personal _unPi_ decât familiilor în dificultate financiară ori socială, care au cel puțin un copil, **activ școlar**, în vârstă de _cel puțin 10 ani_. Potențialii beneficiari vor fi verificați temeinic. Te rog NU abuza de bunătatea noastră, a donatorilor noștri, ori de resursele și timpul nostru!
 
@@ -82,3 +75,12 @@ NOTA:
 - dacă ai probleme de orice fel cu aplicația ta, scrie-ne la [probleme](mailto:probleme@unpi.ro)
 - NU se fac excepții de nici un fel, în caz că nu era clar deja.
 - dacă nu ai încă Internet pe telefonul mobil (Android), ai putea să-ți activezi opțiunea asta de la operatorul tău telecom, ori să-ți cumperi temporar, doar pentru perioada cât aplici la [unPi](https://www.unpi.ro/), o [cartela preplătită de date](https://www.digiromania.ro/servicii/telefonie-mobila/cartela-digi)/Internet; problema va apare cu vechiul tău număr mobil, pe care va trebui să-l redirectezi către noua cartelă, cel puțin temporar.
+
+
+<script src="https://wchat.freshchat.com/js/widget.js"></script>
+<script>
+  window.fcWidget.init({
+    token: "1dbeef16-76f2-47bc-bc8a-f848842e00d7",
+    host: "https://wchat.freshchat.com"
+  });
+</script>
