@@ -14,7 +14,7 @@
 
 #### **Calificări?** [Ciprian](https://www.linkedin.com/in/ciprian-manea/) va invăța în ritm cu voi.
 
-#### **Cerințe?** Inițiază te rog contactul cu noi prin [email](mailto:rapid@unpi.ro?subject=Vreau%20unPi) sau [SMS](tel:+358406640059); vei avea nevoie să ne trimiți ulterior o copie foto a unui certificat românesc ce atestă gradul de "nevoi speciale" din familia ta.
+#### **Cerințe?** Inițiază te rog contactul cu noi prin [email](mailto:rapid@unpi.ro?subject=Vreau%20unPi) sau [SMS](tel:+358406640059); vei avea nevoie să ne trimiți ulterior o copie foto a unui certificat românesc ce atestă gradul de "nevoi speciale" din familia ta. Vei fi ghidat apoi în tot procesul, pas cu pas.
 
 
 <script src="https://wchat.freshchat.com/js/widget.js"></script>
