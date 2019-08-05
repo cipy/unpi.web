@@ -11,9 +11,10 @@
 - curent electric în casă, plătit la zi
 - un televizor cu un port HDMI liber
 - părintele/tutorele care aplică să dețină un telefon mobil Android
+- părintele/tutorele care aplică să aibă Internet pe telefonul mobil (abonament ori cartela de date; vezi și NOTA: de la finalul paginii)
 - capacitatea financiară, dorința și locația fizică pentru a se putea conecta la Internet cu o legătură _fixă_, cel puțin pentru un an (**doar** pentru prima serie de donații, [acum suntem la seria #1, **prima**], _poți primi 15 RON pe lună, timp de un an_, de la noi, drept suport material, _dacă_ iți faci un **contract nou** de Internet _fix_ după ce ai fost nominalizat ca beneficiar unPi; pentru seriile următoare [avem nevoie de mai mulți donatori](http://donez.unpi.ro/))
 
-##### Pas 1. Instalează pe telefonul mobil Android:
+##### Pas 1. Instalează pe telefonul tău mobil/Android:
 - aplicația [Whatsapp](https://whatsapp.com/dl) pentru comunicare ulterioară cu Asociația unPi pentru Școlari
 - aplicația [Revolut](https://revolut.com/referral/cipria2dd) (folosește [acest link](https://revolut.com/referral/cipria2dd)) pentru verificarea identității părinte/tutore-lui
 - _opțional_, aplicația [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger) (nu este tradusă încă în limba română)
@@ -27,16 +28,16 @@
 - NU îți recomandăm să-ți păstrezi economiile în Revolut
 
 ##### Pas 3. Cesionare drepturi digitale prin această aplicație:
-- parintele/tutorele care **acum** aplică pentru unPi **se obligă**:
+- părintele/tutorele care **acum** aplică pentru unPi **se obligă**:
 - să [cesioneze](https://dexonline.ro/definitie/cesiona) către "Asociația unPi pentru Școlari" toate drepturile sale asupra materialelor digitale ce sunt necesare și fac parte din aplicația sa la unPi: poze personale, filme scurte, texte, descrieri, alte documente digitale
-- să acorde dreptul de publicare pe Internet a numelui sau legal complet (prenume, nume de familie) catre "Asociația unPi pentru Școlari" și reprezentanții săi legali
-- să se oprească aici din procesul de aplicare la [unPi](https://www.unpi.ro/), dacă nu este de acord cu vreuna din condițiile enunțate mai sus (vezi mai ales [regulamentul](http://regulament.unpi.ro/) și pagina [GDPR](http://gdpr.unpi.ro/), limitari tehnice), ori vreuna din condițiile ce urmează:
+- să acorde dreptul de publicare pe Internet a numelui său legal complet (prenume, nume de familie) catre "Asociația unPi pentru Școlari" și reprezentanții săi legali
+- să se oprească aici din procesul de aplicare la [unPi](https://www.unpi.ro/), dacă nu este de acord cu vreuna din condițiile enunțate mai sus (vezi mai ales [regulamentul](http://regulament.unpi.ro/) și pagina [GDPR](http://gdpr.unpi.ro/), limitări tehnice), ori vreuna din condițiile ce urmează:
 
 ##### Pas 4. Verifică-te prin Revolut la proiectul unPi:
 - trimite un **SMS** la [numărul unPi de contact](tel:+358406640059) +358406640059 cu textul "APLIC Prenume Nume"
 - textul tău _trebuie_ să fie fără diacritice, fără ghilimelele din exemplu. iar numele tău legal _identic_ cu Pas 2.
 - numărul nostru [mobil](tel:+358406640059) este internațional, te va costa până la 0.15 EUR per SMS trimis
-- **dacă** ai urmat cu atenție instucțiunile de la Pas 2., vei primi în curând 1 [HUF](https://ro.wikipedia.org/wiki/Forint) în Revolut
+- **dacă** ai urmat cu atenție instrucțiunile de la Pas 2., vei primi în curând 1 [HUF](https://ro.wikipedia.org/wiki/Forint) în Revolut
 - deschide aplicația Revolut, caută și deschide în ea [tranzacția de 1 HUF](huf.jpg) (1 forint maghiar, va apare marcată ca **+ Ft1**); în interiorul tranzacției vei putea observa următorul mesaj: "vreau+PAROLA@unpi.ro este adresa corecta unde poti sa aplici"
 - PAROLA este un grup de 6 caractere (_doar_ litere mari și cifre) pe care trebuie să le memorezi și folosești mai departe (de exemplu la Pas 5.)
 - NU spune nimănui PAROLA ta! Este personală, unică pentru fiecare aplicant în parte.
@@ -51,7 +52,7 @@
 - o poză cu portul liber HDMI al televizorului; vezi [exemplul](http://cer.unpi.ro/ciprian-manea) la cer.unpi.ro/ciprian-manea
 - un scurt text în email, opțional, cu descrierea ori motivația voastră ca familie
 - _te rog_ alege pentru fiecare email trimis un subiect al email-ului care să-l reprezinte
-- **NU TRIMITE**: poze doar cu minori (singuri), ori cele din care se pot extrage informații personale, gen: numarul casei ori al blocului ori a scării, ori numele străzii pe care locuiești. Toate materialele digitale de la acest pas sunt procesate _automat_ și publicate pe Internet _automat_ în 20-30 minute după ce au fost recepționate. NU TRIMITE conținut ilegal ori ce nu îți apartine, sub nici o formă!
+- **NU TRIMITE**: poze doar cu minori (singuri), ori cele din care se pot extrage informații personale, gen: numărul casei ori al blocului ori a scării, ori numele străzii pe care locuiți. Toate materialele digitale de la acest pas sunt procesate _automat_ și publicate pe Internet _automat_ în 20-30 minute după ce au fost recepționate. NU TRIMITE conținut ilegal ori ce nu îți apartine, sub nici o formă!
 
 ##### Pas 6. Aplicația ta apare online, pe GitHub, la [cererea.unpi.ro](https://cererea.unpi.ro/)
 - imediat după ce ai trimis SMS (Pas 4.) poți vedea aplicația ta la http://cer.unpi.ro/prenume-nume/
@@ -62,12 +63,12 @@
 - acum e timpul să adaugi [contactele noastre](http://ong.unpi.ro/) în agenda ta și să ne urmarești în online 🤓
 
 ##### Pas 9. Ștergerea aplicației tale și a datelor aferente:
-- doar la cererea expresă a parintelui / tutorelui care a aplicat _inițial_ se pot șterge din sistemele noastre materialele sale digitale
-- cererea se poate trimite **doar prin SMS** la numărul unPi de contact: +358406640059 (număr internațional, te va costa până la 0.15 EUR per SMS trimis), **doar** de pe numărul **mobil** al aplicantului **inițial**, și trebuie să conțină **doar** textul: "TE ROG STERGE _PAROLA_", unde _PAROLA_ este textul _secret_ primit la Pas 4., și NU se folosesc diacritice!
+- doar la cererea expresă a părinte/tutore-lui care a aplicat _inițial_ se pot șterge din sistemele noastre materialele sale digitale
+- cererea se poate trimite **doar prin SMS** la numărul unPi de contact: +358406640059 (număr internațional, te va costa până la 0.15 EUR per SMS trimis), **doar** de pe numărul **mobil** al aplicantului **inițial**, și trebuie să conțină **doar** textul: "TE ROG STERGE _PAROLA_", unde _PAROLA_ este textul _secret_ primit la Pas 4., și NU se folosesc diacritice, ori ghilimele!
 - aceste cereri pot și vor fi în mare parte prelucrate _automat_ (de către un calculator)
 - vei primi o confirmare prin SMS a cererii, pe numărul tău mobil (_doar_ dacă erai deja înscris în sistem)
 - **TE RUGĂM** NU cere ștergerea aplicației tale dacă ai primit [unPi, calculator personal](http://pc.unpi.ro/) de la noi
-- vom încerca ștergerea materialelor tale digitale și de pe Internet, din paginile web pe care le deținem, dar acest lucru **nu este garantat** (Internetul nu este sub controlul nimănui, este o rețea publică, [descentralizată](https://dexonline.ro/definitie/descentralizat); nu este ușor ori chiar posibil tehnic să ștergi odata ce ai publicat ceva; cel mai bine: **nu publica!**)
+- vom încerca ștergerea materialelor tale digitale și de pe Internet, din paginile web pe care le deținem, dar acest lucru **nu este garantat** (Internetul nu este sub controlul nimănui, este o rețea publică, [descentralizată](https://dexonline.ro/definitie/descentralizat); nu este ușor ori chiar posibil tehnic să ștergi odată ce ai publicat ceva; cel mai bine: **nu publica!**)
 - după **30 de zile** (calendaristice) de la primirea cererii de ștergere a aplicației tale la unPi, **promitem să oprim** orice proces extern al "Asociația unPi pentru Școlari" ce folosea numele tău legal complet ori materialele tale digitale, în vreun fel ori format
 
 NOTA:
