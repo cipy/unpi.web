@@ -1,12 +1,3 @@
-<script src="https://wchat.freshchat.com/js/widget.js"></script>
-
-<script>
-  window.fcWidget.init({
-    token: "1dbeef16-76f2-47bc-bc8a-f848842e00d7",
-    host: "https://wchat.freshchat.com"
-  });
-</script>
-
 > vezi și [vreau](https://www.unpi.ro/vreau/), [de ce](https://www.unpi.ro/dece/), [ce primești](https://vimeo.com/329034464), [asamblezi](https://vimeo.com/329035192), [conectezi](https://vimeo.com/329036345), [la TV](https://vimeo.com/329037141)
 
 ## Salut,
@@ -38,3 +29,12 @@ Numai bine, și mulțumim!
 
 Ciprian & co
 
+
+<script src="https://wchat.freshchat.com/js/widget.js"></script>
+
+<script>
+  window.fcWidget.init({
+    token: "1dbeef16-76f2-47bc-bc8a-f848842e00d7",
+    host: "https://wchat.freshchat.com"
+  });
+</script>
