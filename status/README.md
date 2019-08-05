@@ -4,7 +4,7 @@
 
 ###### donatori (seria #1, _de aur_)
 
-1. BS din Thailanda, Bangkok a virat - unPi a plecat la castigatorul [Junior Challenge](https://infoarena.ro/blog/unpi) 2019
+1. BS din Thailanda, Bangkok a virat - unPi a plecat la câștigătorul [Junior Challenge](https://infoarena.ro/blog/unpi) 2019
 2. CM din Finlanda, Helsinki a promis
 3. DD din Finlanda, Helsinki a virat
 4. LL din Germania, Berlin a promis
