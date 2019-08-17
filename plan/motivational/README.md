@@ -24,12 +24,18 @@
 
 ---
 
-4. display/[ecran foarte mic](https://www.amazon.de/gp/product/B06X191RX7/) pentru unPi
+4. CamJam EduKit #3 - [Robot mașinuță cu unPi](https://thepihut.com/products/camjam-edukit-3-robotics)
+
+![cutie robot](robotbox.jpg) ![robot mașinuță](robot.jpg)
+
+---
+
+5. display/[ecran foarte mic](https://www.amazon.de/gp/product/B06X191RX7/) pentru unPi
 
 ![3.5 inch screen](ecran.jpg) ![3.5 inch screen back](ecranspate.jpg)
 
 ---
 
-5. procesor [Micro Bit](https://www.amazon.de/gp/product/B01G8X7VM2/) pentru programatori adevarați (în devenire)
+6. procesor [Micro Bit](https://www.amazon.de/gp/product/B01G8X7VM2/) pentru programatori adevarați (în devenire)
 
 ![Micro Bit leds](mibitlove.jpg)
