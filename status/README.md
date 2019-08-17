@@ -22,6 +22,7 @@
 16. CB din Finlanda, Helsinki a virat
 17. RB din România, București a virat
 18. CO din România, Prahova a virat
+19. CS din România, București a virat
 
 
 ###### donatori (seria #2)
