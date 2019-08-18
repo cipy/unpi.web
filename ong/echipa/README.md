@@ -1,11 +1,3 @@
-<script src="https://wchat.freshchat.com/js/widget.js"></script>
-
-<script>
-  window.fcWidget.init({
-    token: "1dbeef16-76f2-47bc-bc8a-f848842e00d7",
-    host: "https://wchat.freshchat.com"
-  });
-</script>
 
 ### Echipa fondatoare
 
@@ -24,4 +16,13 @@
 
 #### Membri de Onoare (_doar inițialele numelui_)
 
-BS DD LL SS PS RB MV AG CR SN SP DT DM SG CB RB CO (donatori, seria #1)
+BS DD LL SS PS RB MV AG CR SN SP DT DM SG CB RB CO CS (donatori, seria #1)
+
+<script src="https://wchat.freshchat.com/js/widget.js"></script>
+
+<script>
+  window.fcWidget.init({
+    token: "1dbeef16-76f2-47bc-bc8a-f848842e00d7",
+    host: "https://wchat.freshchat.com"
+  });
+</script>
