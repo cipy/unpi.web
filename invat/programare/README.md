@@ -23,7 +23,7 @@ Este exact ca în exemplul de mai sus, când mama ta te trimite(a) la piață; d
 Modurile prin care tu interacționezi inițial cu un calculator sunt:
 - un [mouse](https://www.amazon.de/AmazonBasics-USB-Maus-drei-Schaltflächen-schwarz/dp/B005EJH6RW/) ori [trackpad](https://start.unpi.ro/spec/pc/trackpad.jpg) ce transmite calculatorului mișcările mâinii tale
 - o [tastatură, uneori cu trackpad încorporat](https://start.unpi.ro/spec/pc/tastatura.jpg) ce transmite calculatorului pe ce taste/litere apeși, plus gesturile și mișcările pe care le faci cu mâna pe trackpad
-- un [ecran pentru calculator](https://www.amazon.de/BenQ-GW2270H-Monitor-VA-Panel-Reaktionszeit/dp/B0157V5VJG/) (ori TV în cazul unPi) pe care vezi rezultatul mișcărilor, acțiunilor și comenzilor tale asupra calculatorului
+- un [ecran pentru calculator](https://www.amazon.de/BenQ-GW2270H-Monitor-VA-Panel-Reaktionszeit/dp/B0157V5VJG/) (ori TV în cazul [unPi](http://pc.unpi.ro/)) pe care vezi rezultatul mișcărilor, acțiunilor și comenzilor tale asupra calculatorului
 
 #### Cum lucrezi cu calculatorul?
 
@@ -50,9 +50,9 @@ Vom începe cu câteva exemple de programare în [Scratch 3](https://scratch.mit
 
 Vă vom lăsa și încuraja să descoperiți singuri [Scratch 3](https://scratch.mit.edu/), după modelul [GCompris](https://gcompris.net/index-ro.html): experimentând, urmărind singuri care este rezultatul acțiunilor voastre în aplicația respectivă, încercându-vă curajul și determinarea cu [tutorialele din Scratch](https://scratch.mit.edu/projects/editor/?tutorial=getStarted).
 
-Apoi ne vom concetra și vom solicita atenția voastră la [programarea în limbajul Golang](https://go.unpi.ro/), începând cu aceleași exemple de programare pe care le-am construit înițial în Scratch. Vom evolua în timp spre concepte de programare mai complicate. Golang este un limbaj de programare profesional (adică poți fi plătit sau angajat pentru a programa în el), este simplu și modern.
+Apoi ne vom concetra și vom solicita atenția voastră la [programarea în limbajul Golang](https://go.unpi.ro/), începând cu aceleași exemple de programare pe care le-am construit înițial în Scratch. Vom evolua în timp spre concepte de programare mai complicate. [Golang](https://go-tour-ro.appspot.com/) este un limbaj de programare profesional (adică poți fi plătit sau angajat pentru a programa în el), este simplu și modern.
 
-### Hai, începe să înveți cu noi programare! Ce mai [aștepți](https://start.unpi.ro/privat/)?
+### Hai, începe să înveți cu noi programare! Ce [mai aștepți?](https://start.unpi.ro/privat/)
 
 
 <script src="https://wchat.freshchat.com/js/widget.js"></script>
