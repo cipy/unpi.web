@@ -36,7 +36,7 @@ Primul pas este să te familiarizezi cu:
 
 - un mouse ori trackpad; vom folosi exemple și exerciții din [suita de aplicații educaționale GCompris](https://gcompris.net/index-ro.html), plus cateva video-uri demonstrative
 
-- tastatura și cum să tastezi; vom folosi inițial tot [GCompris](https://gcompris.net/index-ro.html), apoi avansăm la [typing.com](https://www.typing.com/student/lessons), chiar dacă nu este dispobil în limba română; ne/vă chinuim puțin 🤡
+- tastatura și cum să tastezi; vom folosi inițial tot [GCompris](https://gcompris.net/index-ro.html), apoi avansăm la [typing.com](https://www.typing.com/student/lessons), chiar dacă nu este disponibil în limba română; ne/vă chinuim puțin 🤡
 
 #### Cum programezi?
 
@@ -46,11 +46,11 @@ Mai întâi (trebuie să) învățăm câteva tipuri de comenzi ori instrucțiun
 - **dacă** se întamplă o anumită **condiție**, execută **operația** sau programul următor
 - **calculează** rezultatul unei operații matematice: **+**, **-**, **x** sau **/** între două numere
 
-Vom începe cu câteva exemple de programare în [Scratch 3](https://scratch.mit.edu/about), care este un limbaj și mediu de programare grafic, vizual, pentru copii. Pagina lor web este dispobilă și în limba română, daca mergeți în josul paginii și selectați limba română de la triunghiul argintiu 🔽
+Vom începe cu câteva exemple de programare în [Scratch 3](https://scratch.mit.edu/about), care este un limbaj și mediu de programare grafic, vizual, pentru copii. Pagina lor web este disponibilă și în limba română, daca mergeți în josul paginii și selectați limba română de la triunghiul argintiu 🔽
 
 Vă vom lăsa și încuraja să descoperiți singuri [Scratch 3](https://scratch.mit.edu/), după modelul [GCompris](https://gcompris.net/index-ro.html): experimentând, urmărind singuri care este rezultatul acțiunilor voastre în aplicația respectivă, încercându-vă curajul și determinarea cu [tutorialele din Scratch](https://scratch.mit.edu/projects/editor/?tutorial=getStarted).
 
-Apoi ne vom concetra și vom solicita atenția voastră la [programarea în limbajul Golang](https://go.unpi.ro/), începând cu aceleași exemple de programare pe care le-am construit înițial în Scratch. Vom evolua în timp spre concepte de programare mai complicate. [Golang](https://go-tour-ro.appspot.com/) este un limbaj de programare profesional (adică poți fi plătit sau angajat pentru a programa în el), este simplu și modern.
+Apoi ne vom concentra și vom solicita atenția voastră la [programarea în limbajul Golang](https://go.unpi.ro/), începând cu aceleași exemple de programare pe care le-am construit înițial în Scratch. Vom evolua în timp spre concepte de programare mai complicate. [Golang](https://go-tour-ro.appspot.com/) este un limbaj de programare profesional (adică poți fi plătit sau angajat pentru a programa în el), este simplu și modern.
 
 ### Hai, începe să înveți cu noi programare! Ce [mai aștepți?](https://start.unpi.ro/privat/)
 
