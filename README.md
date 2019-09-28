@@ -22,7 +22,7 @@ Vrei să contribui €? Contactează-ne [direct](mailto:donez@unpi.ro?subject=vr
 - Azi, transportul de la Amazon.de către România este sub €10
 
 
-#### P.S: inițiativa este privată momentan (dar am început demersurile pentru a crea o asociație [ONG](http://ong.unpi.ro/)/non profit)
+#### NOTA: proiectul a devenit “Asociația unPi pentru Școlari”, [ONG](http://ong.unpi.ro/)/non profit înregistrat oficial în România
 
 
 Numai bine, și mulțumim!
