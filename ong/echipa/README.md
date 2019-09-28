@@ -3,7 +3,7 @@
 
 ![Ciprian Manea](cm.png) ![Andrei Manea](am.png) ![Nicolae Manea](nm.png)
 
-### Statut: numele "Asociația unPi pentru Școlari" a fost rezervat
+### Statut: "Asociația unPi pentru Școlari" este activă din 19.09.2019 certificat 22/I/A/2019
 
 ### Contacte
 
