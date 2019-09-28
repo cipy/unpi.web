@@ -32,7 +32,7 @@ In Computer Science engineering _speak_: **concurrency** is the capacity of a pr
 - [professional network cable](https://www.amazon.de/gp/product/B00QV1F160/) €9
 - delivery costs from Amazon.de to Romania, about €10
 
-###### P.S: the project is at the moment a private initiative (and we have started the oficial registation in Romania as a Non Profit).
+###### NOTE: the project is now oficially registered in Romania as a Non Profit / NGO named “Asociația unPi pentru Școlari”
 
 From my side, my supporters, and likely the future computer science careers we're likely to shape together: **I thank you from the bottom of my heart for your hard earned contribution** and we'll be forever in your debt.
 
