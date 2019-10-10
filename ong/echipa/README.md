@@ -5,6 +5,11 @@
 
 ### Statut: "Asociația unPi pentru Școlari" este activă din 19.09.2019 certificat 22/I/A/2019
 
+### Conturi: Asociația unPi pentru Școlari, Banca Transilvania, cod BIC/SWIFT BTRLRO22DBA
+
+- cod IBAN RO31BTRLRONCRT0523621201 pentru donații în RON [sold curent: 200.00 RON]
+- cod IBAN RO78BTRLEURCRT0523621201 pentru donații în EUR [sold curent: 50.00 EUR]
+
 ### Contacte
 
 - dacă vrei să donezi, cu noi ori prin intermediul nostru, vezi pagina noastră [donez](http://donez.unpi.ro/)
