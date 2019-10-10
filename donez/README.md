@@ -18,16 +18,16 @@ Mulțumim!
 
 #### OK, m-ai convins, dar vreau să contribui anonim!
 
-Răspuns: poți trimite oricând echivalentul a €120 (ori cât de mult îți permiți 🤓) în următoarele portofele virtuale:
+Răspuns: te rugăm trimite echivalentul a €120 (ori cât îți permiți) în unul din următoarele portofele virtuale:
 
-- în BTC la [38yr6P1yPYJ4Ln3LU7X1q5yVwWN9Mxkyu8](https://www.blockchain.com/btc/address/38yr6P1yPYJ4Ln3LU7X1q5yVwWN9Mxkyu8)
-- în ETH la [0x7B9d26f552a27a70bA26ae225Cdc22120DdE8892](https://www.blockchain.com/eth/address/0x7B9d26f552a27a70bA26ae225Cdc22120DdE8892)
+- pentru BTC (sau Bitcoin) la [38yr6P1yPYJ4Ln3LU7X1q5yVwWN9Mxkyu8](https://www.blockchain.com/btc/address/38yr6P1yPYJ4Ln3LU7X1q5yVwWN9Mxkyu8)
+- pentru ETH (sau Ethereum) la [0x7B9d26f552a27a70bA26ae225Cdc22120DdE8892](https://www.blockchain.com/eth/address/0x7B9d26f552a27a70bA26ae225Cdc22120DdE8892)
 
 Mulțumim!
 
 #### Hmm, îmi place ideea dar vreau să donez direct.
 
-Răspuns: îți recomand _călduros_ să dăruiești unPi în aceeași [configurație](https://www.unpi.ro/spec/) pe care o vom folosi pentru cursul Golang. Ești liber să selectezi apoi beneficiarul pe propriile criterii, dar dacă îi dăruiești ceva care nu este în specificația unPi, nu îl vom putea ajuta în timpul cursului Go. De asemenea trebuie să citești și [pagina pentru utilizatori privați](https://www.unpi.ro/privat/).
+Răspuns: îți recomandăm _călduros_ să dăruiești unPi în aceeași [configurație](https://www.unpi.ro/spec/) pe care o vom folosi pentru cursul Golang. Ești liber să selectezi apoi beneficiarul pe propriile criterii, dar dacă îi dăruiești ceva care nu este în specificația unPi, nu îl vom putea ajuta în timpul cursului Go. De asemenea trebuie să citești și [pagina pentru utilizatori privați](https://www.unpi.ro/privat/).
 
 <script src="https://wchat.freshchat.com/js/widget.js"></script>
 
