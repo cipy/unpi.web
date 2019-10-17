@@ -1,6 +1,6 @@
 ## Hi there,
 
-This project [site](https://www.unpi.ro/) is about helping _unprivileged_ children from Romania to _learn programming_ in [Golang](https://golang.org) using a tailored [Golang course for children, in Romanian language](https://go.unpi.ro/) we create.
+This project [site](https://www.unpi.ro/) is about helping _unprivileged_ children from Romania to _learn programming_ in [Golang](https://golang.org) using a tailored [programming course for children](https://go.unpi.ro/) we create in the Romanian language.
 
 Golang is a modern programming language invented at Google (by one of the founders of the [C programming language](https://en.wikipedia.org/wiki/C_(programming_language) & others)). This language was designed from the get go to be **simple** to learn, **safe** to use, with built-in support for _concurrency_ and _multi platform_.
 
