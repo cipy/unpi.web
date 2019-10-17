@@ -1,19 +1,8 @@
-<script src="https://wchat.freshchat.com/js/widget.js"></script>
-
-<script>
-  window.fcWidget.init({
-    token: "1dbeef16-76f2-47bc-bc8a-f848842e00d7",
-    host: "https://wchat.freshchat.com"
-  });
-</script>
-
 ## Hi there,
 
-I guess you came here via our [Patreon](https://www.patreon.com/unPi) page.
+This project [site](https://www.unpi.ro/) is about helping _unprivileged_ children from Romania to _learn programming_ in [Golang](https://golang.org) using a tailored [Golang course for children, in Romanian language](https://go.unpi.ro/) we create.
 
-This [site](https://www.unpi.ro/), project and github [repository](https://github.com/cipy/unpi.web) are about helping _unprivileged_ children from Romania get _fast_ access to the Internet, and especially _start programming_ in [Golang](https://golang.org) using a tailored [Go course in the Romanian language](https://go.unpi.ro/) we create.
-
-Go is a modern programming language invented at Google (by one of the founders of the [C programming language](https://en.wikipedia.org/wiki/C_(programming_language) & others)). This language was designed from the get go to be **simple** to learn, **safe** to use, with built-in support for _concurrency_ and _multi platform_.
+Golang is a modern programming language invented at Google (by one of the founders of the [C programming language](https://en.wikipedia.org/wiki/C_(programming_language) & others)). This language was designed from the get go to be **simple** to learn, **safe** to use, with built-in support for _concurrency_ and _multi platform_.
 
 In Computer Science engineering _speak_: **concurrency** is the capacity of a program to run inside a computer on all installed processors at the same time, and _true_ **multi platform** means you write your program once, but then compile & use it on various computer types: from the very small like [Pi](https://www.raspberrypi.org), to tablets, laptops, desktops, up to room sized servers.
 
@@ -25,7 +14,7 @@ In Computer Science engineering _speak_: **concurrency** is the capacity of a pr
 - the cheapest monthly [Internet subscription](https://www.digiromania.ro/servicii/internet) at one of the leading national providers is today 30 RON, or about 7,15 USD and gives you 300Mbps download with 150Mbps upload. Hello Western Europe?!
 - [Raspberry Pi 3 B+](https://static.raspberrypi.org/files/product-briefs/Raspberry-Pi-Model-Bplus-Product-Brief.pdf) has 4 cores (small processors) and 300Mbps network interface, asking for Golang programmers 🤓
 
-## What are you gifting to a Romanian child?
+## What are you & us gifting to a Romanian child? (in addition to the Golang programming course)
 
 - [Raspberry Pi 3 B+ Ultimate Starter Kit](https://www.amazon.de/gp/product/B07DDCRFP6/) €80
 - [keyboard with built-in trackpad](https://www.amazon.de/gp/product/B07HG5Q851/) (wireless) €20
@@ -34,6 +23,15 @@ In Computer Science engineering _speak_: **concurrency** is the capacity of a pr
 
 ###### NOTE: the project is now oficially registered in Romania as a Non Profit / NGO named “Asociația unPi pentru Școlari”
 
-From my side, my supporters, and likely the future computer science careers we're likely to shape together: **I thank you from the bottom of my heart for your hard earned contribution** and we'll be forever in your debt.
+From my side, our current donors, volunteers & supporters, and likely the future computer science careers we're likely to shape together: **Thank You from the bottom of our hearts for your hard earned contribution** and we'll be forever in your debt.
 
 Ciprian & co
+
+<script src="https://wchat.freshchat.com/js/widget.js"></script>
+
+<script>
+  window.fcWidget.init({
+    token: "1dbeef16-76f2-47bc-bc8a-f848842e00d7",
+    host: "https://wchat.freshchat.com"
+  });
+</script>
