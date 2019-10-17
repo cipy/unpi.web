@@ -14,7 +14,7 @@ In Computer Science engineering _speak_: **concurrency** is the capacity of a pr
 - the cheapest monthly [Internet subscription](https://www.digiromania.ro/servicii/internet) at one of the leading national providers is today 30 RON, or about 7,15 USD and gives you 300Mbps download with 150Mbps upload. Hello Western Europe?!
 - [Raspberry Pi 3 B+](https://static.raspberrypi.org/files/product-briefs/Raspberry-Pi-Model-Bplus-Product-Brief.pdf) has 4 cores (small processors) and 300Mbps network interface, asking for Golang programmers 🤓
 
-## What are you & us gifting to a Romanian child? (in addition to the Golang programming course)
+## What are you gifting to a Romanian child?
 
 - [Raspberry Pi 3 B+ Ultimate Starter Kit](https://www.amazon.de/gp/product/B07DDCRFP6/) €80
 - [keyboard with built-in trackpad](https://www.amazon.de/gp/product/B07HG5Q851/) (wireless) €20
@@ -23,7 +23,7 @@ In Computer Science engineering _speak_: **concurrency** is the capacity of a pr
 
 ###### NOTE: the project is now oficially registered in Romania as a Non Profit / NGO named “Asociația unPi pentru Școlari”
 
-From my side, our current donors, volunteers & supporters, and likely the future computer science careers we're likely to shape together: **Thank You from the bottom of our hearts for your hard earned contribution** and we'll be forever in your debt.
+From my side, our current donors, volunteers & supporters, and likely the future computer science talents we're likely to shape together: **Thank You from the bottom of our hearts for your hard earned contribution!** We'll be forever in your debt.
 
 Ciprian & co
 
