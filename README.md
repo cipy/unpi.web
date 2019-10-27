@@ -1,4 +1,4 @@
-> vezi și [vreau](https://www.unpi.ro/vreau/), să [donez](https://www.unpi.ro/donez/), să [învăț](https://www.unpi.ro/invat/programare/), [de ce](https://www.unpi.ro/dece/), [ce primești](https://vimeo.com/329034464), [asamblezi](https://vimeo.com/329035192), [conectezi](https://vimeo.com/329036345), [la TV](https://vimeo.com/329037141)
+> vezi și [vreau unPi](https://www.unpi.ro/vreau/), să [donez](https://www.unpi.ro/donez/), să [învăț](https://www.unpi.ro/invat/programare/), [de ce](https://www.unpi.ro/dece/), [ce primești](https://vimeo.com/329034464), [asamblezi](https://vimeo.com/329035192), [conectezi](https://vimeo.com/329036345), [la TV](https://vimeo.com/329037141)
 
 ## Asociația unPi pentru Școlari
 
@@ -10,7 +10,7 @@ Totul a început cu [o poveste](https://start.unpi.ro/ong/povestea/), și anume 
 
 Și îi ajutăm în acest sens dăruidu-le un [mic calculator personal](https://start.unpi.ro/spec/pc/), nou, pe care noi l-am numit **unPi**. Iar Ciprian îi va învăța programarea calculatoarelor pe **unPi** cu ajutorul unui limbaj ușor, modern, inventat de catre firma Google. Cursul aceasta de [programare în limbajul Golang este online](https://go.unpi.ro/), gratis, în limba română.
 
-De asemenea, urmărim atragerea de donații private și sponsorizări de la firmele românești, în vederea achiziționării de noi [calculatoare personale unPi](https://start.unpi.ro/spec/pc/), pentru a fi dăruite cu prioritate școlarilor începând cu vârsta de 10 ani, ce provin din familii defavorizate, dar și familiilor care au în componența lor un membru (părinte sau copil) cu nevoi speciale, recunoscute conform legislației din România, indiferent de veniturile familiei.
+De asemenea, urmărim atragerea de [donații private](https://start.unpi.ro/donez/) și sponsorizări de la firmele românești, în vederea achiziționării de noi [calculatoare personale unPi](https://start.unpi.ro/spec/pc/), pentru a fi dăruite cu prioritate școlarilor începând cu vârsta de 10 ani, ce provin din familii defavorizate, dar și familiilor care au în componența lor un membru (părinte sau copil) cu nevoi speciale, recunoscute conform legislației din România, indiferent de veniturile familiei.
 
 #### [Echipa Fondatoare](https://start.unpi.ro/ong/echipa/)
 
