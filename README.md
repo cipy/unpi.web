@@ -10,7 +10,7 @@ Totul a început cu [o poveste](https://start.unpi.ro/ong/povestea/), și anume 
 
 Și îi ajutăm în acest sens dăruidu-le un [mic calculator personal](https://start.unpi.ro/spec/pc/), nou, pe care noi l-am numit **unPi**. Iar Ciprian îi va învăța programarea calculatoarelor pe **unPi** cu ajutorul unui limbaj ușor, modern, inventat de catre firma Google. Cursul aceasta de [programare în limbajul Golang este online](https://go.unpi.ro/), gratis, în limba română.
 
-De asemenea, urmărim atragerea de [donații private](https://start.unpi.ro/donez/) și sponsorizări de la firmele românești, în vederea achiziționării de noi [calculatoare personale unPi](https://start.unpi.ro/spec/pc/), pentru a fi dăruite cu prioritate școlarilor începând cu vârsta de 10 ani, ce provin din familii defavorizate, dar și familiilor care au în componența lor un membru (părinte sau copil) cu nevoi speciale, recunoscute conform legislației din România, indiferent de veniturile familiei.
+De asemenea, urmărim atragerea de [donații private](https://start.unpi.ro/donez/) și sponsorizări de la firmele românești, în vederea achiziționării de noi [calculatoare personale unPi](https://start.unpi.ro/spec/pc/), pentru a fi dăruite cu prioritate școlarilor începând cu vârsta de 10 ani, ce provin din familii defavorizate, dar și familiilor care au în componența lor un membru (părinte sau copil) cu [nevoi speciale](https://start.unpi.ro/vreau/rapid/), recunoscute conform legislației din România, indiferent de veniturile familiei.
 
 #### [Echipa Fondatoare](https://start.unpi.ro/ong/echipa/)
 
@@ -23,7 +23,7 @@ De asemenea, urmărim atragerea de [donații private](https://start.unpi.ro/done
 - email: [presă](mailto:presa@unpi.ro), [întrebări generale](mailto:intrebari@unpi.ro), [probleme cu unPi](mailto:probleme@unpi.ro) (_doar pentru beneficiari_)
 - pe Internet: [Whatsapp](https://api.whatsapp.com/send?phone=+358406640059), [Telegram](https://t.me/unpi_ong), [Twitter](http://twitter.com/unpi_ong), [LinkedIn](https://www.linkedin.com/company/asociatia-unpi-pentru-scolari/), [Facebook](https://www.facebook.com/unpi.ro/)
 
-#### Membri de Onoare (_doar inițialele numelui_) ai Asociației **unPi**
+#### Membri de Onoare (_doar inițialele numelui_) ai Asociației **unPi** pentru Școlari
 
 BS DD LL SS PS RB MV AG CR SN SP DT DM SG CB RB CO CS (donatori; _doar_ seria #1)
 
