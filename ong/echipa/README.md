@@ -23,7 +23,7 @@
 
 #### Membri de Onoare (_doar inițialele numelui_)
 
-BS DD LL SS PS RB MV AG CR SN SP DT DM SG CB RB CO CS (donatori, seria #1)
+BS DD LL SS PS RB MV AG CR SN SP DT DM SG CB RB CO CS (donatori, _doar_ seria #1)
 
 <script src="https://wchat.freshchat.com/js/widget.js"></script>
 
