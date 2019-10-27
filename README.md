@@ -2,7 +2,7 @@
 
 ## Asociația unPi pentru Școlari
 
-Suntem o organizație nouă, non profit, activă în România ca [ONG](https://start.unpi.ro/ong/echipa/) (organizație neguvernamentală) începând din 1 Octombrie 2019. Asociația unPi pentru Școlari a fost înregistrată la Judecătoria Târgoviște, Județul Dâmbovița cu certificatul 22/I/A/2019 la data de 19.09.2019
+Suntem o organizație nouă, non profit, activă în România ca [ONG](https://start.unpi.ro/ong/echipa/) (organizație neguvernamentală) începând din 1 Octombrie 2019. Asociația unPi pentru Școlari a fost înregistrată la Judecătoria Târgoviște, Județul Dâmbovița cu certificatul 22/I/A/2019 la data de 19.09.2019; C.I.F. 41680036
 
 #### Misiune
 
