@@ -7,6 +7,7 @@ Răspuns: contactează-ne [direct](mailto:donez@unpi.ro?subject=vreau%20sa%20don
 - către: Asociația unPi pentru Școlari, Banca Transilvania, cod BIC/SWIFT BTRLRO22DBA
 - cod IBAN RO31BTRLRONCRT0523621201 pentru donații în RON
 - cod IBAN RO78BTRLEURCRT0523621201 pentru donații în EUR
+- cod IBAN RO82BTRLUSDCRT0523621201 pentru donații în USD
 
 Mulțumim!
 
