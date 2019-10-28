@@ -28,3 +28,12 @@ Vrei să contribui €? Contactează-ne [direct](mailto:donez@unpi.ro?subject=vr
 Numai bine, și mulțumim!
 
 Ciprian & co
+
+<script src="https://wchat.freshchat.com/js/widget.js"></script>
+
+<script>
+  window.fcWidget.init({
+    token: "1dbeef16-76f2-47bc-bc8a-f848842e00d7",
+    host: "https://wchat.freshchat.com"
+  });
+</script>
