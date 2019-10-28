@@ -41,3 +41,5 @@ BS DD LL SS PS RB MV AG CR SN SP DT DM SG CB RB CO CS (donatori; _doar_ seria #1
     host: "https://wchat.freshchat.com"
   });
 </script>
+
+<meta name="verify-paysera" content="164a7ce36742781c1aeaf3c8d168a184">
