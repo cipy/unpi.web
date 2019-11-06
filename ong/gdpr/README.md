@@ -2,7 +2,7 @@
 
 #### despre legislația europeană și datele tale personale
 
-###### datorită limitărilor tehnice [inerente](https://dexonline.ro/definitie/inerente) în tehnologie si mai ales în Internet, plus faptului că folosim unele servicii din afara EU (un exemplu: pagina aceasta este publicată prin [Github](https://github.com), un serviciu de pe teritoriul USA), NU VOM PUTEA șterge cu certitudine **toate** materialele (digitale) pe care tu le-ai putea trimite ca parte a aplicației tale la [unPi](https://www.unpi.ro/)
+###### datorită limitărilor tehnice [inerente](https://dexonline.ro/definitie/inerente) în tehnologie și mai ales în Internet, plus faptului că folosim unele servicii din afara EU (un exemplu: pagina aceasta este publicată prin [Github](https://github.com), un serviciu de pe teritoriul USA), NU VOM PUTEA șterge cu certitudine **toate** materialele (digitale) pe care tu le-ai putea trimite ca parte a aplicației tale la [unPi](https://www.unpi.ro/)
 
 #### TE RUGĂM NU APLICA LA UNPI DACĂ NU EȘTI DE ACORD CU TOATE LIMITĂRILE ȘI CONDIȚIILE ENUNȚATE PE ACEST SITE
 
@@ -10,7 +10,7 @@
 
 - mesajele tale **SMS** sunt _stocate doar în_ EUropa și vor fi șterse automat după 90 de zile de la data când au fost primite.
 
-- **doar** mesajele tale **SMS** prin care: APLICi la unPi, anunți că vei RESPECTa [regulamentul unPi](http://regulament.unpi.ro/) ori comanda de a STERGE aplicația ta la unPi vor fi păstrate _în perpetuitate_, într-o singura copie în EUropa plus o copie de siguranță/backup [criptată](https://dexonline.ro/definitie/criptare) în USA.
+- **doar** mesajele tale **SMS** prin care: APLICi la unPi, anunți că INTELEGi SI RESPECTi [regulamentul unPi](http://regulament.unpi.ro/), confirmi că AM PRIMIT UNPI ori comanda de a STERGE aplicația ta de la unPi vor fi păstrate _în perpetuitate_, într-o singura copie în EUropa plus o copie de siguranță/backup [criptată](https://dexonline.ro/definitie/criptare) în USA. De asemnea o copie a acestor mesaje SMS va fi păstrată în actele de contabilitate ale asociației pentru maximum 5 ani.
 
 - email-urile prin care furnizezi copii după contractul de Internet (cerut doar pentru seria #1 de donații), ori altă copie dupa un act legal, sunt păstrate pentru maxim 90 de zile de la primire și sunt stocate [criptat](https://dexonline.ro/definitie/criptare) in Elveția.
 
