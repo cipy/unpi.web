@@ -11,7 +11,7 @@ Am reușit admiterea la o prestigioasă facultate de medicină [militară] din A
 
 Prin cele expuse mai sus doresc să subliniez faptul că perseverența, dorința de îmbunătățire continuă și gândirea liberă pot schimba cursul vieții în sens pozitiv, reușind prin aceasta să devii ce ai visat la început, copil fiind.
 
-Pentru sfarșit, doresc învățăceilor [unPi] să își propună să acumuleze cunoșțiinte din multiple domenii, începând cu cele reale [tehnice], în special cele IT, terminând cu cele artistice, toate având rolul de a completa și a întregi o personalitate ce poate tinde [astfel] către perfecțiune.
+Pentru sfarșit, doresc învățăceilor [unPi] să își propună să acumuleze cunoștiințe din multiple domenii, începând cu cele reale [tehnice], în special cele IT, terminând cu cele artistice, toate având rolul de a completa și a întregi o personalitate ce poate tinde [astfel] către perfecțiune.
 
 
 ##### Autor: A.A., medic cardiolog
