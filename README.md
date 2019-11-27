@@ -29,6 +29,10 @@ De asemenea, urmărim atragerea de [donații private](https://start.unpi.ro/done
 - [news.ro](https://www.news.ro/comunicate/comunicat-de-presa-elevii-din-medii-defavorizate-primesc-mini-pc-uri-si-cursuri-de-programare-din-partea-asociatiei-unpi-pentru-scolari-19154523) comunicat de presa din 28 octombrie 2019
 - [profit.ro](https://www.profit.ro/stiri/social/elevii-din-medii-defavorizate-primesc-mini-pc-uri-si-cursuri-de-programare-din-partea-asociatiei-unpi-pentru-scolari-19154254) articol din 28 octombrie 2019 (identic cu news.ro)
 
+#### Despre succes în viață, pornind de la Visele Copilariei
+
+- Alex A., [medic cardiolog](https://www.unpi.ro/pro/AA/)
+
 #### Membri de Onoare (_doar inițialele numelui_) ai Asociației **unPi** pentru Școlari
 
 BS DD LL SS PS RB MV AG CR SN SP DT DM SG CB RB CO CS (donatori; _doar_ seria #1)
