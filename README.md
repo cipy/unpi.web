@@ -23,11 +23,12 @@ De asemenea, urmărim atragerea de [donații private](https://start.unpi.ro/done
 - email: [presă](mailto:presa@unpi.ro), [întrebări generale](mailto:intrebari@unpi.ro), [probleme cu unPi](mailto:probleme@unpi.ro) (_doar pentru beneficiari_)
 - pe Internet: [blog](https://blog.unpi.ro/), [Whatsapp](https://api.whatsapp.com/send?phone=+358406640059), [Telegram](https://t.me/unpi_ong), [Twitter](http://twitter.com/unpi_ong), [LinkedIn](https://www.linkedin.com/company/asociatia-unpi-pentru-scolari/), [Facebook](https://www.facebook.com/unpi.ro/), [TikTok](https://www.tiktok.com/@unpi.ro)
 
-#### Apariții în Presă
+#### Apariții în Presă / OnLine
 
 - [start-up.ro](https://start-up.ro/unpi-asociatia-care-vrea-sa-ofere-calculatoare-pentru-toti-copiii/) articol din 1 iunie 2019
-- [news.ro](https://www.news.ro/comunicate/comunicat-de-presa-elevii-din-medii-defavorizate-primesc-mini-pc-uri-si-cursuri-de-programare-din-partea-asociatiei-unpi-pentru-scolari-19154523) comunicat de presa din 28 octombrie 2019
+- [news.ro](https://www.news.ro/comunicate/comunicat-de-presa-elevii-din-medii-defavorizate-primesc-mini-pc-uri-si-cursuri-de-programare-din-partea-asociatiei-unpi-pentru-scolari-19154523) comunicat de presă din 28 octombrie 2019
 - [profit.ro](https://www.profit.ro/stiri/social/elevii-din-medii-defavorizate-primesc-mini-pc-uri-si-cursuri-de-programare-din-partea-asociatiei-unpi-pentru-scolari-19154254) articol din 28 octombrie 2019 (identic cu news.ro)
+- [gadget4u.ro](https://gadget4u.ro/unpi-pentru-copiii-din-medii-defavorizate/) articol din 10 decembrie 2019 (și [promoția de Crăciun](https://www.facebook.com/unpi.ro/photos/a.414564199158076/442301593051003/?type=3&theater))
 
 #### Despre succes în viață, pornind de la Visele Copilariei
 
