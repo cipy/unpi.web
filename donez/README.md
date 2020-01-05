@@ -19,10 +19,7 @@ Mulțumim!
 
 #### OK, m-ai convins, dar vreau să contribui anonim!
 
-Răspuns: te rugăm trimite echivalentul a €120 (ori cât îți permiți) în unul din următoarele portofele virtuale:
-
-- pentru BTC (sau Bitcoin) la [38yr6P1yPYJ4Ln3LU7X1q5yVwWN9Mxkyu8](https://www.blockchain.com/btc/address/38yr6P1yPYJ4Ln3LU7X1q5yVwWN9Mxkyu8)
-- pentru ETH (sau Ethereum) la [0x7B9d26f552a27a70bA26ae225Cdc22120DdE8892](https://www.blockchain.com/eth/address/0x7B9d26f552a27a70bA26ae225Cdc22120DdE8892)
+Răspuns: te rugăm trimite echivalentul a €120 (**unPi**, ori cât îți permiți) în portofelul virtual [Bitcoin](https://bitcoin.org/ro/) sau BTC la adresa [38yr6P1yPYJ4Ln3LU7X1q5yVwWN9Mxkyu8](https://www.blockchain.com/btc/address/38yr6P1yPYJ4Ln3LU7X1q5yVwWN9Mxkyu8)
 
 Mulțumim!
 
