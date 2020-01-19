@@ -8,8 +8,8 @@
 ### Conturi: Asociația unPi pentru Școlari, Banca Transilvania, cod BIC/SWIFT BTRLRO22DBA
 
 - cod IBAN RO31BTRLRONCRT0523621201 pentru donații în RON [sold curent: 5190.00 RON]
-- cod IBAN RO78BTRLEURCRT0523621201 pentru donații în EUR [sold curent: 91.38 EUR]
-- cod IBAN RO82BTRLUSDCRT0523621201 pentru donații în USD [sold curent: 100.00 USD]
+- cod IBAN RO78BTRLEURCRT0523621201 pentru donații în EUR [sold curent: 361.62 EUR]
+- cod IBAN RO82BTRLUSDCRT0523621201 pentru donații în USD [sold curent: 66.00 USD]
 
 
 ### Contacte
