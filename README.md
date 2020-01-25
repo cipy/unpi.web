@@ -1,5 +1,3 @@
-<script src="https://cmp.osano.com/AzZcjgRoabf8stpc/0887f8c8-9c17-46e6-9dec-b215fb775c2b/osano.js"></script>
-
 > vezi și [vreau unPi](https://www.unpi.ro/vreau/), să [donez](https://www.unpi.ro/donez/), să [învăț](https://www.unpi.ro/invat/programare/), [de ce](https://www.unpi.ro/dece/), [ce primești](https://vimeo.com/329034464), [asamblezi](https://vimeo.com/329035192), [conectezi](https://vimeo.com/329036345), [la TV](https://vimeo.com/329037141)
 
 ## Asociația unPi pentru Școlari
@@ -39,6 +37,8 @@ De asemenea, urmărim atragerea de [donații private](https://start.unpi.ro/done
 #### Membri de Onoare (_doar inițialele numelui_) ai Asociației **unPi** pentru Școlari
 
 BS DD LL SS PS RB MV AG CR SN SP DT DM SG CB RB CO CS (donatori; _doar_ seria #1)
+
+<script src="https://cmp.osano.com/AzZcjgRoabf8stpc/0887f8c8-9c17-46e6-9dec-b215fb775c2b/osano.js"></script>
 
 <script src="https://wchat.freshchat.com/js/widget.js"></script>
 
