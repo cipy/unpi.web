@@ -54,6 +54,7 @@ Apoi ne vom concentra și vom solicita atenția voastră la [programarea în lim
 
 ### Hai, începe să înveți cu noi programare! Ce [mai aștepți?](https://start.unpi.ro/privat/)
 
+<script src="https://cmp.osano.com/AzZcjgRoabf8stpc/0887f8c8-9c17-46e6-9dec-b215fb775c2b/osano.js"></script>
 
 <script src="https://wchat.freshchat.com/js/widget.js"></script>
 
