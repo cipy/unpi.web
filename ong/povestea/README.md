@@ -1,5 +1,3 @@
-> vezi și [vreau](https://www.unpi.ro/vreau/), să [învăț](https://www.unpi.ro/invat/programare/), [de ce](https://www.unpi.ro/dece/), [ce primești](https://vimeo.com/329034464), [asamblezi](https://vimeo.com/329035192), [conectezi](https://vimeo.com/329036345), [la TV](https://vimeo.com/329037141)
-
 ## Salut,
 
 Sper că ești bine,
@@ -21,13 +19,13 @@ Vrei să contribui €/$/RON? Vezi te rog conturile bancare din pagina [donez](h
 - [Cablu rețea profesional](https://www.amazon.de/gp/product/B00QV1F160/) în jur de €8
 - Azi, transportul de la Amazon.de către România este în jur de €10
 
-
 #### NOTA: proiectul a devenit “Asociația unPi pentru Școlari”, [ONG](http://ong.unpi.ro/)/non profit înregistrat oficial în România
-
 
 Numai bine, și mulțumim!
 
 Ciprian & co
+
+<script src="https://cmp.osano.com/AzZcjgRoabf8stpc/0887f8c8-9c17-46e6-9dec-b215fb775c2b/osano.js"></script>
 
 <script src="https://wchat.freshchat.com/js/widget.js"></script>
 
