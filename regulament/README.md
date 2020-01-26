@@ -17,3 +17,14 @@ Pentru a primi unPi te **angajezi** (părinte și copil) **solemn** să respecț
 5. singura excepție de la punctul 3. sunt informații cerute de organele reprezentative ale legii, gen: poliția, procuratura, șamd. (să sperăm că nu va fi cazul, onoarea (ta) ne va fi busola)
 
 Așa să ne ajute Dumnezeu!
+
+<script src="https://cmp.osano.com/AzZcjgRoabf8stpc/0887f8c8-9c17-46e6-9dec-b215fb775c2b/osano.js"></script>
+
+<script src="https://wchat.freshchat.com/js/widget.js"></script>
+
+<script>
+  window.fcWidget.init({
+    token: "1dbeef16-76f2-47bc-bc8a-f848842e00d7",
+    host: "https://wchat.freshchat.com"
+  });
+</script>
