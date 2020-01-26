@@ -1,12 +1,3 @@
-<script src="https://wchat.freshchat.com/js/widget.js"></script>
-
-<script>
-  window.fcWidget.init({
-    token: "1dbeef16-76f2-47bc-bc8a-f848842e00d7",
-    host: "https://wchat.freshchat.com"
-  });
-</script>
-
 ## De ce?
 
 #### (or ce) vreți să faceți (cu) proiectul unPi.ro?
@@ -44,3 +35,14 @@ Răspuns: Da, nu este totul roz în IT. Și nimeni nu-ți prea spune asta din ti
 #### unPi și nu un calculator la mâna a doua?
 
 Răspuns: oricine lucrează profesional cu calculatoarele îți poate spune cât de fragile sunt, și cât de complicat este să faci un soft ori program care să meargă _exact_ la fel pe toate. [Configurația unPi](https://www.unpi.ro/spec/) ne permite să testăm ușor materialele pentru [cursul Go](https://go.unpi.ro/) și să ne asigurăm că totul va arăta la fel, la toți elevii. E _mult mai greu_ de făcut asta cu _diverse_ calculatoare la mâna a doua.
+
+<script src="https://cmp.osano.com/AzZcjgRoabf8stpc/0887f8c8-9c17-46e6-9dec-b215fb775c2b/osano.js"></script>
+
+<script src="https://wchat.freshchat.com/js/widget.js"></script>
+
+<script>
+  window.fcWidget.init({
+    token: "1dbeef16-76f2-47bc-bc8a-f848842e00d7",
+    host: "https://wchat.freshchat.com"
+  });
+</script>
