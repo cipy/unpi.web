@@ -1,12 +1,3 @@
-<script src="https://wchat.freshchat.com/js/widget.js"></script>
-
-<script>
-  window.fcWidget.init({
-    token: "1dbeef16-76f2-47bc-bc8a-f848842e00d7",
-    host: "https://wchat.freshchat.com"
-  });
-</script>
-
 ## Secțiune pentru utilizatorii privați
 
 Oh, sunt un utilizator privat, interesantă inițiativa [unPi](https://www.unpi.ro/), dar nu vreau să donez or să contribui încă. Însă:
@@ -30,3 +21,14 @@ Răspuns: Nu. Doar trebuie sa faci ceea ce este recomandat puțin mai sus la pun
 P5. Trebuie să știu limba engleză?
 
 Răspuns: Nu pentru [cursul Go](https://go.unpi.ro/), va fi (totul) în limba română. Dar, pe termen lung ar trebui să depui puțin efort în a învăța și ceva engleză. Te va ajuta (în lucrul cu calculatorul) pe termen lung. Poți începe studiul limbii engleze cu aplicația mobilă [mondly](https://www.mondly.com), este făcută la Brașov 🤓
+
+<script src="https://cmp.osano.com/AzZcjgRoabf8stpc/0887f8c8-9c17-46e6-9dec-b215fb775c2b/osano.js"></script>
+
+<script src="https://wchat.freshchat.com/js/widget.js"></script>
+
+<script>
+  window.fcWidget.init({
+    token: "1dbeef16-76f2-47bc-bc8a-f848842e00d7",
+    host: "https://wchat.freshchat.com"
+  });
+</script>
