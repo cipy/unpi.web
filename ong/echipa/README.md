@@ -11,7 +11,6 @@
 - cod IBAN RO78BTRLEURCRT0523621201 pentru donații în EUR [sold curent: 361.62 EUR]
 - cod IBAN RO82BTRLUSDCRT0523621201 pentru donații în USD [sold curent: 66.00 USD]
 
-
 ### Contacte
 
 - dacă vrei să donezi, cu noi ori prin intermediul nostru, vezi pagina noastră [donez](http://donez.unpi.ro/)
@@ -24,6 +23,8 @@
 ### Membri de Onoare (_doar inițialele numelui_)
 
 BS DD LL SS PS RB MV AG CR SN SP DT DM SG CB RB CO CS (donatori, _doar_ seria #1)
+
+<script src="https://cmp.osano.com/AzZcjgRoabf8stpc/0887f8c8-9c17-46e6-9dec-b215fb775c2b/osano.js"></script>
 
 <script src="https://wchat.freshchat.com/js/widget.js"></script>
 
