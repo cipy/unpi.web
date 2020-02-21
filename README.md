@@ -8,7 +8,7 @@ Suntem o organizație nouă, non profit, activă în România ca [ONG](https://s
 
 Totul a început cu [o poveste](https://start.unpi.ro/ong/povestea/), și anume dorința membrului nostru fondator, [Ciprian Manea](https://www.linkedin.com/in/ciprian-manea), de a ajuta copiii din mediile defavorizate ca să-și poată depăși condiția socială în timp, prin studiu, efort și muncă proprie.
 
-Și îi ajutăm în acest sens dăruidu-le un [mic calculator personal](https://start.unpi.ro/spec/pc/), nou, pe care noi l-am numit **unPi**. Iar Ciprian îi va învăța programarea calculatoarelor pe **unPi** cu ajutorul unui limbaj ușor de studiat, modern, inventat la Google. Cursul acesta de [programare în limbajul Golang este online](https://go.unpi.ro/), gratis, în limba română.
+Și îi ajutăm în acest sens dăruindu-le un [mic calculator personal](https://start.unpi.ro/spec/pc/), nou, pe care noi l-am numit **unPi**. Iar Ciprian îi va învăța programarea calculatoarelor pe **unPi** cu ajutorul unui limbaj ușor de studiat, modern, inventat la Google. Cursul acesta de [programare în limbajul Golang este online](https://go.unpi.ro/), gratis, în limba română.
 
 De asemenea, urmărim atragerea de [donații private](https://start.unpi.ro/donez/) și sponsorizări de la firmele românești, în vederea achiziționării de noi [calculatoare personale unPi](https://start.unpi.ro/spec/pc/), pentru a fi dăruite cu prioritate școlarilor începând cu vârsta de 10 ani, ce provin din familii defavorizate, dar și familiilor care au în componența lor un membru (părinte sau copil) cu [nevoi speciale](https://start.unpi.ro/vreau/rapid/), recunoscute conform legislației din România, indiferent de veniturile familiei.
 
