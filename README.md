@@ -1,6 +1,6 @@
 > vezi și [vreau unPi](https://www.unpi.ro/vreau/), să [donez](https://www.unpi.ro/donez/), să [învăț](https://www.unpi.ro/invat/programare/), [de ce](https://www.unpi.ro/dece/), [ce primești](https://vimeo.com/329034464), [asamblezi](https://vimeo.com/329035192), [conectezi](https://vimeo.com/329036345), [la TV](https://vimeo.com/329037141)
 
-## Asociația unPi pentru Școlari
+## ONG
 
 Suntem o organizație nouă, non profit, activă în România ca [ONG](https://start.unpi.ro/ong/echipa/) (organizație neguvernamentală) începând din 1 Octombrie 2019. Asociația unPi pentru Școlari a fost înregistrată la Judecătoria Târgoviște, Județul Dâmbovița cu certificatul 22/I/A/2019 la data de 19.09.2019; C.I.F. 41680036
 
