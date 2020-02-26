@@ -13,14 +13,3 @@ Prin cele expuse mai sus doresc să subliniez faptul că perseverența, dorința
 Pentru sfarșit, doresc învățăceilor [unPi] să își propună să acumuleze cunoștiințe din multiple domenii, începând cu cele reale [tehnice], în special cele IT, terminând cu cele artistice, toate având rolul de a completa și a întregi o personalitate ce poate tinde [astfel] către perfecțiune.
 
 ##### Autor: A.A., medic cardiolog
-
-<script src="https://cmp.osano.com/AzZcjgRoabf8stpc/0887f8c8-9c17-46e6-9dec-b215fb775c2b/osano.js"></script>
-
-<script src="https://wchat.freshchat.com/js/widget.js"></script>
-
-<script>
-  window.fcWidget.init({
-    token: "1dbeef16-76f2-47bc-bc8a-f848842e00d7",
-    host: "https://wchat.freshchat.com"
-  });
-</script>
