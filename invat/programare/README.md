@@ -53,14 +53,3 @@ Vă vom lăsa și încuraja să descoperiți singuri [Scratch 3](https://scratch
 Apoi ne vom concentra și vom solicita atenția voastră la [programarea în limbajul Golang](https://go.unpi.ro/), începând cu aceleași exemple de programare pe care le-am construit înițial în Scratch. Vom evolua în timp spre concepte de programare mai complicate. [Golang](https://go-tour-ro.appspot.com/) este un limbaj de programare profesional (adică poți fi plătit sau angajat pentru a programa în el), este simplu și modern.
 
 ### Hai, începe să înveți cu noi programare! Ce [mai aștepți?](https://start.unpi.ro/privat/)
-
-<script src="https://cmp.osano.com/AzZcjgRoabf8stpc/0887f8c8-9c17-46e6-9dec-b215fb775c2b/osano.js"></script>
-
-<script src="https://wchat.freshchat.com/js/widget.js"></script>
-
-<script>
-  window.fcWidget.init({
-    token: "1dbeef16-76f2-47bc-bc8a-f848842e00d7",
-    host: "https://wchat.freshchat.com"
-  });
-</script>
