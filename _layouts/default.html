@@ -44,5 +44,21 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+
+    {% if site.GDPR %}
+    <script src="https://cmp.osano.com/AzZcjgRoabf8stpc/0887f8c8-9c17-46e6-9dec-b215fb775c2b/osano.js"></script>
+    {% endif %}
+
+    {% if site.freshchat %}
+    <script src="https://wchat.freshchat.com/js/widget.js"></script>
+
+    <script>
+      window.fcWidget.init({
+        token: "{{ site.freshchat }}",
+        host: "https://wchat.freshchat.com"
+      });
+    </script>
+    {% endif %}
+
   </body>
 </html>
