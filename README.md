@@ -2,7 +2,7 @@
 
 ## ONG
 
-Suntem o organizație nouă, non profit, activă în România ca [ONG](https://start.unpi.ro/ong/echipa/) (organizație neguvernamentală) începând din 1 Octombrie 2019. Asociația unPi pentru Școlari a fost înregistrată la Judecătoria Târgoviște, Județul Dâmbovița cu certificatul 22/I/A/2019 la data de 19.09.2019; C.I.F. 41680036
+Suntem o organizație nouă, non profit, activă în România ca [ONG](https://start.unpi.ro/ong/echipa/) (organizație neguvernamentală) începând din 1 Octombrie 2019. Asociația unPi pentru Școlari a fost înregistrată la Judecătoria Târgoviște, Județul Dâmbovița cu certificatul 22/I/A/2019 la data de 19.09.2019; CIF 41680036
 
 ### Misiune
 
@@ -12,7 +12,7 @@ Totul a început cu [o poveste](https://start.unpi.ro/ong/povestea/), și anume 
 
 De asemenea, urmărim atragerea de [donații private](https://start.unpi.ro/donez/) și sponsorizări de la firmele românești, în vederea achiziționării de noi [calculatoare personale unPi](https://start.unpi.ro/spec/pc/), pentru a fi dăruite cu prioritate școlarilor începând cu vârsta de 10 ani, ce provin din familii defavorizate, dar și familiilor care au în componența lor un membru (părinte sau copil) cu [nevoi speciale](https://start.unpi.ro/vreau/rapid/), recunoscute conform legislației din România, indiferent de veniturile familiei.
 
-#### [Echipa Fondatoare](https://start.unpi.ro/ong/echipa/)
+### [Echipa Fondatoare](https://start.unpi.ro/ong/echipa/)
 
 ### Contacte
 
