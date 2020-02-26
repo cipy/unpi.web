@@ -24,14 +24,3 @@ Vrei să contribui €/$/RON? Vezi te rog conturile bancare din pagina [donez](h
 Numai bine, și mulțumim!
 
 Ciprian & co
-
-<script src="https://cmp.osano.com/AzZcjgRoabf8stpc/0887f8c8-9c17-46e6-9dec-b215fb775c2b/osano.js"></script>
-
-<script src="https://wchat.freshchat.com/js/widget.js"></script>
-
-<script>
-  window.fcWidget.init({
-    token: "1dbeef16-76f2-47bc-bc8a-f848842e00d7",
-    host: "https://wchat.freshchat.com"
-  });
-</script>
