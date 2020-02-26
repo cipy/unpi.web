@@ -5,7 +5,7 @@
 - de contactat posibili donatori și sponsori pentru unPi pentru anul curent/2020
 - ~~de contactat (tech) bloggeri români care sunt interesați să publice un (prim) articol despre unPi~~
 - de trimis o scrisoare recomandată la fiecare beneficiar cu [regulamentul](https://www.unpi.ro/regulament) și instrucțiunile inițiale de instalare a calculatorului personal unPi; toți beneficiarii trebuie să confirme că sunt de acord cu regulamentul unPi printr-un SMS
-- de comandat prin Amazon.de și trimis unPi la fiecare beneficiar în parte
+- de comandat prin Pimoroni.com sau Amazon.de și trimis unPi la fiecare beneficiar în parte
 
 #### Tehnice
 
