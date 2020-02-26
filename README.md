@@ -4,7 +4,7 @@
 
 Suntem o organizație nouă, non profit, activă în România ca [ONG](https://start.unpi.ro/ong/echipa/) (organizație neguvernamentală) începând din 1 Octombrie 2019. Asociația unPi pentru Școlari a fost înregistrată la Judecătoria Târgoviște, Județul Dâmbovița cu certificatul 22/I/A/2019 la data de 19.09.2019; C.I.F. 41680036
 
-#### Misiune
+### Misiune
 
 Totul a început cu [o poveste](https://start.unpi.ro/ong/povestea/), și anume dorința membrului nostru fondator, [Ciprian Manea](https://www.linkedin.com/in/ciprian-manea), de a ajuta copiii din mediile defavorizate ca să-și poată depăși condiția socială în timp, prin studiu, efort și muncă proprie.
 
@@ -14,7 +14,7 @@ De asemenea, urmărim atragerea de [donații private](https://start.unpi.ro/done
 
 #### [Echipa Fondatoare](https://start.unpi.ro/ong/echipa/)
 
-#### Contacte
+### Contacte
 
 - dacă vrei să donezi, cu noi ori prin intermediul nostru, vezi te rog pagina [donez](https://start.unpi.ro/donez/)
 - pentru a primi o donație [unPi, mic calculator personal](https://start.unpi.ro/spec/pc/), vezi pagina [vreau unPi](https://start.unpi.ro/vreau/)
@@ -30,11 +30,11 @@ De asemenea, urmărim atragerea de [donații private](https://start.unpi.ro/done
 - [profit.ro](https://www.profit.ro/stiri/social/elevii-din-medii-defavorizate-primesc-mini-pc-uri-si-cursuri-de-programare-din-partea-asociatiei-unpi-pentru-scolari-19154254) articol din 28 octombrie 2019 (identic cu news.ro)
 - [gadget4u.ro](https://gadget4u.ro/unpi-pentru-copiii-din-medii-defavorizate/) articol din 10 decembrie 2019 (și [promoția de Crăciun](https://www.facebook.com/unpi.ro/photos/a.414564199158076/442301593051003/?type=3&theater))
 
-#### Despre succes în viață, pornind de la Visele Copilariei
+### Despre succes în viață, pornind de la Visele Copilariei
 
 - Alex A., [medic cardiolog](https://www.unpi.ro/pro/AA/)
 
-#### Membri de Onoare (_doar inițialele numelui_) ai Asociației **unPi** pentru Școlari
+### Membri de Onoare (_doar inițialele numelui_) ai Asociației **unPi** pentru Școlari
 
 BS DD LL SS PS RB MV AG CR SN SP DT DM SG CB RB CO CS (donatori; _doar_ seria #1)
 
