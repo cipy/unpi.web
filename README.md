@@ -37,14 +37,3 @@ De asemenea, urmărim atragerea de [donații private](https://start.unpi.ro/done
 ### Membri de Onoare (_doar inițialele numelui_) ai Asociației **unPi** pentru Școlari
 
 BS DD LL SS PS RB MV AG CR SN SP DT DM SG CB RB CO CS (donatori; _doar_ seria #1)
-
-<script src="https://cmp.osano.com/AzZcjgRoabf8stpc/0887f8c8-9c17-46e6-9dec-b215fb775c2b/osano.js"></script>
-
-<script src="https://wchat.freshchat.com/js/widget.js"></script>
-
-<script>
-  window.fcWidget.init({
-    token: "1dbeef16-76f2-47bc-bc8a-f848842e00d7",
-    host: "https://wchat.freshchat.com"
-  });
-</script>
