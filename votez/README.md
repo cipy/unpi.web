@@ -26,14 +26,3 @@
 ##### Voturile cu cont Github au greutate / importanță mai mare decât cele prin email, dar **NU trișa** ori folosi un emoticon care nu reprezintă experiența ta pe Github! Altfel, _contul tău Github va fi blocat_ în toate repository-urile noastre!
 
 #### Importanță, ori puncte acordate pentru fiecare vot, prin email: 1, 👍🏻: 2, ❤️: 5, 🚀: 10
-
-<script src="https://cmp.osano.com/AzZcjgRoabf8stpc/0887f8c8-9c17-46e6-9dec-b215fb775c2b/osano.js"></script>
-
-<script src="https://wchat.freshchat.com/js/widget.js"></script>
-
-<script>
-  window.fcWidget.init({
-    token: "1dbeef16-76f2-47bc-bc8a-f848842e00d7",
-    host: "https://wchat.freshchat.com"
-  });
-</script>
