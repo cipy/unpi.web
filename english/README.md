@@ -26,14 +26,3 @@ In Computer Science engineering _speak_: **concurrency** is the capacity of a pr
 From my side, our current donors, volunteers & supporters, and likely the future computer science talents we're likely to shape together: **Thank You from the bottom of our hearts for your hard earned contribution!** We'll be forever in your debt.
 
 Ciprian & co
-
-<script src="https://cmp.osano.com/AzZcjgRoabf8stpc/0887f8c8-9c17-46e6-9dec-b215fb775c2b/osano.js"></script>
-
-<script src="https://wchat.freshchat.com/js/widget.js"></script>
-
-<script>
-  window.fcWidget.init({
-    token: "1dbeef16-76f2-47bc-bc8a-f848842e00d7",
-    host: "https://wchat.freshchat.com"
-  });
-</script>
