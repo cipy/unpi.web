@@ -26,14 +26,3 @@ Mulțumim!
 #### Hmm, îmi place ideea dar vreau să donez direct.
 
 Răspuns: îți recomandăm _călduros_ să dăruiești unPi în aceeași [configurație](https://www.unpi.ro/spec/) pe care o vom folosi pentru cursul Golang. Ești liber să selectezi apoi beneficiarul pe propriile criterii, dar dacă îi dăruiești ceva care nu este în specificația unPi, nu îl vom putea ajuta în timpul cursului Go. De asemenea trebuie să citești și [pagina pentru utilizatori privați](https://www.unpi.ro/privat/).
-
-<script src="https://cmp.osano.com/AzZcjgRoabf8stpc/0887f8c8-9c17-46e6-9dec-b215fb775c2b/osano.js"></script>
-
-<script src="https://wchat.freshchat.com/js/widget.js"></script>
-
-<script>
-  window.fcWidget.init({
-    token: "1dbeef16-76f2-47bc-bc8a-f848842e00d7",
-    host: "https://wchat.freshchat.com"
-  });
-</script>
