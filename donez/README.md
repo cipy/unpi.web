@@ -2,7 +2,7 @@
 
 #### OK, m-ai convins, cum donez acum unPi?
 
-Răspuns: contactează-ne [direct](mailto:donez@unpi.ro?subject=vreau%20sa%20donez%20unPi) ori trimite donația ta (de preferat echivalentul a €140, cât valorează noul unPi) în unul din conturile bancare următoare. De asemenea poți dona și mai puțin de €140, dacă nu îți permiți întreaga sumă.
+Răspuns: contactează-ne [direct](mailto:donez@unpi.ro?subject=vreau%20sa%20donez%20unPi) ori trimite donația ta (de preferat echivalentul a €120, cât valorează unPi) în unul din conturile bancare următoare. De asemenea poți dona și mai puțin de €120, dacă nu îți permiți întreaga sumă.
 
 - către: Asociația unPi pentru Școlari, Banca Transilvania, cod BIC/SWIFT BTRLRO22DBA
 - cod IBAN RO31BTRLRONCRT0523621201 pentru donații în RON
@@ -19,7 +19,7 @@ Mulțumim!
 
 #### OK, m-ai convins, dar vreau să contribui anonim!
 
-Răspuns: te rugăm trimite echivalentul a €140 (ori cât îți permiți) în [Bitcoin](https://bitcoin.org/ro/) către portofelul virtual BTC de la adresa [38yr6P1yPYJ4Ln3LU7X1q5yVwWN9Mxkyu8](https://www.blockchain.com/btc/address/38yr6P1yPYJ4Ln3LU7X1q5yVwWN9Mxkyu8)
+Răspuns: te rugăm trimite echivalentul a €120 (ori cât îți permiți) în [Bitcoin](https://bitcoin.org/ro/) către portofelul virtual BTC de la adresa [38yr6P1yPYJ4Ln3LU7X1q5yVwWN9Mxkyu8](https://www.blockchain.com/btc/address/38yr6P1yPYJ4Ln3LU7X1q5yVwWN9Mxkyu8)
 
 Mulțumim!
 
