@@ -15,17 +15,17 @@
 - capacitatea financiară, dorința și locația fizică pentru a se putea conecta la Internet cu o legătură _fixă_, cel puțin pentru un an (**doar** pentru prima serie de donații, [acum suntem la seria #1, **prima**], _poți primi 15 RON pe lună, timp de un an_, de la noi, drept suport material, _dacă_ îți faci un **contract nou** de Internet _fix_ după ce ai fost nominalizat ca beneficiar unPi; pentru seriile următoare [avem nevoie de mai mulți donatori](http://donez.unpi.ro/))
 
 ##### Pas 1. Instalează pe telefonul tău mobil/Android:
-- aplicația [Whatsapp](https://whatsapp.com/dl) pentru comunicare ulterioară cu Asociația unPi pentru Școlari
-- aplicația [Revolut](https://revolut.com/referral/cipria2dd) (folosește [acest link](https://revolut.com/referral/cipria2dd)) pentru verificarea identității părinte/tutore-lui
-- _opțional_, aplicația [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger) (nu este tradusă încă în limba română)
+- [aplicația Revolut](https://revolut.com/referral/cipria2dd), apasă pe acest [link pentru verificarea identității tale/părinte/tutore în Revolut](https://revolut.com/referral/cipria2dd)
+- [aplicația Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger) (care din păcate nu este încă tradusă complet în limba română), pentru comunicarea ulterioară cu Asociația unPi pentru Școlari
+- după ce ai instalat aplicația [Telegram](https://telegram.org/apps), apasă pe acest [link pentru a activa interfața Telegram tradusă în limba română](https://t.me/setlanguage/ro-beta)
 
 ##### Pas 2. Creează-ți propriul cont bancar în Revolut:
 - urmează te rog procesul lor, din aplicația mobilă Revolut, pas cu pas, până la sfârșit!
 - **așteaptă** te rog ca cei de la Revolut să-ți valideze actele de identitate și să-ți deschidă contul bancar
-- dacă instalezi aplicația Revolut folosind [acest link](https://revolut.com/referral/cipria2dd), este posibil - dacă ești puțin norocos, să prinzi o promoție care iți va acorda și trimite cardul lor bancar, Visa Electron sau Mastercard, gratis, acasă
+- dacă instalezi aplicația Revolut folosind [acest link](https://revolut.com/referral/cipria2dd) (identic cu cele folosite mai sus pentru Revolut), este posibil - _dacă ai puțin noroc_, să prinzi o promoție care iți va acorda și trimite cardul lor bancar de debit, Visa Electron sau Mastercard, gratis, acasă
 - **doar** în contul tău bancar din Revolut poți/vei primi cei 15 RON pe lună menționați la Pas 0.
 - Revolut este o bancă nouă, licențiată, europeană
-- NU îți recomandăm să-ți păstrezi economiile în Revolut
+- **NU** îți recomandăm să-ți păstrezi economiile în Revolut
 
 ##### Pas 3. Cesionare drepturi digitale prin această aplicație:
 - părintele/tutorele care **acum** aplică pentru unPi **se obligă**:
