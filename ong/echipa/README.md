@@ -18,7 +18,7 @@
 - pentru a primi raportul anual (pe scurt) pe email, te poți înscrie în [lista de distribuție](mailto:raport@unpi.ro?subject=vreau%20un%20scurt%20raport%20anual)
 - telefon: [mobil](tel:+358406640059) +358406640059 (de luni până vineri, de la 6pm la 8pm)
 - email: [presă](mailto:presa@unpi.ro), [întrebări generale](mailto:intrebari@unpi.ro), [probleme cu unPi](mailto:probleme@unpi.ro) (_doar pentru beneficiari_)
-- pe Internet: [blog](https://blog.unpi.ro/), [Whatsapp](https://api.whatsapp.com/send?phone=+358406640059), [Telegram](https://t.me/unpi_ong), [Twitter](http://twitter.com/unpi_ong), [LinkedIn](https://www.linkedin.com/company/asociatia-unpi-pentru-scolari/), [Facebook](https://www.facebook.com/unpi.ro/), [TikTok](https://www.tiktok.com/@unpi.ro)
+- pe Internet: [Telegram](https://t.me/unpi_ong), [Twitter](http://twitter.com/unpi_ong), [LinkedIn](https://www.linkedin.com/company/asociatia-unpi-pentru-scolari/), [Facebook](https://www.facebook.com/unpi.ro/), [TikTok](https://www.tiktok.com/@unpi.ro) și [NU Whatsapp](http://whatsapp.unpi.ro)
 
 ### Membri de Onoare (_doar inițialele numelui_)
 
