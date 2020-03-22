@@ -10,7 +10,7 @@ Răspuns: programarea, munca în IT în general, este cea mai _democratică_ ocu
 
 #### nu altceva?
 
-Răspuns: nu insistăm pe [monocultură](https://dexonline.ro/definitie/monocultură), gen "învață doar IT", dimpotrivă. Trebuie să vezi viitoarele tale cunoștiințe în IT drept o unealtă ce iți va permite să multiplici, uneori de sute, chiar mii de ori, ce poți face de unul singur. Dacă visezi să devii doctor, asistentă, avocat, economist, etc, vei putea folosi ulterior cunoștiințele tale specializate ca să creezi un program or mai multe programe pe calculator care să te ajute în munca (mult) visată, ori ca să știi ce să-i ceri unui consultant IT.
+Răspuns: nu insistăm pe [monocultură](https://dexonline.ro/definitie/monocultură), gen "învață doar IT", dimpotrivă. Trebuie să vezi viitoarele tale cunoștiințe în IT drept o unealtă ce îți va permite să multiplici, uneori de sute, chiar mii de ori, ce poți face de unul singur. Dacă visezi să devii doctor, asistentă, avocată, economist, etc, vei putea folosi ulterior cunoștiințele tale specializate ca să creezi un program or mai multe programe pe calculator care să te ajute în munca (mult) visată, ori ca să știi ce să-i ceri unui consultant IT.
 
 #### tu/autorul?
 
@@ -18,7 +18,7 @@ Răspuns: eu am avut scânteia/ideea inițială, dar oricine poate acum [să don
 
 #### noi/beneficiarul?
 
-Răspuns: dacă ești un copil în dificultate (financiară, socială), și ai cel puțin 10 ani, și vrei să-ți schimbi condiția prin forțe proprii, și _vrei să înveți programare_, roagă-l pe unul din părinți (ori tutor, dacă ai așa ceva) să contacteze unPi [direct](mailto:vreau@unpi.ro?subject=vreau%20sa%20primesc%20unPi). (nu vă putem ajuta pe _toți_ din prima zi, din păcate, dar pe măsură ce primim noi donații, le vom trimite în ordine celor ce au fost selectați)
+Răspuns: dacă ești un copil în dificultate (financiară, socială), și ai cel puțin 10 ani, și vrei să-ți schimbi condiția prin forțe proprii, și _vrei să înveți programare_, roagă-l pe unul din părinți (ori tutore, dacă ai așa ceva) să contacteze unPi [direct](mailto:vreau@unpi.ro?subject=vreau%20sa%20primesc%20unPi). (nu vă putem ajuta pe _toți_ din prima zi, din păcate, dar pe măsură ce primim noi donații, le vom trimite în ordine celor ce au fost selectați)
 
 #### copii începând cu vârsta de 10 ani?
 
