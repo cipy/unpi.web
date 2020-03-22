@@ -4,7 +4,8 @@
 > O parte din mine s-a rupt ..
 >
 > E noaptea mea ... 
-----
+
+
 > În zori de zi .. lumina e caldă, cerul gri ..
 >
 > O rază, o speranță va răsări ..
