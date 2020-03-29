@@ -59,11 +59,11 @@
 - înlocuiește _prenume_ și _nume_ în exemplul de mai sus, cu numele tău legal, _folosit_ la Pas 2. și 4.
 - materialele trimise pe email (la vreau+_PAROLA_@unpi.ro, vezi Pas 5.) vor apare mai târziu, după 20-30 de minute; _nu uita_ mai sus de caracterul **-** în http://cer.unpi.ro/prenume-nume/ ca separator între _prenume_ și _nume_
 - trimite-ți prietenii, rudele, cunoștiințele să [voteze online pentru tine](http://votez.unpi.ro) la votez.unpi.ro
-- **așteaptă** procesul de selecție. dacă colectezi voturi multe, _[legitime](https://dexonline.ro/definitie/legitim)_, vei fi contactat pe mobil/Whatsapp/Telegram
+- **așteaptă** procesul de selecție. dacă colectezi voturi multe, _[legitime](https://dexonline.ro/definitie/legitim)_, vei fi contactat pe mobil/Telegram
 - acum e timpul să adaugi [contactele noastre](http://ong.unpi.ro/) în agenda ta și să ne urmarești în online 🤓
 
 ##### Pas 7. Atunci când aplicația ta online a strâns voturi semnificative, ori ne-a captat atenția
-- vei fi contactat pe mobil/Whatsapp/Telegram pentru confirmare și inițierea procesului de donație
+- vei fi contactat pe mobil/Telegram pentru confirmare și inițierea procesului de donație
 - vei primi prin poștă [regulamentul](http://regulament.unpi.ro) nostru tipărit, împreună cu un ghid de instalare pentru unPi
 - regulamentul **trebuie confirmat prin SMS** la +358406640059 cu textul "INTELEG SI RESPECT REGULAMENTUL"
 - neconfirmarea [regulamentului](http://regulament.unpi.ro) prin **SMS** va duce la anularea donației către părintele/tutorele respectiv
