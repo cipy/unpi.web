@@ -18,7 +18,7 @@ In Computer Science engineering _speak_: **concurrency** is the capacity of a pr
 
 - [Raspberry Pi 3 B+ Ultimate Starter Kit](https://www.amazon.de/gp/product/B07DDCRFP6/) €80
 - [keyboard with built-in trackpad](https://www.amazon.de/gp/product/B07HG5Q851/) (wireless) €20
-- [professional network cable](https://www.amazon.de/gp/product/B00QV1F160/) €9
+- [professional network cable](https://www.amazon.de/gp/product/B00QV1F160/) €10
 - delivery costs from Amazon.de to Romania, about €10
 
 ###### NOTE: the project is now oficially registered in Romania as a Non Profit / NGO named “Asociația unPi pentru Școlari”
