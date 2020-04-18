@@ -16,7 +16,7 @@ Vrei să contribui €/$/RON? Vezi te rog conturile bancare din pagina [donez](h
 
 - [Raspberry Pi 3 B+ Ultimate Starter Kit](https://www.amazon.de/gp/product/B07DDCRFP6/) €80
 - [Tastatură cu trackpad incorporat](https://www.amazon.de/gp/product/B07HG5Q851/) (wireless) €20
-- [Cablu rețea profesional](https://www.amazon.de/gp/product/B00QV1F160/) în jur de €8
+- [Cablu rețea profesional](https://www.amazon.de/gp/product/B00QV1F160/) în jur de €10
 - Astăzi, transportul de la Amazon.de/Germania către România este în jur de €10
 
 #### NOTA: proiectul a devenit “Asociația unPi pentru Școlari”, [ONG](http://ong.unpi.ro/)/non profit înregistrat oficial în România
