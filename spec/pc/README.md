@@ -24,7 +24,7 @@
 7. port [generic HDMI](https://www.amazon.de/AmazonBasics-HL-007306-Hochgeschwindigkeits-HDMI-Kabel-Ethernet-4K-Videowiedergabe-Schwarz/dp/B014I8SSD0/) (conectare la TV ori un ecran HDMI)
 8. port CSI pentru a conecta o [cameră Raspberry Pi](https://www.raspberrypi.org/products/camera-module-v2/)
 9. [port analogic pentru audio (stereo) și composite video](https://www.adafruit.com/product/2881)
-10. [port Ethernet / RJ45](https://www.amazon.de/gp/product/B00QV1F19C/) (viteză maximă totală **300 Mbps**)
+10. [port Ethernet / RJ45](https://www.amazon.de/gp/product/B00QV1F160/) (viteză maximă totală **300 Mbps**)
 11. 4x port(uri) seriale USB 2.0 (pentru [diverse](http://plus.unpi.ro/) accesorii USB)
 12. suport [PoE](https://en.wikipedia.org/wiki/Power_over_Ethernet) (necesită [PoE HAT](https://www.raspberrypi.org/products/poe-hat/), achiziționată separat)
 13. (nu este arătată mai sus) memorie 1GB LPDDR2 SDRAM
@@ -33,6 +33,6 @@
 
 ![tastatura unPi](tastatura.jpg) ![trackpad de la tastatura unPi](trackpad.jpg)
 
-### Cum arată [cablul profesional de rețea](https://www.amazon.de/gp/product/B00QV1F19C/), viteză maximă **10 Gbps**
+### Cum arată [cablul profesional de rețea](https://www.amazon.de/gp/product/B00QV1F160/), viteză maximă **10 Gbps**
 
 ![cablu retea 10Gbps](cablu.jpg) ![calitate cablu retea](calitate.jpg)
