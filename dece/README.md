@@ -34,4 +34,4 @@ Răspuns: Da, nu este totul roz în IT. Și nimeni nu-ți prea spune asta din ti
 
 #### unPi și nu un calculator la mâna a doua?
 
-Răspuns: oricine lucrează profesional cu calculatoarele îți poate spune cât de fragile sunt, și cât de complicat este să faci un soft ori program care să meargă _exact_ la fel pe toate. [Configurația unPi](https://www.unpi.ro/spec/) ne permite să testăm ușor materialele pentru [cursul Go](https://go.unpi.ro/) și să ne asigurăm că totul va arăta la fel, la toți elevii. E _mult mai greu_ de făcut asta cu _diverse_ calculatoare la mâna a doua.
+Răspuns: oricine lucrează profesional cu calculatoarele îți poate spune cât de fragile sunt, și cât de complicat este să faci un soft ori program care să meargă _exact_ la fel pe toate. [Configurația unPi](https://www.unpi.ro/spec/) ne permite să testăm ușor materialele pentru [cursul Go](https://go.unpi.ro/) și să ne asigurăm că totul va arăta la fel, pentru toți elevii. E _mult mai greu_ de făcut asta cu _diverse_ calculatoare la mâna a doua.
