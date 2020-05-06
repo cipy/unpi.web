@@ -38,7 +38,7 @@ Dacă ai ajuns până aici, e un semn bun. Hai să vedem ce-ți mai oferim, în 
 
 - o licență anuală antivirus: Kaspersky Internet Security în dar din partea [Kaspersky România](https://www.kaspersky.ro/) (mulțumim domnilor CR și BP pentru această ofertă)
 
-- o licență anuală pentru a învăța programare (din pacate **nu** și pentru dezvoltare) folosind oricare din softurile IDE profesionale: GoLand, PyCharm, CLion, IntelliJ IDEA, PhpStorm, WebStorm, DataGrip, RubyMine din partea [JetBrains](https://www.jetbrains.com/all/)
+- o licență anuală pentru a învăța programare (din pacate **nu** și pentru dezvoltarea de programe) folosind oricare din softurile IDE profesionale: GoLand, PyCharm, CLion, IntelliJ IDEA, PhpStorm, WebStorm, DataGrip, RubyMine din partea [JetBrains](https://www.jetbrains.com/all/)
 
 - o licență Windows 10 Professional (for Workstations) în dar, dacă ești forțat astăzi să rulezi Windows nelicențiat din motive financiare. Sau ai nevoie de versiunea "for Workstations" pentru că ai un calculator personal cu mai mult de 2 procesoare 🤓 (licența va fi returnată _Asociației unPi pentru Școlari_ la _terminarea contractului tău_ de voluntariat)
 
