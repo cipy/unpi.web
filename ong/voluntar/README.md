@@ -24,6 +24,8 @@ Dacă ai ajuns până aici, e un semn bun. Hai să vedem ce-ți mai oferim, în 
 
 #### beneficii [intangibile](https://dexonline.ro/definitie/intangibil):
 
+- suntem cu toți digitally remote, or [digital nomads](https://en.wikipedia.org/wiki/Digital_nomad), de înainte ca termenii "remote" / "nomad" / "digital" să fie măcar cool
+
 - poți alege specificul muncii tale de voluntariat. Ceva la ce tu ești foarte bun deja, sau la ceea ce ai vrea să devii foarte bun. _Dezavantaj_: ne așteptăm la o calitate gen [Apple](https://www.apple.com/) a muncii tale, chiar dacă nu o vom putea compensa monetar. Da, vei învăța și practica perfecțiunea, dacă o poți tolera.
 
 - dacă nu știi IT, și vrei să înveți, îl vei avea pe [Ciprian](https://www.linkedin.com/in/ciprian-manea/) la contacte rapide. Vei putea urma toate cursurile noastre, pune întrebari direct la sursă, vei putea explica concepte IT indirect și beneficiarilor noștri prin intermediul materialelor unPi digitale. După un [motto](https://dexonline.ro/definitie/motto), pe care și Ciprian îl folosește: "dacă vrei să înțelegi un subiect foarte bine, încearcă să-l predai sau explici și unui copil"
@@ -36,9 +38,9 @@ Dacă ai ajuns până aici, e un semn bun. Hai să vedem ce-ți mai oferim, în 
 
 #### beneficii [tangibile](https://dexonline.ro/definitie/tangibil):
 
-- o adresă email personalizată @unpi.dev și opțiunile aferente din [Google Suite for Business](https://gsuite.google.com/features/)
+- o adresă email personalizată @unpi.dev și opțiunile aferente din [Google Suite Basic](https://gsuite.google.com/pricing.html)
 
-- o licență anuală antivirus: Kaspersky Internet Security în dar din partea [Kaspersky România](https://www.kaspersky.ro/) (mulțumim domnilor CR și BP pentru această ofertă)
+- o licență anuală antivirus: [Kaspersky Internet Security](https://www.kaspersky.com/internet-security) în dar din partea [Kaspersky România](https://www.kaspersky.ro/) (mulțumim domnilor CR și BP pentru această ofertă)
 
 - o licență anuală, educațională, pentru a învăța programare (din păcate **nu** și pentru dezvoltarea de produse software), folosind oricare din uneltele IDE profesionale: GoLand, PyCharm, RubyMine, CLion, IntelliJ IDEA, PhpStorm, WebStorm, DataGrip, din partea [JetBrains](https://www.jetbrains.com/all/)
 
