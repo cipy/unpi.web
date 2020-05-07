@@ -24,7 +24,7 @@ Dacă ai ajuns până aici, e un semn bun. Hai să vedem ce-ți mai oferim, în 
 
 #### beneficii [intangibile](https://dexonline.ro/definitie/intangibil):
 
-- suntem cu toți digitally remote, or [digital nomads](https://en.wikipedia.org/wiki/Digital_nomad), de înainte ca termenii "remote" / "nomad" / "digital" să fie măcar cool
+- suntem cu toți digitally remote, or [digital nomads](https://en.wikipedia.org/wiki/Digital_nomad), de înainte ca termenii "remote" sau "nomad" sau "digital" să fie măcar [cool](https://www.merriam-webster.com/dictionary/fashionable)
 
 - poți alege specificul muncii tale de voluntariat. Ceva la ce tu ești foarte bun deja, sau la ceea ce ai vrea să devii foarte bun. _Dezavantaj_: ne așteptăm la o calitate gen [Apple](https://www.apple.com/) a muncii tale, chiar dacă nu o vom putea compensa monetar. Da, vei învăța și practica perfecțiunea, dacă o poți tolera.
 
