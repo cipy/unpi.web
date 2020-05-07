@@ -12,7 +12,7 @@ Orice [proiect](https://start.unpi.ro/ong/povestea/) sau organizație se loveșt
 
 Dacă mă întrebai pe mine, Ciprian, dacă aș fi făcut voluntariat înainte de 2019 (anul când [am fondat unPi](https://start.unpi.ro/ong/echipa/)), ți-aș fi răspuns: contribui ori am contribuit la Crucea Roșie (pentru proiecte în Africa), dar din păcate nu am timp pentru altceva.
 
-Ce s-a schimbat în 2019? În primăvara lui 2019 am realizat că se pot schimba destine cu ajutorul tehnologiei. Sincer, viziunea inițială a fost cu totul alta, dar am conștientizat relativ repede că acea viziune este imposibil de atins; asemenea unui ogor, care dacă nu a fost desțelenit și arat în prealabil, nu va permite niciodată ideei tale să prindă rădăcini. Da, unul din bunicii mei a fost țăran. Cel mai important sfat al lui: nu-ți alege agricultura drept profesie, e o muncă foarte grea, niciodată nu ești total sigur de recoltă. Și uite că [metafizic](https://dexonline.ro/definitie/metafizic), tot la agricultură am ajuns 😎
+Ce s-a schimbat în 2019? În primăvara lui 2019 am realizat că se pot schimba destine cu ajutorul tehnologiei. Sincer, viziunea inițială a fost cu totul alta, dar am conștientizat relativ repede că acea viziune este imposibil de atins; asemenea unui ogor, care dacă nu a fost desțelenit și arat în prealabil, nu va permite niciodată ideei tale să prindă rădăcini. Da, unul din bunicii mei a fost țăran. Cel mai important sfat al lui: "nu-ți alege agricultura drept profesie, e o muncă foarte grea, niciodată nu ești total sigur de recoltă". Și uite că [metafizic](https://dexonline.ro/definitie/metafizic), tot la agricultură am ajuns 😎
 
 Așadar secretul nostru este faptul că **schimbăm destine**.
 
