@@ -50,8 +50,4 @@ Dacă ai ajuns până aici, e un semn bun. Hai să vedem ce-ți mai oferim, în 
 
 Pentru [activarea beneficiilor de voluntar unPi](mailto:voluntar@unpi.ro), trimite-ne te rog un email.
 
-### Informal
-
-Tu: omg, dar ai ceva bull* IT generator în tine ...
-
-Eu: mersi, am studiat (înde)aproape 10 ani la Nokia ...
+### Mulțumim!
