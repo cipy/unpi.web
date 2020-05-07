@@ -30,6 +30,8 @@ Dacă ai ajuns până aici, e un semn bun. Hai să vedem ce-ți mai oferim, în 
 
 - dacă vrei să începi o afacere, ori ai deja una sau mai multe (indiferent de domeniu) și ai nevoie de sfaturi contabile, îl vei avea pe [președintele unPi](https://www.linkedin.com/in/nicolae-manea/), un expert contabil acreditat [CECCAR](https://ceccar.ro/ro/), (tot) la contacte rapide.
 
+- vei avea prioritate pentru a fi selectat _consultant specializat_ în proiectele speciale pentru care reușim să atragem finanțiare de la sponsori. Aici calitatea muncii tale, aflată deja la nivel Apple, va fi recompensată (temporar) la nivel Apple. Nu crezi? Ar trebui să vezi cum se (vor) uită sponsorii când le confirmăm asta.
+
 - dacă ești deja foarte bun pe IT, sau devii între timp foarte bun pe o anumită nișă din IT, te vom (putea) recomanda în rețeaua noastră de conexiuni pentru a găsi jobul ideal în consultanță, în Europa, sau la firme gigant precum Amazon, Google sau Apple. În viața reală "nu (prea) contează ce știi, contează pe cine știi". Scuze că ți-am dărâmat în doar câteva cuvinte mitologia și metodologia practicată în sistemele clasice de învățământ (școală, liceu, facultate).
 
 #### beneficii [tangibile](https://dexonline.ro/definitie/tangibil):
