@@ -46,6 +46,8 @@ Dacă ai ajuns până aici, e un semn bun. Hai să vedem ce-ți mai oferim, în 
 
 - o licență Windows 10 Professional (for Workstations) în dar, dacă ești forțat astăzi să rulezi Windows nelicențiat din motive financiare. Sau ai nevoie de versiunea "for Workstations" pentru că ai [un calculator personal cu mai mult de 2 procesoare](https://www.anandtech.com/show/15483/amd-threadripper-3990x-review/3) 🤓 (licența va fi returnată _Asociației unPi pentru Școlari_ la _terminarea contractului tău_ de voluntariat)
 
+- până la 20% comision din fiecare sponsorizare către [unPi](https://www.unpi.ro/) pe care reușești să o atragi personal, câtă vreme ești voluntar activ 
+
 ### Formal
 
 Pentru [activarea beneficiilor de voluntar unPi](mailto:voluntar@unpi.ro), trimite-ne te rog un email.
