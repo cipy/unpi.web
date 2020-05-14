@@ -25,4 +25,4 @@ Mulțumim!
 
 #### Hmm, îmi place ideea dar vreau să donez Direct.
 
-Răspuns: îți recomandăm _călduros_ să dăruiești unPi în aceeași [configurație](https://www.unpi.ro/spec/) pe care o vom folosi pentru [cursul Golang](https://go.unpi.ro/). Ești liber(ă) să selectezi apoi beneficiarul pe propriile criterii, dar dacă îi dăruiești ceva care nu este în [specificația unPi](https://www.unpi.ro/spec/), nu îl vom putea ajuta în timpul [cursului de programare în Golang](https://go.unpi.ro/). De asemenea trebuie să citești și [pagina pentru utilizatori privați](https://www.unpi.ro/privat/).
+Răspuns: îți recomandăm _călduros_ să dăruiești unPi în aceeași [configurație](https://www.unpi.ro/spec/) pe care noi o folosim pentru [cursul Golang](https://go.unpi.ro/). Ești liber(ă) să selectezi apoi beneficiarul pe propriile criterii, dar dacă îi dăruiești ceva care nu este în [specificația unPi](https://www.unpi.ro/spec/), nu îl vom putea ajuta în timpul [cursului de programare în Golang](https://go.unpi.ro/). De asemenea trebuie să citești și [pagina pentru utilizatori privați](https://www.unpi.ro/privat/).
