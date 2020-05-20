@@ -10,9 +10,9 @@
 - sinceritate și corectitudine, vezi [regulamentul](http://regulament.unpi.ro) nostru și pagina [GDPR](http://gdpr.unpi.ro/)
 - curent electric în casă, plătit la zi
 - un televizor cu un port HDMI liber
-- părintele/tutorele care aplică să dețină un telefon mobil Android
+- părintele/tutorele care aplică să dețină un telefon mobil smart (ce poate rula aplicațiii precum Revolut și Telegram)
 - părintele/tutorele care aplică să aibă Internet pe telefonul mobil (abonament ori cartela de date; vezi și NOTA: de la finalul paginii)
-- capacitatea financiară, dorința și locația fizică pentru a se putea conecta la Internet cu o legătură _fixă_, cel puțin pentru un an (**doar** pentru prima serie de donații, [acum suntem la seria #1, **prima**], _poți primi 15 RON pe lună, timp de un an_, de la noi, drept suport material, _dacă_ îți faci un **contract nou** de Internet _fix_ după ce ai fost nominalizat ca beneficiar unPi; pentru seriile următoare [avem nevoie de mai mulți donatori](http://donez.unpi.ro/))
+- capacitatea financiară, dorința și locația fizică pentru a se putea conecta la Internet cu o legătură _fixă_, sau cu o conexiune Internet mobilă de pe telefonul smart, doar dacă această conexiune Internet mobilă poate fi partajată cu calculatorul unPi (ex. micul calculator unPi se poate conecta la Internet prin intermediul telefonului mobil smart)
 
 ##### Pas 1. Instalează pe telefonul tău mobil/Android:
 - [aplicația Revolut](https://revolut.com/referral/cipria2dd), apasă pe acest [link pentru verificarea identității tale/părinte/tutore în Revolut](https://revolut.com/referral/cipria2dd)
@@ -84,4 +84,3 @@ NOTA:
 - dacă ai întrebari pe parcusul procesului de aplicare, [scrie-ne](mailto:intrebari@unpi.ro)
 - dacă ai probleme de orice fel cu aplicația ta, scrie-ne la [probleme](mailto:probleme@unpi.ro)
 - NU se fac excepții de nici un fel, în caz că nu era clar deja.
-- dacă nu ai încă Internet pe telefonul mobil (Android), ai putea să-ți activezi opțiunea asta de la operatorul tău telecom, ori să-ți cumperi temporar, doar pentru perioada cât aplici la [unPi](https://www.unpi.ro/), o [cartela preplătită de date](https://www.digiromania.ro/servicii/telefonie-mobila/cartela-digi)/Internet; problema va apare cu vechiul tău număr mobil, pe care va trebui să-l redirectezi către noua cartelă, cel puțin temporar.
