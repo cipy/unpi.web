@@ -8,11 +8,11 @@
 
 #### tipuri de date și durata lor de viață în sistemele noastre:
 
-- mesajele tale **SMS** sunt _stocate doar în_ EUropa și vor fi șterse automat după 90 de zile de la data când au fost primite.
+- mesajele tale **SMS** sunt _stocate doar în_ Europa și vor fi șterse automat după 90 de zile de la data când au fost primite.
 
-- **doar** mesajele tale **SMS** prin care: APLICi la unPi, anunți că INTELEGi SI RESPECTi [regulamentul unPi](http://regulament.unpi.ro/), confirmi că AM PRIMIT UNPI ori comanda de a STERGE aplicația ta de la unPi vor fi păstrate _în perpetuitate_, într-o singura copie în EUropa plus o copie de siguranță/backup [criptată](https://dexonline.ro/definitie/criptare) în USA. De asemnea o copie a acestor mesaje SMS va fi păstrată în actele de contabilitate ale asociației pentru maximum 5 ani.
+- **doar** mesajele tale **SMS** prin care: APLICi la unPi, anunți că INTELEGi SI RESPECTi [regulamentul unPi](http://regulament.unpi.ro/), confirmi că AM PRIMIT UNPI ori comanda de a STERGE aplicația ta de la unPi vor fi păstrate _în perpetuitate_, într-o singura copie în Europa, plus o copie de siguranță/backup [criptată](https://dexonline.ro/definitie/criptare) în USA. De asemnea o copie a acestor mesaje SMS va fi păstrată în actele de contabilitate ale asociației pentru maximum 5 ani.
 
-- email-urile prin care furnizezi copii după contractul de Internet (cerut doar pentru seria #1 de donații), ori altă copie dupa un act legal, sunt păstrate pentru maxim 90 de zile de la primire și sunt stocate [criptat](https://dexonline.ro/definitie/criptare) in Elveția.
+- email-urile prin care furnizezi o copie digitală după un act legal (necesar doar pentru [familiile cu CES](https://start.unpi.ro/vreau/rapid/)), sunt păstrate pentru maxim 90 de zile de la primire și sunt stocate [criptat](https://dexonline.ro/definitie/criptare) în Elveția.
 
 - email-uri tale cu destinația vreau+PAROLA@unpi.ro sunt păstrate în Gmail (în USA) pentru până la 6 luni de zile de la data la care au fost recepționate. Dar pot fi șterse și dupa 90 de zile, în funcție de trafic.
 
@@ -20,7 +20,7 @@
 
 - **vom încerca** (la cererea ta) STERGErea materialelor tale digitale **și din Github**, de pe pagina [cererea](https://cererea.unpi.ro/), ori alte pagini publicate pe [Github](https://github.com), dar acest lucru NU ÎL PUTEM GARANTA, datorita modului cum Github a fost gândit și construit să funcționeze.
 
-- email-urile catre votez@unpi.ro sunt procesate și sterse automat.
+- email-urile catre votez@unpi.ro sunt procesate și șterse automat.
 
 - email-urile tale către adresele pentru intrebari, probleme, presa @unpi.ro, inclusiv tichetele de suport/ajutor asociate, vor fi șterse în termen de 90 de zile de la data când ne ceri STERGErea lor.
 
