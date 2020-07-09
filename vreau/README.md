@@ -15,15 +15,14 @@
 - capacitatea financiară, dorința și locația fizică pentru a se putea conecta la Internet cu o legătură _fixă_, sau cu o conexiune Internet mobilă de pe telefonul smart, doar dacă această conexiune Internet mobilă poate fi [partajată](https://dexonline.ro/definitie/partaja) cu calculatorul unPi (ex. micul calculator unPi se poate conecta la Internet prin intermediul telefonului mobil smart)
 
 ##### Pas 1. Instalează pe telefonul tău mobil smart:
-- [aplicația Revolut](https://revolut.com/referral/cipria2dd), folosește acest link pentru [verificarea identității tale/părinte/tutore în Revolut](https://revolut.com/referral/cipria2dd)
-- [aplicația Telegram](https://telegram.org) (care din păcate nu este încă tradusă complet în limba română), pentru comunicarea ulterioară cu Asociația unPi pentru Școlari
-- după ce ai instalat aplicația [Telegram](https://telegram.org/apps), apasă pe acest [link pentru a activa interfața Telegram tradusă parțial în limba română](https://t.me/setlanguage/ro-beta)
+- [aplicația Revolut](https://revolut.com/referral/cipria2dd) pentru [verificarea identității tale/părinte/tutore în Revolut](https://revolut.com/referral/cipria2dd)
+- [aplicația Telegram](https://telegram.org) (care din păcate nu este încă tradusă complet în limba română), pentru comunicarea ulterioară cu Asociația unPi pentru Școlari; după ce ai instalat aplicația [Telegram](https://telegram.org/apps), apasă pe acest [link pentru a activa interfața Telegram tradusă parțial în limba română](https://t.me/setlanguage/ro-beta)
 
 ##### Pas 2. Creează-ți propriul cont bancar în Revolut app:
-- urmează te rog procesul lor, din aplicația mobilă Revolut, pas cu pas, până la sfârșit!
-- **așteaptă** te rog ca cei de la Revolut să-ți valideze actele de identitate și să-ți deschidă contul bancar
+- urmează **te rog** procesul lor, din aplicația mobilă Revolut, pas cu pas, până la sfârșit!
+- **așteaptă** ca cei de la Revolut să-ți verifice actele de identitate și să-ți deschidă contul bancar
 - dacă instalezi aplicația Revolut folosind [acest link](https://revolut.com/referral/cipria2dd) (identic cu cele folosite mai sus pentru Revolut), este posibil - _dacă ai puțin noroc_, să prinzi o promoție care iți va acorda și trimite cardul lor bancar de debit, Visa Electron sau Mastercard, gratis, acasă
-- Revolut este o bancă nouă, cu licență europeană
+- [Revolut.com](https://www.revolut.com/ro-RO/despre-revolut) este o bancă nouă, online, cu licență bancară europeană
 - **NU** îți recomandăm să-ți păstrezi economiile în Revolut
 
 ##### Pas 3. Cesionare drepturi digitale prin această aplicație:
