@@ -34,29 +34,31 @@
 
 ##### Pas 4. Verifică-te prin Revolut app la Asociația unPi pentru Școlari:
 - trimite un **SMS** la [numărul unPi de contact](tel:+358406640059) +358406640059 cu textul "APLIC Prenume Nume"
-- textul tău _trebuie_ să fie fără diacritice, fără ghilimelele din exemplu. iar numele tău legal _identic_ cu Pas 2.
+- textul tău _trebuie_ să fie fără diacritice, fără ghilimelele din exemplu; iar numele tău legal _identic_ cu Pas 2.
 - numărul nostru [mobil](tel:+358406640059) este internațional, te va costa până la 0.15 EUR per SMS trimis
-- **dacă** ai urmat cu atenție instrucțiunile de la Pas 2., vei primi în curând 1 [HUF](https://ro.wikipedia.org/wiki/Forint) în contul tău Revolut
-- deschide aplicația Revolut, caută și deschide în ea [tranzacția de 1 HUF](huf.jpg) (1 forint maghiar, va apare marcată ca **+ Ft1**); în interiorul tranzacției vei putea observa următorul mesaj: "vreau+PAROLA@unpi.ro este adresa corecta unde poti sa aplici"
-- PAROLA este un grup de 6 caractere (_doar_ litere mari și cifre) pe care trebuie să le memorezi și folosești mai departe (de exemplu la Pas 5.)
-- NU spune nimănui PAROLA ta! Este personală, unică pentru fiecare aplicant în parte.
+- **dacă** ai urmat cu atenție instrucțiunile de la Pas 2., vei primi un mesaj SMS înapoi de la +358406640059
+- textul în acest SMS primit de la noi este: PAROLA ta SECRETA la unPi este **PAROLA** TE ROG NU O DA NIMANUI.
+- PAROLA este un grup de 6 caractere (_doar_ litere mari și cifre) pe care trebuie să le **păstrezi** sau memorezi
+- această **PAROLA** primită prin SMS trebuie să o folosești la Pas. 5 în adresa de email vreau+PAROLA@unpi.ro
+- NU spune nimănui PAROLA ta! Este personală și unică pentru fiecare aplicant la unPi în parte!
 - dacă uiți PAROLA, ne poți trimite un SMS cu textul "APLIC Prenume Nume" (ca la Pas 4.); _dar nu ne trimite email!_
-- dacă ai urmat Pas 2. dar nu ai primit 1 HUF în 1-5 minute după ce ai trimis SMS, scrie-ne la [probleme](mailto:probleme@unpi.ro)
+- dacă ai urmat Pas 2., 3. și 4. dar nu ai primit PAROLA după ce ai trimis SMS, scrie-ne la [probleme](mailto:probleme@unpi.ro)
 
-##### Pas 5. Trimite, prin **email** (unul ori mai multe), la adresa vreau+PAROLA@unpi.ro primită la Pas 4.:
+##### Pas 5. Trimite, prin **email** (unul sau mai multe), la adresa vreau+PAROLA@unpi.ro primită la Pas 4.:
+- (**trebuie** să scrii **PAROLA** primită prin SMS și **+** în adresa de email vreau+PAROLA@unpi.ro)
+- (**te rog** alege pentru fiecare email trimis la unPi un **subiect** al email-ului care să-l reprezinte)
 - un text sau un mic [eseu](https://dexonline.ro/definitie/eseu) în interiorul email-ului, cu descrierea și motivația voastră ca familie
-- _te rog_ alege pentru fiecare email trimis un **subiect** al email-ului care să-l reprezinte
 - o poză de familie, în care apare și școlarul/școlarița de 10+ ani
 - o poză din casă/sufragerie/bucătărie, cu sau fără persoane (adulte)
 - o poză din lateral ori spate a casei/blocului unde locuiți
 - o poză cu televizorul vostru, de aproape (îl poți porni dacă nu vrei să apari în reflexie)
-- o poză cu portul liber HDMI al televizorului; vezi [exemplul](http://cer.unpi.ro/ciprian-manea) la cer.unpi.ro/ciprian-manea
+- o poză cu portul liber HDMI al televizorului; vezi exemplul de aplicație de la http://cer.unpi.ro/ciprian-manea
 - **NU TRIMITE**: poze doar cu minori (singuri), sau cele din care se pot extrage informații personale, gen: numărul casei sau al blocului sau a scării, sau numele străzii pe care locuiți. Toate materialele digitale de la acest pas sunt procesate _automat_ și publicate pe Internet _automat_ în 20-30 minute după ce au fost recepționate. NU TRIMITE conținut ilegal ori ce nu îți apartine, sub nici o formă!
 
 ##### Pas 6. Aplicația ta apare online pe GitHub, automat, la [cererea.unpi.ro](https://cererea.unpi.ro/)
 - imediat după ce ai trimis primul SMS (de la Pas 4.) poți vedea aplicația ta la http://cer.unpi.ro/prenume-nume/
-- înlocuiește _prenume_ și _nume_ în exemplul de adresă web de mai sus, cu numele tău legal, _folosit_ la Pas 2. și 4.
-- materialele trimise pe email (la vreau+_PAROLA_@unpi.ro, vezi Pas 5.) vor apare mai târziu, după 20-30 de minute; _nu uita_ mai sus de caracterul **-** în http://cer.unpi.ro/prenume-nume/ ca separator între _prenume_ și _nume_
+- înlocuiește **prenume** și **nume** în exemplul de adresă web de mai sus, cu numele tău legal, _folosit_ la Pas 2. și 4.
+- materialele trimise pe email (la vreau+_PAROLA_@unpi.ro, vezi Pas 5.) vor apare mai târziu, după 20-30 de minute; _nu uita_ mai sus de caracterul (minus) **-** în http://cer.unpi.ro/prenume-nume/ ca separator între _prenume_ și _nume_
 - trimite-ți prietenii, rudele, cunoștiințele să [voteze online pentru tine](http://votez.unpi.ro) la votez.unpi.ro
 - **așteaptă** procesul de selecție; dacă colectezi voturi multe, _[legitime](https://dexonline.ro/definitie/legitim)_, vei fi contactat pe mobil sau Telegram app
 - acum e timpul să adaugi [contactele noastre](http://ong.unpi.ro/) în agenda ta și să ne urmarești în online 🤓
