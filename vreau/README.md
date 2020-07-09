@@ -37,7 +37,7 @@
 - de asemenea numele tău legal din SMS-ul APLIC trebuie să fie _identic_ cu cel folosit la Pas 2.
 - (numărul nostru [mobil](tel:+358406640059) este internațional, te va costa maxim 0.15 EUR per SMS trimis)
 - **dacă** ai urmat cu atenție instrucțiunile de la Pas 2., vei primi de la noi un mesaj SMS înapoi
-- textul în acest SMS primit va fi: PAROLA ta SECRETA la unPi este **PAROLA** TE ROG NU O DA NIMANUI.
+- textul în acest SMS primit va fi: PAROLA ta SECRETA la unPi este **PAROLA** TE ROG NU O DA NIMANUI!
 - PAROLA este un grup de 6 caractere (_doar_ litere mari și cifre) pe care trebuie să le **păstrezi**
 - **PAROLA** primită prin SMS trebuie să o folosești la Pas. 5 în adresa de email vreau+PAROLA@unpi.ro
 - NU spune nimănui PAROLA ta! Este personală și unică pentru fiecare aplicant la unPi în parte!
