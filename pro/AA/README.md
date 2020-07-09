@@ -2,7 +2,7 @@
 
 Încep această relatare în urma discuției cu fondatorul [unPi](https://www.unpi.ro), Ciprian, care m-a rugat să-mi spun povestea de viață în câteva rânduri, de la începuturi până în momentul de față. [2020]
 
-M-am născut înainte de 1989, și am crescut într-un oraș de provicie, relativ mic, într-un cartier la periferie.
+M-am născut înainte de 1989, și am crescut într-un oraș de provincie, relativ mic, într-un cartier la periferie.
 
 Am urmat ciclul primar, gimnazial în același cartier, ulterior am studiat la unul din cele mai apreciate colegii din oraș, acesta reprezentând rampa de lansare pentru viitoarea [mea] carieră, aceea de medic.
 
