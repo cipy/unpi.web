@@ -1,21 +1,21 @@
 ## Vreau să primesc [unPi](https://www.unpi.ro/), [mic calculator personal](http://pc.unpi.ro/), nou
 
-### Acces Rapid: **doar** pentru familiile care au un copil ori membru al familiei cu cerințe educaționale speciale (CES) ori nevoi speciale; aplicația familiei tale și toată comunicația cu noi va ramâne confidențială. Continuă te rog la [vreau access rapid](https://start.unpi.ro/vreau/rapid/).
+### Acces Rapid: **doar** pentru familiile care au un copil sau membru al familiei cu cerințe educaționale speciale (CES) sau nevoi speciale; aplicația familiei tale și toată comunicația cu noi va rămâne confidențială. Continuă te rog la [vreau access rapid](https://start.unpi.ro/vreau/rapid/).
 
-#### NU **promitem** micul calculator personal _unPi_ decât familiilor în dificultate financiară ori socială, care au cel puțin un copil, **activ școlar**, în vârstă de _cel puțin 10 ani_. Potențialii beneficiari vor fi verificați temeinic. Te rog NU abuza de bunătatea noastră, a donatorilor noștri, ori de resursele și timpul nostru!
+#### NU **promitem** micul calculator personal _unPi_ decât familiilor în dificultate financiară sau socială, care au cel puțin un copil, **activ școlar**, în vârstă de _cel puțin 10 ani_. Potențialii beneficiari vor fi verificați temeinic. Te rog NU abuza de bunătatea noastră, a donatorilor noștri, sau de resursele și timpul nostru!
 
-### Pentru a te califica, tu ori familia ta, trebuie să urmezi cu atenție, exactitate și strictețe **toți** pașii enumerați mai jos. **Toate** etapele sunt necesare și eliminatorii! Pentru o familie poate aplica doar unul dintre părinți, ori tutorele legal al copilului, o singură dată.
+### Pentru a te califica, tu sau familia ta, trebuie să urmezi cu atenție, exactitate și strictețe **toți** pașii enumerați mai jos. **Toate** etapele sunt necesare și eliminatorii! Pentru o familie poate aplica doar unul dintre părinți, sau tutorele legal al copilului, o singură dată.
 
 ##### Pas 0. Cerințe minime pentru familia ce aplică:
 - sinceritate și corectitudine, vezi [regulamentul](http://regulament.unpi.ro) nostru și pagina [GDPR](http://gdpr.unpi.ro/)
 - curent electric în casă, plătit la zi
-- un televizor cu un port HDMI liber
-- părintele/tutorele care aplică să dețină un telefon mobil smart (ce poate rula aplicații precum Revolut și Telegram)
-- părintele/tutorele care aplică să aibă Internet pe telefonul mobil smart (abonament sau cu cartelă de date)
+- un televizor cu un [port HDMI](https://en.wikipedia.org/wiki/HDMI) liber
+- părintele/tutorele care aplică să dețină un telefon mobil smart (ce poate rula aplicațiile Revolut și Telegram)
+- părintele/tutorele care aplică să aibă Internet pe telefonul mobil smart (abonament sau cartelă)
 - capacitatea financiară, dorința și locația fizică pentru a se putea conecta la Internet cu o legătură _fixă_, sau cu o conexiune Internet mobilă de pe telefonul smart, doar dacă această conexiune Internet mobilă poate fi [partajată](https://dexonline.ro/definitie/partaja) cu calculatorul unPi (ex. micul calculator unPi se poate conecta la Internet prin intermediul telefonului mobil smart)
 
 ##### Pas 1. Instalează pe telefonul tău mobil smart:
-- [aplicația Revolut](https://revolut.com/referral/cipria2dd), apasă pe acest [link pentru verificarea identității tale/părinte/tutore în Revolut](https://revolut.com/referral/cipria2dd)
+- [aplicația Revolut](https://revolut.com/referral/cipria2dd), folosește acest link pentru [verificarea identității tale/părinte/tutore în Revolut](https://revolut.com/referral/cipria2dd)
 - [aplicația Telegram](https://telegram.org) (care din păcate nu este încă tradusă complet în limba română), pentru comunicarea ulterioară cu Asociația unPi pentru Școlari
 - după ce ai instalat aplicația [Telegram](https://telegram.org/apps), apasă pe acest [link pentru a activa interfața Telegram tradusă parțial în limba română](https://t.me/setlanguage/ro-beta)
 
@@ -36,8 +36,8 @@
 - trimite un **SMS** la [numărul unPi de contact](tel:+358406640059) +358406640059 cu textul "APLIC Prenume Nume"
 - textul tău din SMS _trebuie_ să fie fără diacritice și fără ghilimelele din exemplul de mai sus
 - de asemenea numele tău legal din SMS-ul APLIC trebuie să fie _identic_ cu cel folosit la Pas 2.
-- numărul nostru [mobil](tel:+358406640059) este internațional, te va costa până la 0.15 EUR per SMS trimis
-- **dacă** ai urmat cu atenție instrucțiunile de la Pas 2., vei primi un mesaj SMS înapoi
+- (numărul nostru [mobil](tel:+358406640059) este internațional, te va costa maxim 0.15 EUR per SMS trimis)
+- **dacă** ai urmat cu atenție instrucțiunile de la Pas 2., vei primi de la noi un mesaj SMS înapoi
 - textul în acest SMS primit va fi: PAROLA ta SECRETA la unPi este **PAROLA** TE ROG NU O DA NIMANUI.
 - PAROLA este un grup de 6 caractere (_doar_ litere mari și cifre) pe care trebuie să le **păstrezi**
 - **PAROLA** primită prin SMS trebuie să o folosești la Pas. 5 în adresa de email vreau+PAROLA@unpi.ro
