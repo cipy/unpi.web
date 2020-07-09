@@ -6,7 +6,7 @@ Internetul a fost creat pe baza încrederii reciproce, ca o modalitate de a dist
 
 Pentru a primi calculatorul personal unPi te **angajezi** (părinte și copil) **solemn** să respecți următoarele reguli (pe care părintele le va primi și într-o scrisoare recomandată prin poștă, înainte de a primi unPi):
 
-1. Voi folosi calculatorul unPi cu preponderență pentru **a învăța** despre calculatoare, programare, și ca ajutor în temele școlare.
+1. Voi folosi calculatorul personal unPi cu preponderență pentru **a învăța** despre calculatoare, programare, robotică și ca ajutor în temele școlare.
 
 2. Dacă nu mai găsesc calculatorul unPi folositor pentru punctul 1., mă angajez să-l **returnez** Asociației [unPi](http://returnez.unpi.ro/) pentru Școlari, spre beneficiul altui copil. (vei primi bani pentru transport și adresa destinație unde să-l trimiți).
 
