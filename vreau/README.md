@@ -21,9 +21,9 @@
 ##### Pas 2. Creează-ți propriul cont bancar în Revolut app:
 - urmează **te rog** procesul lor, din aplicația mobilă Revolut, pas cu pas, până la sfârșit!
 - **așteaptă** ca cei de la Revolut să-ți verifice actele de identitate și să-ți deschidă contul bancar
-- dacă instalezi aplicația Revolut folosind [acest link](https://revolut.com/referral/cipria2dd) (identic cu cele folosite mai sus pentru Revolut), este posibil - _dacă ai puțin noroc_, să prinzi o promoție care iți va acorda și trimite cardul lor bancar de debit, Visa Electron sau Mastercard, gratis, acasă
-- [Revolut.com](https://www.revolut.com/ro-RO/despre-revolut) este o bancă nouă, online, cu licență bancară europeană
-- **NU** îți recomandăm să-ți păstrezi economiile în Revolut
+- dacă instalezi aplicația Revolut folosind [acest link](https://revolut.com/referral/cipria2dd) (identic cu cele folosite mai sus pentru Revolut), este posibil - _dacă ai puțin noroc_ - să prinzi o promoție care iți va acorda și trimite cardul lor bancar de debit, Visa Electron sau Mastercard, gratis, acasă
+- [Revolut.com](https://www.revolut.com/ro-RO/despre-revolut) este o bancă nouă, online, virtuală, cu licență bancară europeană
+- **NU** îți recomandăm să-ți păstrezi economiile în Revolut!
 
 ##### Pas 3. Cesionare drepturi digitale prin această aplicație:
 - părintele/tutorele care **acum** aplică pentru unPi **se obligă**:
