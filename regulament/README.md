@@ -12,7 +12,7 @@ Pentru a primi calculatorul personal unPi te **angajezi** (părinte și copil) *
 
 3. Mă angajez să **nu cer**, **stochez**, nici **furnizez** informații personale de orice fel, ale mele sau ale altor elevi [unPi](https://www.unpi.ro/), indiferent cine le cere. (informații personale pot fi de exemplu: poza, prenumele, numele, vârsta, localitatea de domiciliu, sexul, numele școlii, numele părinților, sau numele străzii unde locuiești, șamd).
 
-4. **nu** voi folosi calculatorul unPi în nici un fel de activitate ce ar putea fi **ilegală** pe teritoriul României, sau altei țări din lume, indiferent de locația geografică.
+4. **NU** voi folosi calculatorul unPi în nici un fel de activitate ce ar putea fi **ilegală** pe teritoriul României, sau altei țări din lume, indiferent de locația geografică.
 
 5. singura excepție de la punctul 3. sunt informații cerute de organele reprezentative ale legii, spre exemplu: poliția, procuratura, șamd. (să sperăm că nu va fi cazul, onoarea (ta) ne va fi busola).
 
