@@ -2,7 +2,7 @@
 
 #### OK, m-ai convins, cum donez acum unPi?
 
-Răspuns: trimite te rog donația ta (de preferat echivalentul a €120, cât valorează unPi) în unul din conturile bancare următoare. De asemenea poți dona și mai puțin de €120, dacă nu-ți permiți întreaga sumă. Dacă **reprezinți o firmă**  ce dorește să ne facă o [sponsorizare](https://educatiefinanciara.techsoup.ro/sponsorizare/), contactează-ne te rog [direct prin email](mailto:donez@unpi.ro?subject=vreau%20sa%20donez%20unPi).
+Răspuns: trimite te rog donația ta (de preferat echivalentul a €120, cât valorează unPi) în unul din conturile bancare următoare. De asemenea poți dona și mai puțin de €120, dacă nu-ți permiți întreaga sumă. Dacă **reprezinți o firmă**  ce dorește să ne facă o [sponsorizare](https://educatiefinanciara.techsoup.ro/sponsorizare/), contactează-ne te rog [direct prin email](mailto:donez@unpi.ro?subject=vreau%20sa%20sponsorizez%20unPi).
 
 - către: Asociația unPi pentru Școlari, Banca Transilvania, cod BIC/SWIFT BTRLRO22DBA
 - cod IBAN RO31BTRLRONCRT0523621201 pentru donații în RON
