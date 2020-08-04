@@ -2,7 +2,7 @@
 
 ### Acces Rapid: **doar** pentru familiile care au un copil sau membru al familiei cu cerințe educaționale speciale (CES) sau nevoi speciale; aplicația familiei tale și toată comunicația cu noi va rămâne confidențială. Continuă te rog la [vreau access rapid](https://start.unpi.ro/vreau/rapid/).
 
-#### NU **promitem** micul calculator personal _unPi_ decât familiilor în dificultate financiară sau socială, care au cel puțin un copil, **activ școlar**, în vârstă de _cel puțin 10 ani_. Potențialii beneficiari vor fi verificați temeinic. Te rog NU abuza de bunătatea noastră, a donatorilor noștri, sau de resursele și timpul nostru!
+#### NU **promitem** micul calculator personal _unPi_ decât familiilor în dificultate financiară sau socială, care au cel puțin un copil, **activ școlar**, în vârstă de _cel puțin 10 ani_. Potențialii beneficiari vor fi verificați temeinic.
 
 ### Pentru a te califica, tu sau familia ta, trebuie să urmezi cu atenție, exactitate și strictețe **toți** pașii enumerați mai jos. **Toate** etapele sunt necesare și eliminatorii! Pentru o familie poate aplica doar unul dintre părinți, sau tutorele legal al copilului, o singură dată.
 
@@ -10,20 +10,16 @@
 - sinceritate și corectitudine, vezi [regulamentul](http://regulament.unpi.ro) nostru și pagina [GDPR](http://gdpr.unpi.ro/)
 - curent electric în casă, plătit la zi
 - un televizor cu un [port HDMI](https://en.wikipedia.org/wiki/HDMI) liber
-- părintele/tutorele care aplică să dețină un telefon mobil smart (ce poate rula aplicațiile Revolut și Telegram)
+- părintele/tutorele care aplică să dețină un telefon mobil smart (ce poate rula aplicația Telegram)
 - părintele/tutorele care aplică să aibă Internet pe telefonul mobil smart (abonament sau cartelă)
-- capacitatea financiară, dorința și locația fizică pentru a se putea conecta la Internet cu o legătură _fixă_, sau cu o conexiune Internet mobilă de pe telefonul smart, doar dacă această conexiune Internet mobilă poate fi [partajată](https://dexonline.ro/definitie/partaja) cu calculatorul unPi (ex. micul calculator unPi se poate conecta la Internet prin intermediul telefonului mobil smart)
+- capacitatea financiară, dorința și locația fizică pentru a se putea conecta la Internet cu o legătură _fixă_, sau cu o conexiune Internet mobilă de pe telefonul smart, doar dacă această conexiune Internet mobilă poate fi [partajată](https://dexonline.ro/definitie/partaja) cu calculatorul unPi (de exemplu, micul calculator unPi se poate conecta la Internet prin intermediul telefonului mobil smart)
 
 ##### Pas 1. Instalează pe telefonul tău mobil smart:
-- [aplicația Revolut](https://revolut.com/referral/cipria2dd) pentru [verificarea identității tale/părinte/tutore în Revolut](https://revolut.com/referral/cipria2dd)
-- [aplicația Telegram](https://telegram.org) (care din păcate nu este încă tradusă complet în limba română), pentru comunicarea ulterioară cu Asociația unPi pentru Școlari; după ce ai instalat aplicația [Telegram](https://telegram.org/apps), apasă pe acest [link pentru a activa interfața Telegram tradusă parțial în limba română](https://t.me/setlanguage/ro-beta)
+- [aplicația Telegram](https://telegram.org/apps) (din păcate nu este încă tradusă complet în limba română), pentru comunicarea ulterioară cu Asociația unPi pentru Școlari
 
-##### Pas 2. Creează-ți propriul cont bancar în Revolut app:
-- urmează **te rog** procesul lor, din aplicația mobilă Revolut, pas cu pas, până la sfârșit!
-- **așteaptă** ca cei de la Revolut să-ți verifice actele de identitate și să-ți deschidă contul bancar
-- dacă instalezi aplicația Revolut folosind [acest link](https://revolut.com/referral/cipria2dd) (identic cu cele folosite mai sus pentru Revolut), este posibil - _dacă ai puțin noroc_ - să prinzi o promoție care iți va acorda și trimite cardul lor bancar de debit, Visa Electron sau Mastercard, gratis, acasă
-- [Revolut.com](https://www.revolut.com/ro-RO/despre-revolut) este o bancă nouă, online, virtuală, cu licență bancară europeană
-- **NU** îți recomandăm să-ți păstrezi economiile în Revolut!
+##### Pas 2. Creează-ți propriul cont în aplicația Telegram:
+- te rugăm să adaugi [numărul mobil (+358406640059) al Asociației unPi](tel:+358406640059) la contactele tale
+- daca vrei, poți accesa acest [link pentru a activa interfața Telegram tradusă parțial în limba română](https://t.me/setlanguage/ro-beta)
 
 ##### Pas 3. Cesionare drepturi digitale prin această aplicație:
 - părintele/tutorele care **acum** aplică pentru unPi **se obligă**:
@@ -31,12 +27,12 @@
 - să acorde dreptul de publicare pe Internet a numelui său legal complet (prenume, nume de familie) catre "Asociația unPi pentru Școlari" și reprezentanții săi legali
 - să se oprească aici din procesul de aplicare la [unPi](https://www.unpi.ro/), dacă nu este de acord cu vreuna din condițiile enunțate mai sus (vezi mai ales [regulamentul](http://regulament.unpi.ro/) și pagina [GDPR](http://gdpr.unpi.ro/), limitări tehnice), sau vreuna din condițiile ce urmează:
 
-##### Pas 4. Verifică-te prin Revolut app la Asociația unPi pentru Școlari:
+##### Pas 4. Primeste PAROLA ta de la Asociația unPi pentru Școlari:
 - trimite un **SMS** la [numărul unPi de contact](tel:+358406640059) +358406640059 cu textul "APLIC Prenume Nume"
-- textul tău din SMS _trebuie_ să fie fără diacritice și fără ghilimelele din exemplul de mai sus
-- de asemenea numele tău legal din SMS-ul APLIC trebuie să fie _identic_ cu cel folosit la Pas 2.
+- textul tău din **SMS** _trebuie_ să fie fără diacritice și fără ghilimelele din exemplul de mai sus
+- **trebuie** să folosești numele tău legal _Prenume Nume_ în **SMS**-ul APLIC pe care ni-l trimiți
 - (numărul nostru [mobil](tel:+358406640059) este internațional, te va costa maxim 0.15 EUR per SMS trimis)
-- **dacă** ai urmat cu atenție instrucțiunile de la Pas 2., vei primi de la noi un mesaj SMS înapoi
+- **dacă** ai urmat cu atenție instrucțiunile noastre, vei primi de la noi un mesaj **SMS** înapoi
 - textul în acest SMS primit va fi: PAROLA ta SECRETA la unPi este **PAROLA** TE ROG NU O DA NIMANUI!
 - PAROLA este un grup de 6 caractere (_doar_ litere mari și cifre) pe care trebuie să le **păstrezi**
 - **PAROLA** primită prin SMS trebuie să o folosești la Pas. 5 în adresa de email vreau+PAROLA@unpi.ro
