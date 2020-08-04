@@ -1,6 +1,6 @@
 ## NU WhatsApp!
 
-#### Deși inițial ne gandeam să folosim _WhatsApp_ pentru comunicarea cu clienții [unPi](https://www.unpi.ro/), am hotărât să **NU folosim WhatsApp**, din motive de securitate informatică (a noastră și mai ales a ta, client sau beneficiar **unPi**).
+#### Deși inițial ne gândeam să folosim _WhatsApp_ pentru comunicarea cu clienții [unPi](https://www.unpi.ro/), am hotărât să **NU folosim WhatsApp**, din motive de securitate informatică (a noastră și mai ales a ta, client sau beneficiar **unPi**).
 
 ##### Articole publicate în presă, pe Internet care motivează această decizie:
 
