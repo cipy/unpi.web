@@ -114,6 +114,38 @@
         "marker-color": "#D3D3D3",
         "descriere": "familie beneficiar unPi"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1213,
+          45.7936
+        ]
+      },
+      "properties": {
+        "marker-symbol": "college",
+        "marker-size": "large",
+        "marker-color": "#FF7518",
+        "descriere": "Voluntar unPi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1025,
+          44.4268
+        ]
+      },
+      "properties": {
+        "marker-symbol": "college",
+        "marker-size": "large",
+        "marker-color": "#FF7518",
+        "descriere": "Voluntar unPi"
+      }
     }
   ]
 }
