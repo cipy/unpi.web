@@ -111,7 +111,7 @@
       "properties": {
         "marker-symbol": "suitcase",
         "marker-size": "medium",
-        "marker-color": "#D3D3D3",
+        "marker-color": "#45EFEC",
         "descriere": "familie beneficiar unPi"
       }
     },
@@ -160,6 +160,22 @@
         "marker-symbol": "suitcase",
         "marker-size": "medium",
         "marker-color": "#858b97",
+        "descriere": "Voluntar unPi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0770,
+          44.8106
+        ]
+      },
+      "properties": {
+        "marker-symbol": "suitcase",
+        "marker-size": "medium",
+        "marker-color": "#45EFEC",
         "descriere": "Voluntar unPi"
       }
     }
