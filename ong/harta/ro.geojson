@@ -223,7 +223,7 @@
       "properties": {
         "marker-symbol": "gift",
         "marker-size": "medium",
-        "marker-color": "#858b97",
+        "marker-color": "#D3D3D3",
         "descriere": "Premiul unPi la Infoarena.ro"
       }
     },
@@ -239,7 +239,7 @@
       "properties": {
         "marker-symbol": "gift",
         "marker-size": "medium",
-        "marker-color": "#858b97",
+        "marker-color": "#D3D3D3",
         "descriere": "Premiul unPi la Infoarena.ro"
       }
     }
