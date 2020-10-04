@@ -16,6 +16,70 @@
         "marker-color": "#FF0000",
         "description": "donator #unPi"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9041,
+          52.3676
+        ]
+      },
+      "properties": {
+        "marker-symbol": "heart",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "description": "donator #unPi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4194,
+          37.7749
+        ]
+      },
+      "properties": {
+        "marker-symbol": "heart",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "description": "donator #unPi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0767,
+          49.4521
+        ]
+      },
+      "properties": {
+        "marker-symbol": "heart",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "description": "donator #unPi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4050,
+          52.5200
+        ]
+      },
+      "properties": {
+        "marker-symbol": "heart",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "description": "donator #unPi"
+      }
     }
   ]
 }
