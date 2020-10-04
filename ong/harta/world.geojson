@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          25.4558,
+          44.9118
+        ]
+      },
+      "properties": {
+        "marker-symbol": "heart",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "description": "donator #unPi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           24.9384,
           60.1699
         ]
