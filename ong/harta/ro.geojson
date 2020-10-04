@@ -210,6 +210,38 @@
         "marker-color": "#45EFEC",
         "descriere": "familie beneficiar unPi"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2019,
+          45.8451
+        ]
+      },
+      "properties": {
+        "marker-symbol": "gift",
+        "marker-size": "medium",
+        "marker-color": "#858b97",
+        "descriere": "Premiul unPi la Infoarena.ro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1339,
+          44.4512
+        ]
+      },
+      "properties": {
+        "marker-symbol": "gift",
+        "marker-size": "medium",
+        "marker-color": "#858b97",
+        "descriere": "Premiul unPi la Infoarena.ro"
+      }
     }
   ]
 }
