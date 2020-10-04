@@ -14,9 +14,9 @@
         "marker-symbol": "heart",
         "marker-size": "large",
         "marker-color": "#FF0000",
-        "name": "Asociatia unPi pentru Scolari",
-        "address": "Bd Unirii nr 17",
-        "popupContent": "Casa #unPi"
+        "nume": "Asociatia unPi pentru Scolari",
+        "addresa": "Bd Unirii nr 17",
+        "descriere": "Casa #unPi"
       }
     }
   ]
