@@ -146,6 +146,22 @@
         "marker-color": "#FF7518",
         "descriere": "Voluntar unPi"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3693,
+          45.0997
+        ]
+      },
+      "properties": {
+        "marker-symbol": "suitcase",
+        "marker-size": "medium",
+        "marker-color": "#858b97",
+        "descriere": "Voluntar unPi"
+      }
     }
   ]
 }
