@@ -224,7 +224,8 @@
         "marker-symbol": "gift",
         "marker-size": "medium",
         "marker-color": "#D3D3D3",
-        "descriere": "Premiul unPi la Infoarena.ro"
+        "descriere": "Premiul unPi via Infoarena.ro",
+        "anul": 2020
       }
     },
     {
@@ -240,7 +241,8 @@
         "marker-symbol": "gift",
         "marker-size": "medium",
         "marker-color": "#D3D3D3",
-        "descriere": "Premiul unPi la Infoarena.ro"
+        "descriere": "Premiul unPi via Infoarena.ro",
+        "anul": 2019
       }
     },
     {
