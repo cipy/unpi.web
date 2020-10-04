@@ -242,6 +242,22 @@
         "marker-color": "#D3D3D3",
         "descriere": "Premiul unPi la Infoarena.ro"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0488,
+          44.4918
+        ]
+      },
+      "properties": {
+        "marker-symbol": "suitcase",
+        "marker-size": "medium",
+        "marker-color": "#858b97",
+        "descriere": "familie beneficiar unPi"
+      }
     }
   ]
 }
