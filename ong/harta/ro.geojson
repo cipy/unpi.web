@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.9118,
+          25.4558
+        ]
+      },
+      "properties": {
+        "marker-symbol": "heart",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "name": "Asociatia unPi pentru Scolari",
+        "address": "Bd Unirii nr 17",
+        "popupContent": "Casa #unPi"
+      }
+    }
+  ]
+}
