@@ -80,6 +80,54 @@
         "marker-color": "#FF0000",
         "description": "donator #unPi"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1025,
+          44.4268
+        ]
+      },
+      "properties": {
+        "marker-symbol": "heart",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "description": "donator #unPi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3517,
+          50.8503
+        ]
+      },
+      "properties": {
+        "marker-symbol": "heart",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "description": "donator #unPi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7522,
+          59.9139
+        ]
+      },
+      "properties": {
+        "marker-symbol": "heart",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "description": "donator #unPi"
+      }
     }
   ]
 }
