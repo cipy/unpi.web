@@ -176,6 +176,22 @@
         "marker-color": "#FF0000",
         "description": "donator #unPi"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9631,
+          -37.8136
+        ]
+      },
+      "properties": {
+        "marker-symbol": "heart",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "description": "donator #unPi"
+      }
     }
   ]
 }
