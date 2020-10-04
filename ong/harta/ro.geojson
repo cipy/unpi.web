@@ -18,6 +18,22 @@
         "adresa": "Bd Unirii nr 17",
         "descriere": "Casa #unPi"
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9734,
+          46.5813
+        ]
+      },
+      "properties": {
+        "marker-symbol": "home",
+        "marker-size": "large",
+        "marker-color": "#45EFEC",
+        "descriere": "familie beneficiar unPi"
+      }
+    }    
   ]
 }
