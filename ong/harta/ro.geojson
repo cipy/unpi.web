@@ -34,7 +34,7 @@
         "marker-color": "#45EFEC",
         "descriere": "familie beneficiar unPi"
       }
-    },    
+    },
     {
       "type": "Feature",
       "geometry": {
@@ -50,7 +50,7 @@
         "marker-color": "#45EFEC",
         "descriere": "familie beneficiar unPi"
       }
-    },    
+    },
     {
       "type": "Feature",
       "geometry": {
@@ -66,6 +66,54 @@
         "marker-color": "#D3D3D3",
         "descriere": "familie beneficiar unPi"
       }
-    }    
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5887,
+          45.6427 
+        ]
+      },
+      "properties": {
+        "marker-symbol": "suitcase",
+        "marker-size": "medium",
+        "marker-color": "#D3D3D3",
+        "descriere": "familie beneficiar unPi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3137,
+          44.2085 
+        ]
+      },
+      "properties": {
+        "marker-symbol": "suitcase",
+        "marker-size": "medium",
+        "marker-color": "#D3D3D3",
+        "descriere": "familie beneficiar unPi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7756,
+          44.2095 
+        ]
+      },
+      "properties": {
+        "marker-symbol": "suitcase",
+        "marker-size": "medium",
+        "marker-color": "#D3D3D3",
+        "descriere": "familie beneficiar unPi"
+      }
+    }
   ]
 }
