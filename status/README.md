@@ -1,6 +1,6 @@
 #### Status
 
-<script src="https://embed.github.com/view/geojson/cipy/unpi.web/master/ong/harta/ro.geojson?height=400&width=450"></script>
+<script src="https://embed.github.com/view/geojson/cipy/unpi.web/master/ong/harta/ro.geojson?height=350&width=450"></script>
 
 ##### 2019
 
