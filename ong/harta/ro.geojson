@@ -189,10 +189,11 @@
         ]
       },
       "properties": {
-        "marker-symbol": "suitcase",
+        "marker-symbol": "town-hall",
         "marker-size": "medium",
-        "marker-color": "#45EFEC",
-        "descriere": "familie beneficiar unPi"
+        "marker-color": "#000080",
+        "descriere": "parteneriat reSHAPE ONG",
+        "anul": 2020
       }
     },
     {
@@ -259,6 +260,23 @@
         "marker-size": "medium",
         "marker-color": "#858b97",
         "descriere": "familie beneficiar unPi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8514,
+          46.6323
+        ]
+      },
+      "properties": {
+        "marker-symbol": "town-hall",
+        "marker-size": "medium",
+        "marker-color": "#000080",
+        "descriere": "parteneriat SOS Satele Copiilor ONG",
+        "anul": 2020
       }
     }
   ]
