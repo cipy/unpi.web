@@ -12,7 +12,7 @@
 - un televizor cu un [port HDMI](https://en.wikipedia.org/wiki/HDMI) liber
 - părintele/tutorele care aplică să dețină un telefon mobil smart (ce poate rula aplicația Telegram)
 - părintele/tutorele care aplică să aibă Internet pe telefonul mobil smart (abonament sau cartelă)
-- capacitatea financiară, dorința și locația fizică pentru a se putea conecta la Internet cu o legătură _fixă_, sau cu o conexiune Internet mobilă de pe telefonul smart, doar dacă această conexiune Internet mobilă poate fi [partajată](https://dexonline.ro/definitie/partaja) cu calculatorul unPi (de exemplu, micul calculator unPi se poate conecta la Internet prin intermediul telefonului mobil smart)
+- capacitatea financiară, dorința și locația fizică pentru a se putea conecta la Internet cu o legătură _fixă_, sau cu o conexiune Internet mobilă de pe telefonul smart, doar dacă această conexiune Internet mobilă poate fi [partajată](https://dexonline.ro/definitie/partaja) cu calculatorul unPi (de exemplu, [calculatorul personal unPi se poate conecta la Internet prin intermediul telefonului mobil smart](https://www.youtube.com/watch?v=g9VJny5jjt0))
 
 ##### Pas 1. Instalează pe telefonul tău mobil smart:
 - [aplicația Telegram](https://telegram.org/apps) (din păcate nu este încă tradusă complet în limba română), pentru comunicarea ulterioară cu Asociația unPi pentru Școlari
