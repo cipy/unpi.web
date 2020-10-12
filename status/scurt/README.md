@@ -7,7 +7,7 @@
 - go.unpi.ro te va duce direct la [cursul unPi de programare în Golang](https://go.unpi.ro) și lecțiile lui aferente
 - win.go.unpi.ro îți va arăta [cum să configurezi calculatorul tău cu Windows OS pentru cursul de Golang](https://go.unpi.ro/pregatire/windows/)
 - fb.unpi.ro te va duce direct la [pagina unPi de pe Facebook](https://www.facebook.com/unpi.ro/)
-- yt.unpi.ro te va duce direct la [pagina unPi de pe Youtube](https://www.youtube.com/channel/UCx8Wbav9IpSQk-vmaw55bOA/)
+- yt.unpi.ro te va duce direct la [pagina unPi de pe YouTube](https://www.youtube.com/channel/UCx8Wbav9IpSQk-vmaw55bOA/)
 - tt.unpi.ro te va duce direct la [pagina unPi de pe TikTok](https://www.tiktok.com/@unpi.ro)
 - scurt.unpi.ro te va aduce [chiar aici, surpriză!](https://start.unpi.ro/status/scurt/)
 - imn.unpi.ro îți va arăta [imnul unPi pentru copii](https://www.youtube.com/embed/-9UtQwq6oEw?autoplay=1)
