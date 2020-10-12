@@ -11,10 +11,10 @@
 - tt.unpi.ro te va duce direct la [pagina unPi de pe TikTok](https://www.tiktok.com/@unpi.ro)
 - scurt.unpi.ro te va aduce [chiar aici, surpriză!](https://start.unpi.ro/status/scurt/)
 - imn.unpi.ro îți va arăta [imnul unPi pentru copii](https://www.youtube.com/embed/-9UtQwq6oEw?autoplay=1)
-- alt.imn.unpi.ro îți va arăta [imnul unPi pentru parinti](https://www.youtube.com/embed/CDrsYEG7Tdk?autoplay=1)
+- alt.imn.unpi.ro îți va arăta [imnul unPi pentru părinți](https://www.youtube.com/embed/CDrsYEG7Tdk?autoplay=1)
 - fun.unpi.ro îți va arăta [câteva video-uri distractive din spatele scenei unPi](https://vimeo.com/channels/1536180/)
 - init.unpi.ro este programul de inițializare pentru calculatorul tău personal unPi
-- typing.unpi.ro este [pagina în engleză cu exercitii de scriere rapidă la tastatură](https://www.typing.com/student/lessons)
+- typing.unpi.ro este [pagina în engleză cu exerciții de scriere rapidă la tastatură](https://www.typing.com/student/lessons)
 - scratch.unpi.ro te va duce direct la [cursul nostru video de inițiere în Scratch 3](https://vimeo.com/showcase/6997928)
 - all.scratch.unpi.ro îți va arăta [toate materialele noastre video despre Scratch 3](https://vimeo.com/showcase/6997928)
-- mag.unpi.ro îți va arăta [ultimul număr în limba engleză al revistei Raspberry Pi Magazine](https://magpi.raspberrypi.org/)
+- mag.unpi.ro îți va arăta [ultimul număr al revistei Raspberry Pi Magazine în limba engleză](https://magpi.raspberrypi.org/)
