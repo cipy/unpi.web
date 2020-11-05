@@ -4,5 +4,6 @@
 
 - [Ultima versiune Raspbian](https://www.raspberrypi.org/downloads/raspbian/) instalată pe microSD
 - [Raspberry Pi 3 B+ Ultimate Starter Kit](https://www.amazon.de/gp/product/B07DDCRFP6/)
-- [Tastatură cu trackpad incorporat](https://www.amazon.de/gp/product/B07HG5Q851/) (wireless)
+- [Tastatură (wireless) cu trackpad incorporat](https://www.amazon.de/gp/product/B07HG5Q851/)
+- [Baterii 2x AAA pentru tastatura (wireless)](https://www.amazon.de/-/en/gp/product/B00009X3EV/)
 - [Cablu rețea profesional](https://www.amazon.de/gp/product/B00QV1F160/)
