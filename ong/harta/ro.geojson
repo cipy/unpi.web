@@ -406,6 +406,23 @@
         "descriere": "parteneriat SOS Satele Copiilor ONG",
         "anul": 2020
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6014,
+          47.1585
+        ]
+      },
+      "properties": {
+        "marker-symbol": "town-hall",
+        "marker-size": "medium",
+        "marker-color": "#000080",
+        "descriere": "parteneriat Salvati Copiii ONG",
+        "anul": 2020
+      }
     }
   ]
 }
