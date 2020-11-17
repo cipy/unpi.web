@@ -6,11 +6,11 @@
 
 ###### donatori (seria #1, _de aur_)
 
-1. BS din Thailanda, Bangkok a virat - un[Pi 400](https://www.raspberrypi.org/products/raspberry-pi-400) trimis la Făgăraș, județul Brașov
+1. BS din Thailanda, Bangkok a virat - un[Pi 400](https://www.raspberrypi.org/products/raspberry-pi-400) trimis la Făgăraș
 2. CM din Finlanda, Helsinki a virat - premiul unPi pt câștigătorul [Junior Challenge](https://infoarena.ro/blog/unpi) și [EJOI](https://www.ejoi2019.si/competition/results/) 2019
-3. DD din Finlanda, Helsinki a virat - un[Pi 400](https://www.raspberrypi.org/products/raspberry-pi-400) trimis lângă Făgăraș, județul Brașov
-4. LL din Germania, Berlin a virat
-5. SS din Germania, Munchen a virat
+3. DD din Finlanda, Helsinki a virat - un[Pi 400](https://www.raspberrypi.org/products/raspberry-pi-400) trimis lângă Făgăraș
+4. LL din Germania, Berlin a virat - rezervat pentru premiul [Junior Challenge](https://infoarena.ro/blog/unpi) 2021
+5. SS din Germania, Munchen a virat - un[Pi 400](https://www.raspberrypi.org/products/raspberry-pi-400) trimis la Sibiu
 6. PS din Norvegia, Oslo a virat
 7. RB din Statele Unite, San Francisco a virat
 8. MV din Canada, Montreal a virat
