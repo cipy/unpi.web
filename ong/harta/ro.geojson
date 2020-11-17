@@ -332,7 +332,55 @@
         "type": "Point",
         "coordinates": [
           26.16866,
-          44.37466 
+          44.37466
+        ]
+      },
+      "properties": {
+        "marker-symbol": "suitcase",
+        "marker-size": "medium",
+        "marker-color": "#45EFEC",
+        "descriere": "familie beneficiar unPi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.06169,
+          46.28286
+        ]
+      },
+      "properties": {
+        "marker-symbol": "suitcase",
+        "marker-size": "medium",
+        "marker-color": "#45EFEC",
+        "descriere": "familie beneficiar unPi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.08171,
+          46.26426
+        ]
+      },
+      "properties": {
+        "marker-symbol": "suitcase",
+        "marker-size": "medium",
+        "marker-color": "#45EFEC",
+        "descriere": "familie beneficiar unPi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.98055,
+          45.82644
         ]
       },
       "properties": {
