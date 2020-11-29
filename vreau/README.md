@@ -38,12 +38,12 @@
 - **PAROLA** primită prin SMS trebuie să o folosești **doar** atunci când instalezi calculatorul unPi
 - NU spune nimănui PAROLA ta! Este personală și unică pentru fiecare aplicant unPi în parte!
 - dacă uiți PAROLA, ne poți trimite un alt SMS cu textul "APLIC Prenume Nume" (ca la Pas 5.)
-- dacă ai urmat Pas 3., 4. și 5. dar nu ai primit PAROLA după ce ai trimis SMS, [apasă aici](https://t.me/unpi_ong) pentru a ne atenționa pe Telegram
+- dacă ai urmat Pașii 3., 4. și 5. dar nu ai primit PAROLA după ce ai trimis **SMS**-ul APLIC, [contactează-ne te rog pe Telegram](https://t.me/unpi_ong) pentru a ne atenționa asupra acestei probleme
 
 ##### Pas 6. Copilul tău va scrie o scurtă compunere cu subiectul: Ce înseamnă unPi pentru mine?
 - scurta compunere sau eseu personal nu trebuie să fie mai lungă de o pagină (A4)
 - copilul tău trebuie să scrie singur compunerea, fără ajutor de la părinți sau cadre didactice
-- copilul se poate inspira în compunerea sa uitându-se la [scurtul video promotional unPi](https://start.unpi.ro/ong/promo/)
+- copilul se poate inspira în compunerea sa privind [scurtul video promotional unPi](https://start.unpi.ro/ong/promo/)
 - părintele face o poză a textului scris de copil pe care ne-o trimite pe [e-mail](mailto:aplic@unpi.ro) sau în [Telegram](https://t.me/unpi_ong)
 
 ##### Pas 7. Atunci când compunerea, sau micul eseu al copilului tău ne-a captat atenția:
@@ -69,5 +69,5 @@
 NOTA:
 - dacă ai orice întrebări pe parcursul procesului de aplicare, scrie-ne la [întrebări](mailto:intrebari@unpi.ro)
 - dacă ai probleme de orice fel cu aplicația ta la unPi, scrie-ne la [probleme](mailto:probleme@unpi.ro)
-- dacă nu poți sau nu știi cum să ne trimiți un **e-mail** ca mai sus, scrie-ne te rog pe [Telegram](https://t.me/unpi_ong)
+- dacă nu poți sau nu știi cum să ne trimiți un **e-mail** ca mai sus, [scrie-ne te rog pe Telegram](https://t.me/unpi_ong)
 - **NU** se fac excepții de niciun fel de la textul de mai sus sau de la [regulamentul unPi](http://regulament.unpi.ro/)
