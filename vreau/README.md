@@ -47,13 +47,15 @@
 - părintele face o poză a textului scris de copil pe care ne-o trimite pe [e-mail](mailto:aplic@unpi.ro) sau în [Telegram](https://t.me/unpi_ong)
 
 ##### Pas 7. Atunci când compunerea, sau micul eseu al copilului tău ne-a captat atenția:
-- vei fi contactat direct pe mobil sau în Telegram pentru confirmarea aplicației tale și pașii următori
-- vei primi prin SMS sau în Telegram un link către [regulamentul](http://regulament.unpi.ro) nostru
+- te vom contacta direct pe mobil sau prin Telegram pentru confirmarea aplicației voastre
+- vei primi prin SMS sau prin Telegram un link către [regulamentul](http://regulament.unpi.ro) nostru
 - regulamentul **trebuie confirmat prin SMS** la +358406640059 cu textul "INTELEG SI RESPECT REGULAMENTUL"
 - neconfirmarea [regulamentului](http://regulament.unpi.ro) prin **SMS** va duce la anularea aplicației tale
 
 ##### Pas 8. Micul calculator personal unPi este comandat de noi și trimis către tine
-- **te rugăm** să ne confirmi recepționarea calculatorului [unPi](http://pc.unpi.ro/) prin **SMS** la +358406640059 cu textul "AM PRIMIT UNPI"
+- vom avea nevoie să ne transmiți adresa ta poștală completă, inclusiv codul poștal
+- **te rugăm** să ne confirmi recepționarea calculatorului [unPi](http://pc.unpi.ro/)
+- prin **SMS** la +358406640059 cu textul "AM PRIMIT UNPI"
 
 ##### Pas 9. Ștergerea aplicației tale și a datelor aferente:
 - doar la cererea expresă a părinte/tutore-lui care a aplicat _inițial_ se pot șterge din sistemele noastre materialele sale digitale
