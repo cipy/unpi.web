@@ -15,3 +15,5 @@
 - [Nu mai folosi Whatsapp, publicat de LifeHacker](https://translate.google.com/translate?sl=auto&tl=ro&u=https%3A%2F%2Flifehacker.com%2Fstop-using-whatsapp-if-you-care-about-your-privacy-1825719172) [[original](https://lifehacker.com/stop-using-whatsapp-if-you-care-about-your-privacy-1825719172) din 2018]
 
 - [Firmele mari interzic angajaților să folosească Whatsapp, publicat de ZDNet](https://translate.google.com/translate?sl=auto&tl=ro&u=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fwhatsapp-is-among-the-most-blacklisted-apps-in-the-enterprise%2F) [[original](https://www.zdnet.com/article/whatsapp-is-among-the-most-blacklisted-apps-in-the-enterprise/) din 2017]
+
+![no Privacy](WhatsAppMobile.jpg)
