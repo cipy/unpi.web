@@ -16,4 +16,6 @@
 
 - [Firmele mari interzic angajaților să folosească Whatsapp, publicat de ZDNet](https://translate.google.com/translate?sl=auto&tl=ro&u=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fwhatsapp-is-among-the-most-blacklisted-apps-in-the-enterprise%2F) [[original](https://www.zdnet.com/article/whatsapp-is-among-the-most-blacklisted-apps-in-the-enterprise/) din 2017]
 
+---
+
 ![no Privacy](WhatsAppMobile.jpg)
