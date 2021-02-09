@@ -8,7 +8,7 @@
 
 1. BS din Thailanda, Bangkok a virat - un[Pi 400](https://www.raspberrypi.org/products/raspberry-pi-400) trimis la Făgăraș
 2. CM din Finlanda, Helsinki a virat - premiul unPi pt câștigătorul [Junior Challenge](https://infoarena.ro/blog/unpi) și [EJOI](https://www.ejoi2019.si/competition/results/) 2019
-3. DD din Finlanda, Helsinki a virat - un[Pi 400](https://www.raspberrypi.org/products/raspberry-pi-400) trimis lângă Făgăraș
+3. DD din Finlanda, Helsinki a virat
 4. LL din Germania, Berlin a virat - rezervat pentru premiul [Junior Challenge](https://infoarena.ro/blog/unpi) 2021
 5. SS din Germania, Munchen a virat - un[Pi 400](https://www.raspberrypi.org/products/raspberry-pi-400) trimis la Sibiu
 6. PS din Norvegia, Oslo a virat
