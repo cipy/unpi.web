@@ -21,10 +21,9 @@ Mulțumim!
 
 Răspuns: te rugăm trimite echivalentul a €120 (sau cât îți permiți tu 🤓):
 - în [Bitcoin](https://bitcoin.org/ro/) către portofelul virtual BTC de la adresa [38yr6P1yPYJ4Ln3LU7X1q5yVwWN9Mxkyu8](https://www.blockchain.com/btc/address/38yr6P1yPYJ4Ln3LU7X1q5yVwWN9Mxkyu8)
-- în [Ethereum](https://ethereum.org/ro/) către portofelul virtual ETH de la adresa [0x01D49e3C1B7481434d9Bb408227251Cc16e9D84a](https://www.blockchain.com/eth/address/0x01D49e3C1B7481434d9Bb408227251Cc16e9D84a)
 
 Mulțumim!
 
-#### Hmm, îmi place ideea dar vreau să donez Direct.
+#### Hmm, îmi place ideea, dar vreau să donez Direct.
 
 Răspuns: îți recomandăm _călduros_ să dăruiești unPi în aceeași [configurație](https://www.unpi.ro/spec/) pe care noi o folosim pentru [cursul Golang](https://go.unpi.ro/). Ești liber(ă) să selectezi apoi beneficiarul pe propriile criterii, dar dacă îi dăruiești ceva care nu este în [specificația unPi](https://www.unpi.ro/spec/), nu îl vom putea ajuta în timpul [cursului de programare în Golang](https://go.unpi.ro/). De asemenea trebuie să citești și [pagina pentru utilizatori privați](https://www.unpi.ro/privat/).
