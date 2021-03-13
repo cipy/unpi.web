@@ -1,6 +1,6 @@
 ## De ce?
 
-#### (or ce) vreți să faceți (cu) proiectul unPi.ro?
+#### (sau ce) vreți să faceți (cu) proiectul unPi?
 
 Răspuns: sunt copii în România care au pierdut din start la loteria vieții. Poate au rămas fără părinți, poate s-au născut într-o familie foarte săracă, șamd. Cu proiectul [unPi](https://www.unpi.ro/) vrem să-i ajutăm să-și depășească condiția socială în care s-au născut, și să le dăm o posibilitate de a crea un viitor mai frumos pentru ei și familiile lor.
 
@@ -10,15 +10,15 @@ Răspuns: programarea, munca în IT în general, este cea mai _democratică_ ocu
 
 #### nu altceva?
 
-Răspuns: nu insistăm pe [monocultură](https://dexonline.ro/definitie/monocultură), gen "învață doar IT", dimpotrivă. Trebuie să vezi viitoarele tale cunoștiințe în IT drept o unealtă ce îți va permite să multiplici, uneori de sute, chiar mii de ori, ce poți face de unul singur. Dacă visezi să devii doctor, asistentă, avocată, economist, etc, vei putea folosi ulterior cunoștiințele tale specializate ca să creezi un program or mai multe programe pe calculator care să te ajute în munca (mult) visată, ori ca să știi ce să-i ceri unui consultant IT.
+Răspuns: nu insistăm pe [monocultură](https://dexonline.ro/definitie/monocultură), gen "învață doar IT", dimpotrivă. Trebuie să vezi viitoarele tale cunoștiințe în IT drept o unealtă ce îți va permite să multiplici, uneori de sute, chiar mii de ori, ce poți face de unul singur. Dacă visezi să devii doctor, asistentă, avocat(ă), economist, etc, vei putea folosi ulterior cunoștiințele tale specializate ca să creezi un program sau mai multe programe pe calculator care să te ajute în munca (mult) visată, sau ca să știi ce să-i ceri unui consultant IT.
 
 #### tu/autorul?
 
-Răspuns: eu am avut scânteia/ideea inițială, dar oricine poate acum [să doneze](https://www.unpi.ro/donez/), ori să corecteze textele [unPi.ro](https://www.unpi.ro/), ori să contribuie la [cursul Golang în limba română](https://go.unpi.ro/), ori să creeze alte cursuri pentru proiectul unPi.
+Răspuns: eu am avut scânteia/ideea inițială, dar oricine poate acum [să doneze](https://www.unpi.ro/donez/), sau să corecteze paginile [unPi](https://www.unpi.ro/), sau să contribuie la [cursul Golang în limba română](https://go.unpi.ro/), sau să creeze alte cursuri pentru proiectul unPi.
 
-#### noi/beneficiarul?
+#### noi/eu/beneficiarul?
 
-Răspuns: dacă ești un copil în dificultate (financiară, socială), și ai cel puțin 10 ani, și vrei să-ți schimbi condiția prin forțe proprii, și _vrei să înveți programare_, roagă-l pe unul din părinți (ori tutore, dacă ai așa ceva) să contacteze unPi [direct](mailto:vreau@unpi.ro?subject=vreau%20sa%20primesc%20unPi). (nu vă putem ajuta pe _toți_ din prima zi, din păcate, dar pe măsură ce primim noi donații, le vom trimite în ordine celor ce au fost selectați)
+Răspuns: dacă ești un copil în dificultate (financiară, socială), ai cel puțin 10 ani, și vrei să-ți schimbi condiția prin forțe proprii, și _vrei să înveți programare_, roagă-l pe unul din părinții tăi (sau pe tutore, dacă ai așa ceva) să contacteze unPi [direct](mailto:vreau@unpi.ro?subject=vreau%20sa%20primesc%20unPi). (nu vă putem ajuta pe _toți_ din prima zi, din păcate, dar pe măsură ce primim noi donații sau sponsorizări, vom trimite câte un calculator unPi tuturor celor ce au fost selectați)
 
 #### copii începând cu vârsta de 10 ani?
 
@@ -30,7 +30,7 @@ Răspuns: prioritatea este pentru copiii defavorizați, dar pe măsură ce primi
 
 #### nu vorbești de vârsta celor din IT?
 
-Răspuns: Da, nu este totul roz în IT. Și nimeni nu-ți prea spune asta din timp. Dacă atunci când ești tanăr ești căutat precum pâinea caldă, pe masură ce înaintezi în vârstă (să zicem după 35 de ani), devine din ce în ce mai greu să-ți găsești o slujbă (bine plătită) în IT, dacă nu ai acumulat în timp cunoștiințe specifice (în IT, ori alte domenii, vezi monocultura de care am vorbit mai sus). Iar dacă nu ai o diploma în IT, trebuie să fii întradevăr foarte bun la ceea ce faci, să înveți și să te instruiești mereu in tehnologiile noi care apar.
+Răspuns: Da, nu este totul roz în IT. Și nimeni nu-ți prea spune asta din timp. Dacă atunci când ești tanăr ești căutat precum pâinea caldă, pe masură ce înaintezi în vârstă (să zicem după 35 de ani), devine din ce în ce mai greu să-ți găsești o slujbă (bine plătită) în IT, dacă nu ai acumulat în timp cunoștiințe specifice (în IT, sau alte domenii, vezi monocultura de care am vorbit mai sus). Iar dacă nu ai o diploma în IT, trebuie să fii întradevăr foarte bun la ceea ce faci, să înveți și să te instruiești mereu în tehnologiile noi care apar.
 
 #### unPi și nu un calculator la mâna a doua?
 
