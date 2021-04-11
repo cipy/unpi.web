@@ -1,6 +1,6 @@
 ## Vreau să învăț programare
 
-#### Ce trebuie să știi înainte?
+### Ce trebuie să știi înainte?
 
 Pentru a învăța programare _nu ai nevoie_ de cunoștiințe avansate în matematică sau în alte materii din școala generală ori de la liceu. Este de ajuns dacă:
 - știi și **înțelegi** matematica din clasa a 5-a, de la școala generală
@@ -12,7 +12,7 @@ Pentru a învăța programare _nu ai nevoie_ de cunoștiințe avansate în matem
 - ești curios sau curioasă din fire și vrei să înveți mai multe în timp
 - ai timp, **dedicație** și energie pentru a **studia**/munci cu tine [temeinic](https://dexonline.ro/definitie/temeinic)
 
-#### Cu ce începi?
+### Cu ce începi?
 
 O carte (sau un curs) de programare pentru începatori te poate pierde (sau plictisi) din prima pagină cu definiția calculatorului, o lista a diverselor lui componente, și cum funcționează aceste componente împreună, în interiorul calculatorului. Detaliile acestea le poți învăța și înțelege mai tarziu, mult mai ușor, când calculatorul îți devine deja un prieten (virtual) de nădejde.
 
@@ -25,7 +25,7 @@ Modurile prin care tu poți interacționa inițial cu un calculator sunt:
 - o [tastatură, uneori cu trackpad încorporat](https://start.unpi.ro/spec/pc/tastatura.jpg) ce transmite calculatorului pe ce taste (de obicei litere) apeși, plus gesturile și mișcările pe care le faci cu mâna pe trackpad
 - un [ecran pentru calculator](https://www.amazon.de/gp/product/B0789CDW8Z/) (sau TV cu un port HDMI liber, în cazul [unPi](http://pc.unpi.ro/)) pe care vei putea observa rezultatul acțiunilor și comenzilor tale asupra calculatorului
 
-#### Cum lucrezi cu calculatorul?
+### Cum lucrezi cu calculatorul?
 
 Primul pas este să experimentezi și să te familiarizezi cu:
 
@@ -38,20 +38,21 @@ Primul pas este să experimentezi și să te familiarizezi cu:
 
 - [tastatura și cum să tastezi](http://tastatura.unpi.ro); în plus față de materialele noastre video vei putea folosi tot [GCompris](https://gcompris.net/index-ro.html) pentru a exersa cu tastatura și apoi avansa la [practică pe typing.com](https://www.typing.com/student/lessons), chiar dacă nu este disponibil în limba română, știm sigur că te poți descurca.
 
-#### Cum programezi?
+### Cum programezi?
 
-Noi vom începe cu câteva exemple de programare în [Scratch 3](https://scratch.mit.edu/about), care este un limbaj și mediu de programare vizual, pentru copii. [Scratch 3](https://scratch.org/) poate fi folosit direct de pe Internet, din browser, și este disponibil în limba română (dacă mergi în josul paginii și selectezi limba română de la triunghiul argintiu 🔽).
+Noi te sfătuim să începi mai întâi cu câteva proiecte personale în [Scratch 3](https://scratch.mit.edu/about), care este un limbaj și mediu de programare vizual, pentru copii. [Scratch](https://scratch.org/) poate fi folosit direct de pe Internet, din browser, și este disponibil în limba română (dacă mergi în josul paginii lor și selectezi limba română de la triunghiul argintiu 🔽).
 
-Te vom lăsa și [încuraja să descoperi singur Scratch 3](http://scratch.unpi.ro/), după modelul [GCompris](https://gcompris.net/index-ro.html): experimentând, urmărind singur(ă) care este rezultatul acțiunilor tale în aplicația respectivă, încercându-ți curajul și determinarea cu [tutorialele din Scratch](https://scratch.mit.edu/projects/editor/?tutorial=getStarted) care sunt din păcate disponibile doar în limba engleză.
+Te vom încuraja să [descoperi programarea cu ajutorul cursului Scratch 3 pentru unPi](http://scratch.unpi.ro/), după modelul încercat deja cu [GCompris](https://gcompris.net/index-ro.html): experimentând, urmărind singur(ă) care este rezultatul acțiunilor tale în aplicația respectivă, încercându-ți curajul și determinarea cu [ghidurile deja existente în Scratch](https://scratch.mit.edu/projects/editor/?tutorial=getStarted) care sunt din păcate disponibile doar în limba engleză, dar pentru care există subtitrări în limba română pe care le poți activa apănsând pe butonul [cc] din dreapta jos al video-ghidului lor)
 
-Apoi ne vom concentra și vom solicita atenția ta la [programarea în limbajul Golang](https://go.unpi.ro/), începând cu o parte din exemplele de programare pe care le-am construit înițial în Scratch. 
+Apoi ne vom concentra și-ți vom solicita atenția pentru [cursul de programarea în limbajul Golang](https://go.unpi.ro/), reluând o parte din exemplele pe care le-am construit înițial în Scratch, iar apoi te vom iniția treptat în tainele programării calculatoarelor, explicând totul în termenii cei mai ușor de înțeles.
 
-Vom studia diverse tipuri de comenzi sau instrucțiuni pe care le poți da unui calculator. Spre exemplu, aceste instrucțiuni pot fi:
+In timp vom studia diverse tipuri de comenzi sau instrucțiuni pe care le poți da unui calculator.
+Spre exemplu, aceste instrucțiuni pot fi pentru început:
 - **execută** un anumit program, deja existent pe calculatorul tău
 - **afisează** un text pe ecranul calculatorului, precum: _"Bună ziua Lume!"_
 - **dacă** se întamplă o anumită **condiție**, execută **operația** sau programul următor
 - **calculează** rezultatul unei operații matematice: **+**, **-**, **x** sau **/** între două numere
 
-Bineînțeles, cursul nostru va evolua în timp spre concepte de programare mai avansate. [Golang](https://go-tour-ro.appspot.com/) este un limbaj de programare profesional (adică poți fi plătit sau angajat pe piața muncii pentru a programa în el), este simplu și modern.
+Bineînțeles, cursurile noastre vor evolua în timp spre concepte de programare mai avansate. [Golang](https://go-tour-ro.appspot.com/) este un limbaj de programare profesional (adică poți fi plătit sau angajat pe piața muncii pentru a crea programe în acest limbaj), este simplu, modern și foarte rapid.
 
-### Hai, începe să [înveți programare cu unPi](https://go.unpi.ro/)! Ce [mai aștepți?](https://start.unpi.ro/privat/)
+### Hai, începe să [înveți programare cu unPi](http://invat.unpi.ro/)! Ce [mai aștepți?](https://start.unpi.ro/privat/)
