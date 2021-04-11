@@ -46,13 +46,12 @@ Te vom încuraja să [descoperi programarea cu ajutorul cursului Scratch 3 pentr
 
 Apoi ne vom concentra și-ți vom solicita atenția pentru [cursul de programarea în limbajul Golang](https://go.unpi.ro/), reluând o parte din exemplele pe care le-am construit înițial în Scratch, iar apoi te vom iniția treptat în tainele programării calculatoarelor, explicând totul în termenii cei mai ușor de înțeles.
 
-In timp vom studia diverse tipuri de comenzi sau instrucțiuni pe care le poți da unui calculator.
-Spre exemplu, aceste instrucțiuni pot fi pentru început:
+Așadar, vom studia diverse tipuri de comenzi sau instrucțiuni pe care le poți da unui calculator, dar și modul logic de a le combine pentru a obține un program de calculator funcțional și performant. Spre exemplu, aceste instrucțiuni pot fi pentru început:
 - **execută** un anumit program, deja existent pe calculatorul tău
 - **afisează** un text pe ecranul calculatorului, precum: _"Bună ziua Lume!"_
-- **dacă** se întamplă o anumită **condiție**, execută **operația** sau programul următor
+- **dacă** se întâmplă o anumită **condiție**, execută **operația** sau programul următor
 - **calculează** rezultatul unei operații matematice: **+**, **-**, **x** sau **/** între două numere
 
-Bineînțeles, cursurile noastre vor evolua în timp spre concepte de programare mai avansate. [Golang](https://go-tour-ro.appspot.com/) este un limbaj de programare profesional (adică poți fi plătit sau angajat pe piața muncii pentru a crea programe în acest limbaj), este simplu, modern și foarte rapid.
+Bineînțeles, cursurile noastre vor evolua în timp spre concepte de programare mai avansate. [Golang](https://go-tour-ro.appspot.com/) este un limbaj de programare profesional (adică poți fi plătit sau angajat pe piața muncii pentru a crea programe în acest limbaj), simplu, modern și foarte rapid.
 
 ### Hai, începe să [înveți programare cu unPi](http://invat.unpi.ro/)! Ce [mai aștepți?](https://start.unpi.ro/privat/)
