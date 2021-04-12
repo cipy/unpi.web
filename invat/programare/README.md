@@ -32,9 +32,9 @@ Primul pas este să experimentezi și să te familiarizezi cu:
 - interfața (grafică) pe care calculatorul tău o afișează pe ecran, ce poate fi:
   - o [interfață mobilă](http://xdesigns.net/wp-content/uploads/2016/03/Mobile-application-interface-design-PSD.jpg), ca pe un telefon Android sau iPhone
   - o [interfață Windows modernă](https://getintopc.com/wp-content/uploads/2016/10/Microsoft-Windows-10-1607-Oct-2016-x64-ISO-Setup-Free-Download.png) pentru PC (calculator personal)
-  - o [interfață Raspberry Pi](https://www.raspberrypistarterkits.com/wp-content/uploads/2017/11/Using-the-Graphical-User-Interface.png) sau [unPi](http://pc.unpi.ro/), interfață pe care o vom folosi noi în exemplele următoare, în imagini și capturi video ale ecranului. Această interfață mai este cunoscută și sub numele de interfață Linux/[Unix](https://unix.unpi.ro/)
+  - o [interfață Raspberry Pi](https://www.raspberrypistarterkits.com/wp-content/uploads/2017/11/Using-the-Graphical-User-Interface.png) sau [unPi](http://pc.unpi.ro/), interfață pe care o vom folosi noi în exemplele următoare, în imagini și capturi video ale ecranului. Această interfață mai este cunoscută și sub numele de interfață Linux sau [Unix](https://unix.unpi.ro/)
 
-- un mouse ori trackpad; avem scurte materiale [video care te invata sa lucrezi pe trackpad](http://tastatura.unpi.ro) plus micile jocuri și exerciții pe care le poți încerca în [suita de aplicații educaționale GCompris](https://gcompris.net/index-ro.html) ce este deja instalată pe calculatorul tău unPi
+- un mouse ori trackpad; avem scurte materiale [video care te învață să lucrezi pe trackpad](http://tastatura.unpi.ro) plus micile jocuri și exerciții pe care le poți încerca în [suita de aplicații educaționale GCompris](https://gcompris.net/index-ro.html) ce este deja instalată pe calculatorul tău unPi
 
 - [tastatura și cum să tastezi](http://tastatura.unpi.ro); în plus față de materialele noastre video vei putea folosi tot [GCompris](https://gcompris.net/index-ro.html) pentru a exersa cu tastatura și apoi avansa la [practică pe typing.com](https://www.typing.com/student/lessons), chiar dacă nu este disponibil în limba română, știm sigur că te poți descurca.
 
@@ -46,12 +46,12 @@ Te vom încuraja să [descoperi programarea cu ajutorul cursului Scratch 3 pentr
 
 Apoi ne vom concentra și-ți vom solicita atenția pentru [cursul de programarea în limbajul Golang](https://go.unpi.ro/), reluând o parte din exemplele pe care le-am construit înițial în Scratch, iar apoi te vom iniția treptat în tainele programării calculatoarelor, explicând totul în termenii cei mai ușor de înțeles.
 
-Așadar, vom studia diverse tipuri de comenzi sau instrucțiuni pe care le poți da unui calculator, dar și modul logic de a le combine pentru a obține un program de calculator funcțional și performant. Spre exemplu, aceste instrucțiuni pot fi pentru început:
+Așadar, vom studia diverse tipuri de comenzi sau instrucțiuni pe care le poți da unui calculator, dar și modul logic de a combina instrucțiunile pentru a obține un program de calculator funcțional și performant. Spre exemplu, aceste instrucțiuni pot fi pentru început:
 - **execută** un anumit program, deja existent pe calculatorul tău
 - **afisează** un text pe ecranul calculatorului, precum: _"Bună ziua Lume!"_
 - **dacă** se întâmplă o anumită **condiție**, execută **operația** sau programul următor
 - **calculează** rezultatul unei operații matematice: **+**, **-**, **x** sau **/** între două numere
 
-Bineînțeles, cursurile noastre vor evolua în timp spre concepte de programare mai avansate. [Golang](https://go-tour-ro.appspot.com/) este un limbaj de programare profesional (adică poți fi plătit sau angajat pe piața muncii pentru a crea programe în acest limbaj), simplu, modern și foarte rapid.
+Bineînțeles, cursurile noastre vor evolua în timp spre concepte de programare mai avansate. [Golang](https://go-tour-ro.appspot.com/) este un limbaj de programare profesional (adică vei putea fi plătit sau angajat pe piața muncii pentru a crea programe în acest limbaj), simplu, modern și foarte rapid.
 
 ### Hai, începe să [înveți programare cu unPi](http://invat.unpi.ro/)! Ce [mai aștepți?](https://start.unpi.ro/privat/)
