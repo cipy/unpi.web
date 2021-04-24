@@ -10,4 +10,4 @@
   - [raport scurt de activitate pe 2019](AGA/raport%20(scurt)%20de%20activitate%202019.pdf)
 - [AGA #1](AGA/sedinta%201%20hotarare.pdf)
 
-##### NOTA: variante fără date personale; asociația păstrează variantele originale (semnate)
+##### NOTĂ: variante fără date personale; asociația păstrează variantele originale (semnate)
