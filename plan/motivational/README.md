@@ -1,41 +1,13 @@
-## recompense motivaționale
+## Recompense Motivaționale
 
-#### cum participarea școlarului în proiectul unPi va necesita **multă muncă individuală** pentru a invăta și practica conceptele folosite în programare, plus a rezolva exercițiile temă, ne gândim să oferim și una din următoarele recompense _după 1 an_ de activitate, doar școlarilor unPi cu rezultate și implicare _excepționale_:
+#### Cum participarea elevului în proiectul unPi va necesita **multă muncă individuală** pentru a învăța și practica conceptele folosite în programare, plus a rezolva exercițiile temă, le oferim (acum) și următoarele cursuri profesionale **în limba engleză**, vizibile doar de pe [calculatorul unPi](https://start.unpi.ro/spec/pc/)
 
-##### _(inițial recompensele sunt doar pentru prima serie de donații, seriile următoare vor primi recompense doar dacă reușim să atragem donații sau sponsorizări în acest sens)_
+### Curs de Șah pentru Copii, prin amabilitatea autoarei Susan Polgar, Grand Master în șah
 
----
+[![Susan Polgar te învață sah](https://img.youtube.com/vi/Jph8pCUlKok/0.jpg)](https://www.youtube.com/watch?v=Jph8pCUlKok)
 
-1. [camera Raspberry Pi versiunea 2](https://www.amazon.de/gp/product/B01ER4FA9U/) pentru unPi
+### Curs de Desen în Creion, prin amabilitatea autorului Stan Prokopenko, artist plastic
 
-![Raspberry Pi Camera](picam.jpg)
+[![Stan Prokopenko te învață sa desenezi un portret](https://img.youtube.com/vi/D_W9sZ8S7RM/0.jpg)](https://www.youtube.com/watch?v=D_W9sZ8S7RM)
 
----
-
-2. procesor [Micro Bit](https://www.amazon.de/gp/product/B01G8X7VM2/) pentru programatori adevarați (în devenire)
-
-![Micro Bit leds](mibitlove.jpg)
-
----
-
-3. CamJam EduKit #3 - [Robot mașinuță cu unPi](https://thepihut.com/products/camjam-edukit-3-robotics)
-
-![cutie robot](robotbox.jpg) ![robot mașinuță](robot.jpg)
-
----
-
-4. radio programabil pentru unPi care [poate detecta avioanele](https://www.amazon.de/gp/product/B00VZ1AWQA/) ce zboară deasupra casei tale (trebuie să-i ții antena aproape de fereastră)
-
-![NooElec Mini 2](radio.jpg) ![NooElec Mini 2 antena](antena.jpg)
-
----
-
-5. display/[ecran foarte mic](https://www.amazon.de/gp/product/B06X191RX7/) pentru unPi
-
-![3.5 inch screen](ecran.jpg) ![3.5 inch screen back](ecranspate.jpg)
-
----
-
-6. [modem 3G USB](https://www.amazon.de/gp/product/B00L64LSWS/) pentru școlarii care vor să-și minimizeze cheltuielile cu Internetul (necesită o [cartela GSM prepaid pentru date](https://www.digiromania.ro/servicii/telefonie-mobila/cartela-digi/optiune-2-euro-3-luni-diva)/Internet, achizionată separat)
-
-![Huawei 3G modem](modem3Gusb.jpg)
+#### PS. sperăm să putem adauga în toamnă și un curs de limba engleză pentru copii
