@@ -10,4 +10,4 @@
 
 [![Stan Prokopenko te învață sa desenezi un portret](https://img.youtube.com/vi/D_W9sZ8S7RM/0.jpg)](https://www.youtube.com/watch?v=D_W9sZ8S7RM)
 
-#### PS. sperăm să putem adauga în toamnă și un curs de limba engleză pentru copii
+##### PS. sperăm să putem adauga în toamnă și un curs de limba engleză pentru copii
