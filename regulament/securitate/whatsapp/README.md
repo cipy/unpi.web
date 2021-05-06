@@ -4,6 +4,7 @@
 
 ##### Articole publicate în presă, pe Internet care motivează această decizie:
 
+- [Oricine îți poate fura contul Whatsapp, publicat de Forbes](https://translate.google.com/translate?sl=auto&tl=ro&u=https://www.forbes.com/sites/zakdoffman/2021/04/10/shock-new-warning-for-millions-of-whatsapp-users-on-apple-iphone-and-google-android-phones/) [[original](https://www.forbes.com/sites/zakdoffman/2021/04/10/shock-new-warning-for-millions-of-whatsapp-users-on-apple-iphone-and-google-android-phones/) din 2021]
 - [Informația din grupurile private este vizibilă pe Internet, publicat de DW](https://translate.google.com/translate?hl=&sl=auto&tl=ro&u=https%3A%2F%2Fwww.dw.com%2Fen%2Fwhatsapp-security-flaw-over-60000-groups-still-accessible-online%2Fa-52543414) [[original](https://www.dw.com/en/whatsapp-security-flaw-over-60000-groups-still-accessible-online/a-52543414) din 2020]
 
 - [(să nu ai) Încredere în Whatsapp, publicat de Forbes](https://translate.google.com/translate?sl=auto&tl=ro&u=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fkateoflahertyuk%2F2020%2F02%2F29%2Fwhatsapp-security-is-this-hidden-flaw-a-new-reason-to-leave%2F%23749ade5b90b6) [[original](https://www.forbes.com/sites/kateoflahertyuk/2020/02/29/whatsapp-security-is-this-hidden-flaw-a-new-reason-to-leave/) din 2020]
