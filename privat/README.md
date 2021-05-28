@@ -12,7 +12,7 @@ Răspuns: Sună bine. Dar din păcate, la [condițiile tehnice pentru calculatoa
 
 P3. Vreau să înregistrez unPi al meu privat în proiectul [unPi](https://www.unpi.ro/) și să interacționez cu elevii unPi.
 
-Răspuns: În primul rând trebuie să aderi la, și să respecți cu strictețe [regulamentul](https://www.unpi.ro/regulament). Instrucțiunile tehnice pentru cazul acesta vor fi create ulterior, bazat pe cerere.
+Răspuns: Nu este posibil.
 
 P4. Trebuie să mă înregistrez la unPi pentru a face [cursul Golang](https://go.unpi.ro/)?
 
