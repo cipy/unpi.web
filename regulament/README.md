@@ -2,7 +2,7 @@
 
 Internetul a fost creat pe baza încrederii reciproce, ca o modalitate de a distribui gratis informația și cunoștințele, o adevărată librărie globală.
 
-Înțeleg că unele lucuri au mai regresat de atunci, dar în acest proiect vă atrag atenția că vom folosi cel mai valoros bun pe care îl aveți, și anume: **onoarea**.
+Înțeleg că unele lucruri au mai regresat de atunci, dar în acest proiect vă atrag atenția că vom folosi cel mai valoros bun pe care îl aveți, și anume: **onoarea**.
 
 Pentru a primi calculatorul personal unPi te **angajezi** (părinte și copil) **solemn** să respecți următoarele reguli (pe care părintele le va primi și într-o scrisoare recomandată prin poștă, înainte de a primi unPi):
 
