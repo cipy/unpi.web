@@ -539,6 +539,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          26.3000,
+          47.1166  
+        ]
+      },
+      "properties": {
+        "marker-symbol": "suitcase",
+        "marker-size": "medium",
+        "marker-color": "#45EFEC",
+        "descriere": "familie beneficiar unPi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           27.2857,
           47.5279
         ]
