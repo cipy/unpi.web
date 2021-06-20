@@ -217,6 +217,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          26.0716,
+          44.3877
+        ]
+      },
+      "properties": {
+        "marker-symbol": "gift",
+        "marker-size": "medium",
+        "marker-color": "#D3D3D3",
+        "descriere": "premiul unPi via Infoarena.ro",
+        "anul": 2021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           23.2019,
           45.8451
         ]
