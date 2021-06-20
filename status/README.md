@@ -27,3 +27,6 @@
 19. CS din România, București a virat
 
 ###### donatori (seria #2)
+
+20. SN din Olanda, Amsterdam a virat - folosit pentru [mici premii motivaționale unPi](http://plus.unpi.ro)
+21. CM din Finlanda, Espoo a virat - folosit pentru [mici premii motivaționale unPi](http://plus.unpi.ro)
