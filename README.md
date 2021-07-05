@@ -1,4 +1,3 @@
-> vezi și [vreau](https://www.unpi.ro/vreau/), să [donez](https://www.unpi.ro/donez/), să [codez](https://www.unpi.ro/invat/programare/), în [Golang](https://go.unpi.ro/). [de ce](https://www.unpi.ro/dece/)? [primești](https://vimeo.com/329034464), [asamblezi](https://vimeo.com/329035192), [conectezi](https://vimeo.com/329036345), [la TV](https://vimeo.com/329037141)
 
 ## ONG
 
