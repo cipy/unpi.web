@@ -1,10 +1,10 @@
 ## Secțiune pentru utilizatorii privați
 
-Oh, sunt un utilizator privat, interesantă inițiativa [unPi](https://www.unpi.ro/), dar nu vreau să donez sau să contribui încă. Însă:
+Oh, sunt un utilizator privat, [interesantă inițiativă](https://www.unpi.ro/), dar _nu_ [vreau să primesc unPi](http://vreau.unpi.ro), _nu_ vreau să donez sau să contribui încă. Însă:
 
 P1. Aș vrea să studiez și eu cu voi limbajul de programare Golang, singur sau cu copilul meu. Cum procedez?
 
-Răspuns: Cel mai simplu îți cumperi același [calculator unPi](http://pc.unpi.ro/) pentru care cursurile nostre sunt făcute, apoi citești mai departe ce trebuie să faci ca să [înveți programare](http://invat.unpi.ro/). Dacă vrei _neapărat_ să folosești Windows OS, _trebuie_ mai întâi să urmezi [pașii de pregatire a calculatorului tău personal pentru unPi](http://win.go.unpi.ro/). Doar după aceea poți urma [cursul nostru de programare în limbajul Golang](https://go.unpi.ro/). Te rog reține că _efortul nostru principal_ este pentru platforma și [specificația unPi](http://spec.unpi.ro/). 
+Răspuns: Cel mai simplu îți cumperi același [calculator unPi](http://pc.unpi.ro/) pentru care cursurile nostre sunt făcute, apoi citești mai departe ce trebuie să faci ca să [înveți programare](http://invat.unpi.ro/). Dacă vrei _neapărat_ să folosești Windows OS, _trebuie_ mai întâi să urmezi [pașii de pregatire a calculatorului tău personal pentru unPi](http://win.go.unpi.ro/). Doar după aceea poți urma [cursul nostru de programare în limbajul Golang](https://go.unpi.ro/). **Te rog** reține că _efortul nostru principal_ este pentru platforma și [specificația unPi](http://spec.unpi.ro/). 
 
 P2. Pot să folosesc programul guvernamental [Euro 200](http://www.euro200.edu.ro) să-i cumpăr copilului meu unPi?
 
