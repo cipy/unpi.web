@@ -1,6 +1,6 @@
 ## Secțiune pentru utilizatorii privați
 
-Oh, sunt un utilizator privat, [interesantă inițiativă](https://www.unpi.ro/), dar _nu_ [vreau să primesc unPi](http://vreau.unpi.ro), _nu_ vreau să donez sau să contribui încă. Însă:
+Oh, sunt un utilizator privat, [interesantă inițiativă](https://www.unpi.ro/), dar _nu_ [vreau să primesc unPi](http://vreau.unpi.ro), _nu_ vreau să donez sau să contribui încă la acest proiect. Însă:
 
 P1. Aș vrea să studiez și eu cu voi limbajul de programare Golang, singur sau cu copilul meu. Cum procedez?
 
