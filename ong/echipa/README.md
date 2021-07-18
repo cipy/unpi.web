@@ -1,7 +1,7 @@
 
-### Echipa fondatoare
+### Consiliul Director
 
-![Ciprian Manea](cm.png) ![Andrei Manea](am.png) ![Nicolae Manea](nm.png)
+![Ciprian Manea](cm.png) ![Sergiu Novac](sn.png) ![Nicolae Manea](nm.png)
 
 ### Statut: "Asociația unPi pentru Școlari" este activă din 19.09.2019 certificat 22/I/A/2019
 
