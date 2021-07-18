@@ -20,11 +20,6 @@ Dar astăzi, acum, când ești la început, trebuie doar să știi că un calcul
 
 Este exact ca în exemplul de mai devreme, când mama ta te trimite(a) la piață; dar rolurile sunt acum puțin inversate: tu ești "mama", iar "fiul/fiica" ei este calculatorul tău. Cu cât "mama" dă instrucțiuni cât mai **simple**, cât mai **clare**, cu atât calculatorul le va putea memora și **executa** mai bine.
 
-Modurile prin care tu poți interacționa inițial cu un calculator sunt:
-- un [trackpad](https://start.unpi.ro/spec/pc/trackpad.jpg) sau [mouse](https://www.amazon.de/dp/B01K7GEG9W/) ce transmite calculatorului mișcările mâinii tale
-- o [tastatură, uneori cu trackpad încorporat](https://start.unpi.ro/spec/pc/tastatura.jpg) ce transmite calculatorului pe ce taste (de obicei litere) apeși, plus gesturile și mișcările pe care le faci cu mâna pe trackpad
-- un [ecran pentru calculator](https://www.amazon.de/gp/product/B0789CDW8Z/) (sau TV cu un port HDMI liber, în cazul [unPi](http://pc.unpi.ro/)) pe care vei putea observa rezultatul acțiunilor și comenzilor tale asupra calculatorului
-
 ### Cum lucrezi cu calculatorul?
 
 Primul pas este să experimentezi și să te familiarizezi cu:
@@ -32,11 +27,11 @@ Primul pas este să experimentezi și să te familiarizezi cu:
 - interfața (grafică) pe care calculatorul tău o afișează pe ecran, ce poate fi:
   - o [interfață mobilă](http://xdesigns.net/wp-content/uploads/2016/03/Mobile-application-interface-design-PSD.jpg), ca pe un telefon Android sau iPhone
   - o [interfață Windows modernă](https://getintopc.com/wp-content/uploads/2016/10/Microsoft-Windows-10-1607-Oct-2016-x64-ISO-Setup-Free-Download.png) pentru PC (calculator personal)
-  - o [interfață Raspberry Pi](https://www.raspberrypistarterkits.com/wp-content/uploads/2017/11/Using-the-Graphical-User-Interface.png) sau [unPi](http://pc.unpi.ro/), interfață pe care o vom folosi noi în exemplele următoare, în imagini și capturi video ale ecranului. Această interfață mai este cunoscută și sub numele de interfață Linux sau [Unix](https://unix.unpi.ro/)
+  - o [interfață Raspberry Pi](https://www.raspberrypistarterkits.com/wp-content/uploads/2017/11/Using-the-Graphical-User-Interface.png) sau [unPi](http://pc.unpi.ro/), interfață pe care o vom folosi noi în exemplele următoare, în imagini și capturi video ale ecranului. Această interfață mai este cunoscută și sub numele de interfață grafică Linux sau [Unix](https://unix.unpi.ro/)
 
-- un mouse ori trackpad; avem scurte materiale [video care te învață să lucrezi pe trackpad](http://tastatura.unpi.ro) plus micile jocuri și exerciții pe care le poți încerca în [suita de aplicații educaționale GCompris](https://gcompris.net/index-ro.html) ce este deja instalată pe calculatorul tău unPi
+- un mouse sau trackpad, pentru care avem scurte materiale [video care te învață să lucrezi pe trackpad](http://tastatura.unpi.ro), plus micile jocuri și exerciții pe care le poți încerca în [suita de aplicații educaționale GCompris](https://gcompris.net/index-ro.html) ce este deja instalată pe [calculatorul tău unPi](http://pc.unpi.ro)
 
-- [tastatura și cum să tastezi](http://tastatura.unpi.ro); în plus față de materialele noastre video vei putea folosi tot [GCompris](https://gcompris.net/index-ro.html) pentru a exersa cu tastatura și apoi avansa la [practică pe typing.com](https://www.typing.com/student/lessons), chiar dacă nu este disponibil în limba română, știm sigur că te poți descurca.
+- [tastatura și cum să tastezi](http://tastatura.unpi.ro); în plus față de materialele noastre video vei putea folosi tot [GCompris](https://gcompris.net/index-ro.html) pentru a exersa cu tastatura și apoi avansa la [practică pe typing.com](https://www.typing.com/student/lessons) (acest site nu este disponibil în limba română, dar știm sigur că te poți descurca cu el)
 
 ### Cum programezi?
 
