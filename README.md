@@ -24,11 +24,10 @@ De asemenea, urmărim atragerea de [donații private](https://start.unpi.ro/done
 
 #### Apariții în Presă / la Radio / OnLine
 
-- [scoala9.ro](https://scoala9.ro/romanul-din-finlanda-care-pregateste-elevi-romani-in-programare--vreau/944/) articol din 15 iulie 2021
+- [scoala9.ro](https://scoala9.ro/romanul-din-finlanda-care-pregateste-elevi-romani-in-programare--vreau/944/) și [libertatea.ro](https://www.libertatea.ro/stiri/un-roman-stabilit-de-20-de-ani-in-finlanda-ii-invata-programare-pe-copiii-de-acasa-vreau-ca-la-18-ani-ei-sa-si-poata-gasi-o-slujba-3652256) articol din 15/18 iulie 2021
 - [kissfm.ro](https://www.kissfm.ro) campanie radio în luna august 2020
 - [gadget4u.ro](https://gadget4u.ro/unpi-pentru-copiii-din-medii-defavorizate/) articol din 10 decembrie 2019
-- [news.ro](https://www.news.ro/comunicate/comunicat-de-presa-elevii-din-medii-defavorizate-primesc-mini-pc-uri-si-cursuri-de-programare-din-partea-asociatiei-unpi-pentru-scolari-19154523) comunicat de presă din 28 octombrie 2019
-- [profit.ro](https://www.profit.ro/stiri/social/elevii-din-medii-defavorizate-primesc-mini-pc-uri-si-cursuri-de-programare-din-partea-asociatiei-unpi-pentru-scolari-19154254) articol din 28 octombrie 2019 (identic cu news.ro)
+- [news.ro](https://www.news.ro/comunicate/comunicat-de-presa-elevii-din-medii-defavorizate-primesc-mini-pc-uri-si-cursuri-de-programare-din-partea-asociatiei-unpi-pentru-scolari-19154523) și [profit.ro](https://www.profit.ro/stiri/social/elevii-din-medii-defavorizate-primesc-mini-pc-uri-si-cursuri-de-programare-din-partea-asociatiei-unpi-pentru-scolari-19154254) comunicat de presă din 28 octombrie 2019
 - [start-up.ro](https://start-up.ro/unpi-asociatia-care-vrea-sa-ofere-calculatoare-pentru-toti-copiii/) articol din 1 iunie 2019
 
 ### Despre succes în viață, pornind de la Visele Copilariei
