@@ -10,10 +10,10 @@
 
 - ~~de lucrat la infrastructura unPi și automatizarea ei~~
 - ~~de lucrat la paginile de prezentare a conceptului unPi plus ONG~~
-- de facut filmele scurte de prezentare pentru Raspberry Pi Zero WH ~~și 4B~~
-- de testat unPi în [configurația planificată](http://spec.unpi.ro/), plus RPi Zero WH când timpul o permite
+- ~~de facut filmele scurte de prezentare pentru Raspberry Pi Zero WH și 4B~~
+- de testat unPi în [configurația planificată](http://spec.unpi.ro/), ~~plus RPi Zero WH când timpul o permite~~
 - de creat o nouă serie de lecții de coding în Scratch 3 pentru începători
-- de creat o nouă lecție de programare (Golang) la fiecare 2 săptămani
+- de creat o nouă lecție de programare (Golang) la fiecare 2-3 săptămâni
 
 #### Didactice
 
