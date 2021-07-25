@@ -2,7 +2,7 @@
 
 This project [site](https://www.unpi.ro/) is about helping _unprivileged_ children from Romania to _learn programming_ in [Golang](https://golang.org) using a tailored [programming course for children](https://go.unpi.ro/) created by [Ciprian Manea](https://www.linkedin.com/in/ciprian-manea/) in the Romanian language.
 
-Golang is a modern programming language invented at Google (by one of the founders of the [C programming language](https://en.wikipedia.org/wiki/C_(programming_language) & others)). This language was designed from the get go to be **simple** to learn, **safe** to use, with built-in support for _concurrency_ and _multi platform_.
+Golang is a modern programming language invented at Google (by one of the creators of the [C programming language](https://en.wikipedia.org/wiki/C_(programming_language) & others)). This language (Go) was designed from the get go to be **simple** to learn, **safe** to use, with built-in support for _concurrency_ and _multi platform_.
 
 In Computer Science engineering _speak_: **concurrency** is the capacity of a program to run inside a computer on all installed processors at the same time, and _true_ **multi platform** means you write your program once, but then compile & use it on various computer types: from the very small like [RPi](https://www.raspberrypi.org), to tablets, laptops, desktops, up to room sized servers.
 
