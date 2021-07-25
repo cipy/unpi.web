@@ -32,13 +32,14 @@
 - textul tău din **SMS** _trebuie_ să fie fără diacritice și fără ghilimelele din exemplul de mai sus
 - **trebuie** să folosești numele tău legal _Prenume Nume_ în **SMS**-ul APLIC pe care ni-l trimiți
 - (numărul nostru [mobil](tel:+358406640059) este internațional, te va costa maxim 0.15 EUR per SMS trimis)
+- **dacă** nu poți trimite un **SMS** internațional, te rog **contactează acum** operatorul tău de telefonie
 - **dacă** ai urmat cu atenție instrucțiunile noastre, vei primi de la noi un mesaj **SMS** înapoi
 - textul în acest SMS primit va fi: PAROLA ta SECRETA la unPi este **PAROLA** TE ROG NU O DA NIMANUI!
 - PAROLA este un grup de 6 caractere (_doar_ litere mari și cifre) pe care trebuie să le **păstrezi**
 - **PAROLA** primită prin SMS trebuie să o folosești **doar** atunci când instalezi calculatorul unPi
 - NU spune nimănui PAROLA ta! Este personală și unică pentru fiecare aplicant unPi în parte!
 - dacă uiți PAROLA, ne poți trimite un alt SMS cu textul "APLIC Prenume Nume" (ca la Pas 5.)
-- dacă ai urmat Pașii 3., 4. și 5. dar nu ai primit PAROLA după ce ai trimis **SMS**-ul APLIC, [contactează-ne te rog pe Telegram](https://t.me/unpi_ong) pentru a ne atenționa asupra acestei probleme
+- dacă ai urmat Pașii 3., 4. și 5. dar nu ai primit PAROLA după ce ai trimis un **SMS** APLIC, [contactează-ne _te rog_ pe Telegram](https://t.me/unpi_ong) pentru a ne atenționa asupra acestei probleme
 
 ##### Pas 6. Copilul tău va scrie o scurtă compunere cu subiectul: Ce înseamnă unPi pentru mine?
 - scurta compunere sau eseu personal nu trebuie să fie mai lungă de o pagină (A4)
@@ -54,8 +55,8 @@
 
 ##### Pas 8. Micul calculator personal unPi este comandat de noi și trimis către tine
 - vom avea nevoie să ne transmiți adresa ta poștală completă, inclusiv codul poștal
-- **te rugăm** să ne confirmi recepționarea calculatorului [unPi](http://pc.unpi.ro/)
-- prin **SMS** la +358406640059 cu textul "AM PRIMIT UNPI"
+- **te rugăm** să ne confirmi recepționarea [calculatorului unPi](http://pc.unpi.ro/):
+- printr-un **SMS** la numarul de contact +358406640059 cu textul "AM PRIMIT UNPI"
 
 ##### Pas 9. Ștergerea aplicației tale și a datelor aferente:
 - doar la cererea expresă a părinte/tutore-lui care a aplicat _inițial_ se pot șterge din sistemele noastre materialele sale digitale
@@ -67,7 +68,8 @@
 - după **30 de zile** (calendaristice) de la primirea cererii de ștergere a aplicației tale la unPi, **promitem să oprim** orice proces extern al "Asociația unPi pentru Școlari" ce folosea numele tău legal complet sau materialele tale digitale, în vreun fel sau format
 
 NOTA:
+- **verifică te rog** că poți trimite un SMS internațional sau contactează operatorul telecom 
 - dacă ai orice întrebări pe parcursul procesului de aplicare, scrie-ne la [întrebări](mailto:intrebari@unpi.ro)
 - dacă ai probleme de orice fel cu aplicația ta la unPi, scrie-ne la [probleme](mailto:probleme@unpi.ro)
-- dacă nu poți sau nu știi cum să ne trimiți un **e-mail** ca mai sus, [scrie-ne te rog pe Telegram](https://t.me/unpi_ong)
+- dacă nu poți sau nu știi cum să ne trimiți un **e-mail** ca mai sus, [scrie-ne _te rog_ pe Telegram](https://t.me/unpi_ong)
 - **NU** se fac excepții de niciun fel de la textul de mai sus sau de la [regulamentul unPi](http://regulament.unpi.ro/)
