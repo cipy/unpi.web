@@ -14,7 +14,7 @@ Vrei să contribui €/$/RON? Vezi te rog conturile bancare din pagina [donez](h
 
 #### Bugetul pentru unPi pe an este €145 de participant/donator și conține:
 
-- [Raspberry Pi 4 B Official Kit](https://www.amazon.de/-/en/Raspberry-Computer-Official-System-White/dp/B08P7HCJH5/) €99
+- [Raspberry Pi 4 B Official Full Kit](https://www.amazon.de/-/en/Raspberry-Computer-Official-System-White/dp/B08P7HCJH5/) €99
 - [Tastatură cu trackpad incorporat](https://www.amazon.de/gp/product/B07HG5Q851/) (wireless) €25
 - [Cablu rețea profesional](https://www.amazon.de/gp/product/B00QV1F160/) în jur de €10
 - Astăzi, transportul de la Amazon.de/Germania către România este în jur de €10
