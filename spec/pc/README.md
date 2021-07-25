@@ -26,8 +26,8 @@
 9. [port analogic pentru audio (stereo) și composite video](https://www.adafruit.com/product/2881)
 10. [port Ethernet / RJ45](https://www.amazon.de/gp/product/B00QV1F160/) (viteză maximă totală **300 Mbps**)
 11. 4x port(uri) seriale USB 2.0 (pentru [diverse](http://plus.unpi.ro/) accesorii USB)
-12. suport [PoE](https://en.wikipedia.org/wiki/Power_over_Ethernet) (necesită [PoE HAT](https://www.raspberrypi.org/products/poe-hat/), achiziționată separat)
-13. (nu este arătată mai sus) memorie 1GB LPDDR2 SDRAM
+12. suport [PoE](https://en.wikipedia.org/wiki/Power_over_Ethernet) (necesită [PoE HAT](https://www.raspberrypi.org/products/poe-plus-hat/), achiziționată separat)
+13. memorie internă de 1GB sau 4GB SDRAM în fucție de model
 
 ### Cum arată [tastatura US cu trackpad incorporat](https://www.amazon.de/gp/product/B07HG5Q851/) pentru [unPi](https://www.unpi.ro/)
 
