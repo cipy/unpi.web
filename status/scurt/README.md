@@ -12,7 +12,7 @@
 - read.unpi.ro îți va aduce [ultimul număr al revistei Raspberry Pi Magazine în limba engleză](https://magpi.raspberrypi.org/)
 - en.unpi.ro te va duce direct la [pagina unPi de prezentare în limba engleză](https://start.unpi.ro/english/)
 - go.unpi.ro te va duce direct la [cursul unPi de programare în Golang](https://go.unpi.ro) și lecțiile lui aferente
-- win.go.unpi.ro îți va arăta [cum să configurezi calculatorul tău cu Windows OS pentru cursul de Golang](https://go.unpi.ro/pregatire/windows/)
+- win.go.unpi.ro îți va arăta [cum să configurezi calculatorul tău cu Windows OS pentru Golang](https://go.unpi.ro/pregatire/windows/)
 - fb.unpi.ro te va duce direct la [pagina unPi de pe Facebook](https://www.facebook.com/unpi.ro/)
 - yt.unpi.ro te va duce direct la [pagina unPi de pe YouTube](https://www.youtube.com/channel/UCx8Wbav9IpSQk-vmaw55bOA/)
 - tt.unpi.ro te va duce direct la [pagina unPi de pe TikTok](https://www.tiktok.com/@unpi.ro) pentru părinți
