@@ -13,7 +13,7 @@ Mulțumim!
 
 #### OK, cum donez unPi mai vizibil? mai Social?
 
-Răspuns: ne [poți sponsoriza direct prin GitHub](https://github.com/sponsors/cipy) sau poți contribui via [Patreon](https://www.patreon.com/unPi) și face social sharing tot de acolo. (contribuția necesară e puțin mai mare în ultimul caz, Patreon+Paypal taxează tranzacțiile cu mai mult de 6%)
+Răspuns: ne [poți sponsoriza direct prin GitHub](https://github.com/sponsors/cipy), sau poți contribui via [Patreon](https://www.patreon.com/unPi?fan_landing=true) și face social sharing tot de acolo. (contribuția necesară e ceva mai mare în ultimul caz, Patreon+Paypal taxează tranzacțiile cu mai mult de 6%)
 
 Mulțumim!
 
