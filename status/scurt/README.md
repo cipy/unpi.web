@@ -9,7 +9,8 @@
 - scratch.unpi.ro te va duce direct la [cursul nostru video de inițiere în Scratch 3](https://vimeo.com/showcase/6997928)
 - all.scratch.unpi.ro îți va arăta [toate materialele noastre video despre Scratch 3](https://vimeo.com/showcase/6997928)
 - nou.unpi.ro îți va arăta [canalul de știri Telegram cu ultimele noutăți de la unPi](https://t.me/s/unPi_ro)
-- read.unpi.ro îți va aduce [ultimul număr al revistei Raspberry Pi Magazine în limba engleză](https://magpi.raspberrypi.org/)
+- read.unpi.ro îți va aduce [ultimul număr al revistei Raspberry Pi Magazine, în limba engleză](https://magpi.raspberrypi.org/)
+- sonic.unpi.ro îți va aduce [ghidul în limba engleză pentru a putea crea muzică pe unPi](http://sonic.unpi.ro)
 - en.unpi.ro te va duce direct la [pagina unPi de prezentare în limba engleză](https://start.unpi.ro/english/)
 - go.unpi.ro te va duce direct la [cursul unPi de programare în Golang](https://go.unpi.ro) și lecțiile lui aferente
 - win.go.unpi.ro îți va arăta [cum să configurezi calculatorul tău cu Windows OS pentru Golang](https://go.unpi.ro/pregatire/windows/)
