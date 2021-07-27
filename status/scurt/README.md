@@ -2,7 +2,7 @@
 
 - pc.unpi.ro îți va arăta [imagini ale calculatorului personal unPi](https://start.unpi.ro/spec/pc/)
 - am.unpi.ro te va duce direct la [video-urile de asamblare și configurare unPi](https://vimeo.com/showcase/5901082)
-- vitamina.unpi.ro îți va arăta scurte [materiale video pentru juniori **și părinți**](https://vimeo.com/channels/1698977)
+- vitamina.unpi.ro îți va arăta [scurte materiale video pentru juniori **și părinți**](https://vimeo.com/channels/1698977)
 - fun.unpi.ro îți va arăta [câteva video-uri distractive din spatele scenei unPi](https://vimeo.com/channels/1536180)
 - init.unpi.ro este programul de inițializare pentru calculatorul tău personal unPi
 - typing.unpi.ro este [pagina în engleză cu exerciții de scriere rapidă la tastatură](https://www.typing.com/student/lessons)
