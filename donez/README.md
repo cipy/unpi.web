@@ -2,7 +2,7 @@
 
 #### OK, m-ai convins, cum donez acum unPi?
 
-Răspuns: trimite te rog donația ta (de preferat echivalentul a €150, cât valorează unPi) în unul din conturile bancare următoare. De asemenea poți dona și mai puțin de €150, dacă nu-ți permiți întreaga sumă. Dacă **reprezinți o firmă** ce dorește să ne facă o _sponsorizare_, contactează-ne te rog [direct prin email](mailto:donez@unpi.ro?subject=vreau%20sa%20sponsorizez%20unPi).
+Răspuns: trimite te rog donația ta (de preferat echivalentul a €150, [cât valorează unPi](https://start.unpi.ro/ong/povestea/#bugetul-pentru-unpi-pe-an-este-150-de-participantdonator-și-conține)) în unul din conturile bancare următoare. De asemenea poți dona și mai puțin de €150, dacă nu-ți permiți întreaga sumă. Dacă **reprezinți o firmă** ce dorește să facă o _sponsorizare_, contactează-ne te rog [direct prin email](mailto:donez@unpi.ro?subject=vreau%20sa%20sponsorizez%20unPi).
 
 - către: Asociația unPi pentru Școlari, Banca Transilvania, cod BIC/SWIFT BTRLRO22DBA
 - cod IBAN RO31BTRLRONCRT0523621201 pentru donații în RON
@@ -13,7 +13,7 @@ Mulțumim!
 
 #### OK, cum donez unPi mai vizibil? mai Social?
 
-Răspuns: ne [poți sponsoriza direct prin GitHub](https://github.com/sponsors/cipy), sau poți contribui via [Patreon](https://www.patreon.com/unPi?fan_landing=true) și face social sharing tot de acolo. (contribuția necesară e ceva mai mare în ultimul caz, Patreon+Paypal taxează tranzacțiile cu mai mult de 6%)
+Răspuns: ne [poți sponsoriza direct prin GitHub](https://github.com/sponsors/cipy), sau poți contribui via [Patreon](https://www.patreon.com/unPi?fan_landing=true) și face social sharing tot de acolo. (contribuția necesară este ceva mai mare în ultimul caz, Patreon+Paypal taxează tranzacțiile cu mai mult de 6%)
 
 Mulțumim!
 
