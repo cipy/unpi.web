@@ -16,7 +16,7 @@ In Computer Science engineering _speak_: **concurrency** is the capacity of a pr
 
 ## What are you gifting to a Romanian child?
 
-- [Raspberry Pi 4 B Official Full Kit](https://www.amazon.de/-/en/Raspberry-Computer-Official-System-White/dp/B08P7HCJH5/) €99
+- [Raspberry Pi 4 B Ultimate Kit](https://www.amazon.de/-/en/Raspberry-Ultimate-Class10-Switching-Heatsink/dp/B0982QL237/) €103
 - (wireless) [keyboard with built-in trackpad](https://www.amazon.de/gp/product/B07HG5Q851/) €25
 - [professional network cable](https://www.amazon.de/gp/product/B00QV1F160/) €10
 - delivery costs from Amazon.de to Romania, about €10
