@@ -14,15 +14,15 @@ In Computer Science engineering _speak_: **concurrency** is the capacity of a pr
 - the cheapest monthly [Internet subscription](https://www.digiromania.ro/servicii/internet) at one of the leading national providers is today 30 RON, or about 7,15 USD and gives you 300Mbps download with 150Mbps upload. Hello Western Europe?!
 - a [Raspberry Pi](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/specifications/) computer has 4 cores (small processors) and a fast network interface, asking for Golang programmers 🤓
 
-## What are you gifting to a Romanian child?
+## What are we gifting to a Romanian child?
 
-- [Raspberry Pi 4 B Ultimate Kit](https://www.amazon.de/-/en/Raspberry-Ultimate-Class10-Switching-Heatsink/dp/B0982QL237/) €103
-- (wireless) [keyboard with built-in trackpad](https://www.amazon.de/gp/product/B07HG5Q851/) €25
-- [professional network cable](https://www.amazon.de/gp/product/B00QV1F160/) €10
-- delivery costs from Amazon.de to Romania, about €10
+- an [Raspberry Pi 3B+ Ultimate Starter Kit](https://www.amazon.de/-/en/Raspberry-Ultimate-Starter-Switching-Premium/dp/B09BCKRKKG/)
+- a (wireless) [keyboard with built-in trackpad](https://www.amazon.de/gp/product/B07HG5Q851/)
+- [AAA batteries for the (wireless) keyboard](https://www.amazon.de/-/en/gp/product/B00009X3EV/)
+- [professional network cable](https://www.amazon.de/gp/product/B00QV1F160/)
 
 ###### NOTE: the project is now oficially registered in Romania as a Non Profit / NGO named “Asociația unPi pentru Școlari”
 
-From my side, our current donors, volunteers & supporters, and likely the future computer science talents we're likely to shape together: **Thank You from the bottom of our hearts for your hard earned contribution!** We'll be forever in your debt.
+Best wishes,
 
 Ciprian & co
