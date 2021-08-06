@@ -12,8 +12,8 @@
 4. LL din Germania, Berlin a virat - premiul unPi pt câștigătorul [Junior Challenge](https://infoarena.ro/blog/unpi) 2021
 5. SS din Germania, Munchen a virat - un[Pi 400](https://www.raspberrypi.org/products/raspberry-pi-400) trimis la Sibiu
 6. PS din Norvegia, Oslo a virat - unPi trimis la Brașov
-7. RB din Statele Unite, San Francisco a virat
-8. MV din Canada, Montreal a virat
+7. RB din Statele Unite, San Francisco a virat - unPi trimis la Târgu Mureș
+8. MV din Canada, Montreal a virat - unPi trimis la Târgu Mureș
 9. AG din România, București a virat
 10. CR din Germania, Nurnberg a virat
 11. SN din Olanda, Amsterdam a virat
