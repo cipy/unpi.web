@@ -42,10 +42,10 @@
 - dacă ai urmat Pașii 3., 4. și 5. dar nu ai primit PAROLA după ce ai trimis un **SMS** APLIC, [contactează-ne _te rog_ pe Telegram](https://t.me/unpi_ong) pentru a ne atenționa asupra acestei probleme
 
 ##### Pas 6. Copilul tău va scrie o scurtă compunere cu subiectul: Ce înseamnă unPi pentru mine?
-- scurta compunere sau eseu personal nu trebuie să fie mai lungă de o pagină (A4)
-- copilul tău trebuie să scrie singur compunerea, fără ajutor de la părinți sau cadre didactice
-- copilul se poate inspira în compunerea sa privind [scurtul video promotional unPi](https://start.unpi.ro/ong/promo/)
-- părintele face o poză a textului scris de copil pe care ne-o trimite pe [e-mail](mailto:aplic@unpi.ro) sau în [Telegram](https://t.me/unpi_ong)
+- scurta compunere sau mic eseu personal nu trebuie să fie mai lung(ă) de o pagină (A4)
+- copilul tău trebuie să scrie singur compunerea, _fără ajutor_ de la părinți sau cadre didactice
+- copilul se poate inspira în compunerea sa privind [scurtul video promoțional unPi](https://start.unpi.ro/ong/promo/)
+- părintele face o poză a textului scris de copil pe care ne-o trimite pe [e-mail](mailto:aplic@unpi.ro?subject=Eseu) sau în [Telegram](https://t.me/unpi_ong)
 
 ##### Pas 7. Atunci când compunerea, sau micul eseu al copilului tău ne-a captat atenția:
 - te vom contacta direct pe mobil sau prin Telegram pentru confirmarea aplicației voastre
