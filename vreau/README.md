@@ -28,11 +28,10 @@
 - să se oprească aici din procesul de aplicare la [unPi](https://www.unpi.ro/), dacă nu este de acord cu vreuna din condițiile enunțate mai sus (vezi mai ales [regulamentul](http://regulament.unpi.ro/) și pagina [GDPR](http://gdpr.unpi.ro/), limitări tehnice), sau vreuna din condițiile ce urmează:
 
 ##### Pas 5. Primește PAROLA ta de Beneficiar de la Asociația unPi pentru Școlari:
-- trimite un **SMS** la [numărul unPi de contact](tel:+358406640059) +358406640059 cu textul "APLIC Prenume Nume"
+- trimite un **SMS**[^1] la [numărul unPi de contact](tel:+358406640059) +358406640059[^2] cu textul "APLIC Prenume Nume"
 - textul tău din **SMS** _trebuie_ să fie fără diacritice și fără ghilimelele din exemplul de mai sus
 - **trebuie** să folosești numele tău legal _Prenume Nume_ în **SMS**-ul APLIC pe care ni-l trimiți
-- (numărul nostru [mobil](tel:+358406640059) este internațional, te va costa maxim 0.15 EUR per SMS trimis)
-- **dacă** nu poți trimite un **SMS** internațional, te rog **contactează acum** operatorul tău de telefonie
+- **dacă** nu poți trimite un **SMS** internațional[^1], te rog **contactează acum** operatorul tău de telefonie
 - **dacă** ai urmat cu atenție instrucțiunile noastre, vei primi de la noi un mesaj **SMS** înapoi
 - textul în acest SMS primit va fi: PAROLA ta SECRETA la unPi este **PAROLA** TE ROG NU O DA NIMANUI!
 - PAROLA este un grup de 6 caractere (_doar_ litere mari și cifre) pe care trebuie să le **păstrezi**
@@ -68,8 +67,9 @@
 - după **30 de zile** (calendaristice) de la primirea cererii de ștergere a aplicației tale la unPi, **promitem să oprim** orice proces extern al "Asociația unPi pentru Școlari" ce folosea numele tău legal complet sau materialele tale digitale, în vreun fel sau format
 
 NOTA:
-- **verifică te rog** că poți trimite un SMS internațional sau contactează operatorul telecom 
+[^1]: **verifică te rog** că poți trimite un SMS internațional sau contactează operatorul tău telecom 
+[^2]: numărul nostru [mobil](tel:+358406640059) este internațional, te va costa maxim 0.15 EUR per SMS trimis
 - dacă ai orice întrebări pe parcursul procesului de aplicare, scrie-ne la [întrebări](mailto:intrebari@unpi.ro)
 - dacă ai probleme de orice fel cu aplicația ta la unPi, scrie-ne la [probleme](mailto:probleme@unpi.ro)
-- dacă nu poți sau nu știi cum să ne trimiți un **e-mail** ca mai sus, [scrie-ne _te rog_ pe Telegram](https://t.me/unpi_ong)
+- dacă nu poți (sau nu știi) cum să ne trimiți un **e-mail** ca mai sus, [scrie-ne _te rog_ pe Telegram](https://t.me/unpi_ong)
 - **NU** se fac excepții de niciun fel de la textul de mai sus sau de la [regulamentul unPi](http://regulament.unpi.ro/)
