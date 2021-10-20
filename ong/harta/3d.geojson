@@ -6,6 +6,108 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          28.8,
+          45.1666
+        ]
+      },
+      "properties": {
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#33ffcc",
+        "nume": "Biblioteca publica",
+        "descriere": "imprimanta 3D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5794,
+          47.6533
+        ]
+      },
+      "properties": {
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#33ffcc",
+        "nume": "Biblioteca publica",
+        "descriere": "imprimanta 3D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.05,
+          47.2
+        ]
+      },
+      "properties": {
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#33ffcc",
+        "nume": "Biblioteca publica",
+        "descriere": "imprimanta 3D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8,
+          46.35
+        ]
+      },
+      "properties": {
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#33ffcc",
+        "nume": "Biblioteca publica",
+        "descriere": "imprimanta 3D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.39,
+          44.88
+        ]
+      },
+      "properties": {
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#33ffcc",
+        "nume": "Biblioteca publica",
+        "descriere": "imprimanta 3D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2833,
+          45.05
+        ]
+      },
+      "properties": {
+        "marker-symbol": "library",
+        "marker-size": "medium",
+        "marker-color": "#33ffcc",
+        "nume": "Biblioteca publica",
+        "descriere": "imprimanta 3D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           25.0770,
           44.8106
         ]
