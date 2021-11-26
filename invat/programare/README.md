@@ -47,6 +47,6 @@ Așadar, vom studia diverse tipuri de comenzi sau instrucțiuni pe care le poți
 - **dacă** se întâmplă o anumită **condiție**, execută **operația** sau programul următor
 - **calculează** rezultatul unei operații matematice: **+**, **-**, **x** sau **/** între două numere
 
-Bineînțeles, cursurile noastre vor evolua în timp spre concepte de programare mai avansate. [Golang](https://go-tour-ro.appspot.com/) este un limbaj de programare profesional (adică vei putea fi plătit sau angajat pe piața muncii pentru a crea programe în acest limbaj), simplu, modern și foarte rapid.
+Bineînțeles, cursurile noastre vor evolua în timp spre concepte de programare mai avansate. [Golang](https://go.dev/tour/) este un limbaj de programare profesional (adică vei putea fi plătit sau angajat pe piața muncii pentru a crea programe în acest limbaj), simplu, modern și foarte rapid.
 
 ### Hai, începe să [înveți programare cu unPi](http://invat.unpi.ro/)! Ce [mai aștepți?](https://start.unpi.ro/privat/)
