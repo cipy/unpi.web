@@ -16,7 +16,7 @@
 8. MV din Canada, Montreal a virat - unPi trimis la Târgu Mureș
 9. AG din România, București a virat
 10. CR din Germania, Nurnberg a virat
-11. SN din Olanda, Amsterdam a virat
+11. SN din Olanda, Amsterdam a virat - rezervat pentru [Junior Challenge](https://infoarena.ro/blog/unpi) 2022
 12. SP din România, București a virat
 13. DT din România, București a virat
 14. DM din Finlanda, Helsinki a virat
