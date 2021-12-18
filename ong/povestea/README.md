@@ -12,11 +12,11 @@ Eu mă angajez să [donez](http://donez.unpi.ro/) câte unPi pe an și să preg�
 
 Vrei să contribui €/$/RON? Vezi te rog conturile bancare din pagina [donez](http://donez.unpi.ro/) sau contactează-ne [direct](mailto:donez@unpi.ro?subject=vreau%20sa%20donez%20unPi); Vrei să contribui timp? Poți începe deja în Github cu [pagina aceasta](https://github.com/cipy/unpi.web), continua cu [pagina cursului Golang](https://github.com/cipy/unpi.go), sau poți crea propriul tău curs online [de programare] pentru [platforma unPi](https://www.unpi.ro/spec/).
 
-#### Bugetul pentru unPi pe an este €140 de participant/donator și conține:
+#### Bugetul pentru unPi pe an este €240 de participant/donator și conține:
 
-- [Raspberry Pi 3B+ Ultimate Starter Kit](https://www.amazon.de/-/en/Raspberry-Ultimate-Starter-Switching-Premium/dp/B09BCKRKKG/) €85
+- [Raspberry Pi 4B Starter Kit](https://www.amazon.de/-/en/Raspberry-Original-Processor-Supports-Bluetooth/dp/B07ZV9C6QF/) €186
 - [Tastatură cu trackpad incorporat](https://www.amazon.de/gp/product/B07HG5Q851/) (wireless) €25
-- [Baterii 2x AAA reîncărcabile](https://www.amazon.de/-/en/gp/product/B00009X3EV/) (tastatura) €5
+- [Baterii 2x AAA reîncărcabile](https://www.amazon.de/-/en/gp/product/B00009X3EV/) (tastatura) €7
 - [Cablu rețea profesional](https://www.amazon.de/gp/product/B00QV1F160/) în jur de €10
 - Astăzi, transportul din Amazon.de/Germania către România este în jur de €10
 
