@@ -684,22 +684,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.409,
-          45.449
-        ]
-      },
-      "properties": {
-        "marker-symbol": "suitcase",
-        "marker-size": "medium",
-        "marker-color": "#45EFEC",
-        "descriere": "familie beneficiar unPi"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           23.38,
           45.443
         ]
@@ -708,7 +692,7 @@
         "marker-symbol": "suitcase",
         "marker-size": "medium",
         "marker-color": "#45EFEC",
-        "descriere": "familie beneficiar unPi"
+        "descriere": "6 familii beneficiare unPi"
       }
     },
     {
