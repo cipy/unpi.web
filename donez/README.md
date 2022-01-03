@@ -20,7 +20,7 @@ Mulțumim!
 #### OK, m-ai convins, dar vreau să contribui Anonim!
 
 Răspuns: te rugăm trimite echivalentul a €240 (sau cât îți permiți tu 🤓):
-- în [Bitcoin](https://bitcoin.org/ro/) către portofelul virtual BTC de la adresa [38yr6P1yPYJ4Ln3LU7X1q5yVwWN9Mxkyu8](https://www.blockchain.com/btc/address/38yr6P1yPYJ4Ln3LU7X1q5yVwWN9Mxkyu8)
+- în [Bitcoin](https://bitcoin.org/ro/) către portofelul virtual BTC de la adresa [bc1qz48nermahcx9caen8vwz0ms3sh539tg3cyurcz](https://www.blockchain.com/btc/address/bc1qz48nermahcx9caen8vwz0ms3sh539tg3cyurcz)
 
 Mulțumim!
 
