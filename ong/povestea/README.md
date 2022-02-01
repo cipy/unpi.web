@@ -25,4 +25,4 @@ Vrei să contribui €/$/RON? Vezi te rog conturile bancare din pagina [donez](h
 
 Numai bine, și mulțumim!
 
-Ciprian & co
+Ciprian de la unPi
