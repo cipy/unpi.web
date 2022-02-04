@@ -14,7 +14,7 @@ Vrei să contribui €/$/RON? Vezi te rog conturile bancare din pagina [donez](h
 
 #### Bugetul pentru unPi pe an este €200 de participant/donator și conține:
 
-- [Raspberry Pi 3B+ Premium / Replacement Kit](https://www.amazon.de/-/en/Raspberry-Replacement-Premium-Kit-174-7510/dp/B0811L9QV9/) €125
+- [Raspberry Pi 3B+ Premium / Replacement Kit](https://www.amazon.de/-/en/Raspberry-Replacement-Premium-Kit-174-7510/dp/B0811L9QV9/) €127
 - [Tastatură cu trackpad incorporat](https://www.amazon.de/gp/product/B07HG5Q851/) (wireless) €25
 - [Baterii 2x AAA reîncărcabile](https://www.amazon.de/-/en/gp/product/B00009X3EV/) (tastatura) €7
 - [Cablu rețea profesional](https://www.amazon.de/gp/product/B00QV1F160/) în jur de €10
