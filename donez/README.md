@@ -24,7 +24,7 @@ Răspuns: ne [poți sponsoriza direct prin GitHub](https://github.com/sponsors/c
 
 Mulțumim!
 
-#### OK, m-ai convins, vreau să redirectionez parte din impozitul pe venit!
+#### OK, m-ai convins, vreau să redirecționez parte din impozitul meu pe venit!
 
 Răspuns: o poți face acum online, simplu și ușor folosind [redirectioneaza.ro](https://redirectioneaza.ro/unpi)
 
