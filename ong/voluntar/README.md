@@ -53,3 +53,5 @@ Dacă ai ajuns până aici, e un semn bun. Hai să vedem ce-ți mai oferim, în 
 Pentru [activarea beneficiilor de voluntar unPi](mailto:voluntar@unpi.ro), trimite-ne te rog un email.
 
 ### Mulțumim!
+
+### [Credits](https://credits.unpi.ro/)
