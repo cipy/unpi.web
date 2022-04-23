@@ -30,8 +30,6 @@ Dacă ai ajuns până aici, e un semn bun. Hai să vedem ce-ți mai oferim, în 
 
 - dacă nu știi IT, și vrei să înveți, îl vei avea pe [Ciprian](https://www.linkedin.com/in/ciprian-manea/) la contacte rapide. Vei putea urma toate cursurile noastre, pune întrebari direct la sursă, vei putea explica concepte IT indirect și beneficiarilor noștri prin intermediul materialelor unPi digitale. După un [motto](https://dexonline.ro/definitie/motto), pe care și Ciprian îl folosește: "dacă vrei să înțelegi un subiect foarte bine, încearcă să-l predai sau explici și unui copil"
 
-- dacă vrei să începi o afacere, ori ai deja una sau mai multe (indiferent de domeniu) și ai nevoie de sfaturi contabile, îl vei avea pe [președintele unPi](https://www.linkedin.com/in/nicolae-manea/), un expert contabil acreditat [CECCAR](https://ceccar.ro/ro/), (tot) la contacte rapide.
-
 - vei avea prioritate pentru a fi selectat _consultant specializat_ în proiectele speciale pentru care reușim să atragem finanțiare de la sponsori. Aici calitatea muncii tale, aflată deja la nivel Apple, va fi recompensată (temporar) la nivel Apple. Nu crezi? Ar trebui să vezi cum se (vor) uită sponsorii când le confirmăm asta.
 
 - dacă ești deja foarte bun pe IT, sau devii între timp foarte bun pe o anumită nișă din IT, te vom (putea) recomanda în rețeaua noastră de conexiuni pentru a găsi jobul ideal în consultanță, în Europa, sau la firme gigant precum Amazon, Google sau Apple. În viața reală "nu (prea) contează ce știi, contează pe cine știi". Scuze că ți-am dărâmat în doar câteva cuvinte mitologia și metodologia practicată în sistemele clasice de învățământ (școală, liceu, facultate).
@@ -39,8 +37,6 @@ Dacă ai ajuns până aici, e un semn bun. Hai să vedem ce-ți mai oferim, în 
 #### beneficii [tangibile](https://dexonline.ro/definitie/tangibil):
 
 - o adresă email personalizată @unpi.dev și opțiunile aferente din [Google Suite Basic](https://gsuite.google.com/pricing.html)
-
-- o licență anuală antivirus: [Kaspersky Internet Security](https://www.kaspersky.com/internet-security) în dar din partea [Kaspersky România](https://www.kaspersky.ro/) (mulțumim domnilor CR și BP pentru această ofertă)
 
 - o licență anuală, educațională, pentru a învăța programare (din păcate **nu** și pentru dezvoltarea de produse software), folosind oricare din uneltele IDE profesionale: GoLand, PyCharm, RubyMine, CLion, IntelliJ IDEA, PhpStorm, WebStorm, DataGrip, din partea [JetBrains](https://www.jetbrains.com/all/)
 
