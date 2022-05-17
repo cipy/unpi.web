@@ -2,7 +2,7 @@
 
 #### OK, m-ai convins, cum pot ajuta acum unPi?
 
-Răspuns: trimite te rog donația ta (de preferat echivalentul a €300, [cât valorează unPi](https://start.unpi.ro/ong/povestea/#bugetul-pentru-unpi-pe-an-este-200-de-participantdonator-și-conține)) în unul din conturile bancare următoare. De asemenea poți dona și mai puțin de €300, dacă nu-ți permiți întreaga sumă. Dacă **reprezinți o firmă** ce dorește să facă o _sponsorizare_, contactează-ne te rog [direct prin email](mailto:donez@unpi.ro?subject=vreau%20sa%20sponsorizez%20unPi).
+Răspuns: trimite te rog donația ta (de preferat echivalentul a €300, [cât valorează unPi](https://start.unpi.ro/ong/povestea/#bugetul-pentru-unpi-pe-an-este-300-de-participantdonator-și-conține)) în unul din conturile bancare următoare. De asemenea poți dona și mai puțin de €300, dacă nu-ți permiți întreaga sumă. Dacă **reprezinți o firmă** ce dorește să facă o _sponsorizare_, contactează-ne te rog [direct prin email](mailto:donez@unpi.ro?subject=vreau%20sa%20sponsorizez%20unPi).
 
 - către: Asociația unPi pentru Școlari, Banca Transilvania, cod BIC/SWIFT BTRLRO22DBA
 - cod IBAN RO31BTRLRONCRT0523621201 pentru donații în RON
