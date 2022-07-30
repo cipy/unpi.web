@@ -28,9 +28,9 @@ Dacă ai ajuns până aici, e un semn bun. Hai să vedem ce-ți mai oferim, în 
 
 - poți alege specificul muncii tale de voluntariat. Ceva la ce tu ești foarte bun deja, sau la ceea ce ai vrea să devii foarte bun. _Dezavantaj_: ne așteptăm la o calitate gen [Apple](https://www.apple.com/) a muncii tale, chiar dacă nu o vom putea compensa monetar. Da, vei învăța și practica perfecțiunea, dacă o poți tolera.
 
-- dacă nu știi IT, și vrei să înveți, îl vei avea pe [Ciprian](https://www.linkedin.com/in/ciprian-manea/) la contacte rapide. Vei putea urma toate cursurile noastre, pune întrebari direct la sursă, vei putea explica concepte IT indirect și beneficiarilor noștri prin intermediul materialelor unPi digitale. După un [motto](https://dexonline.ro/definitie/motto), pe care și Ciprian îl folosește: "dacă vrei să înțelegi un subiect foarte bine, încearcă să-l predai sau explici și unui copil"
-
 - vei avea prioritate pentru a fi selectat/ă _consultant specializat_ în proiectele speciale în care noi decidem să investim direct. Aici calitatea muncii tale, aflată deja la nivel Apple, va fi recompensată (temporar) la nivel Apple.
+
+- dacă nu știi IT, și vrei să înveți, îl vei avea pe [Ciprian](https://www.linkedin.com/in/ciprian-manea/) la contacte rapide. Vei putea urma toate cursurile noastre, pune întrebari direct la sursă, vei putea explica concepte IT indirect și beneficiarilor noștri prin intermediul materialelor unPi digitale. După un [motto](https://dexonline.ro/definitie/motto), pe care și Ciprian îl folosește: "dacă vrei să înțelegi un subiect foarte bine, încearcă să-l predai sau explici și unui copil"
 
 - dacă ești deja foarte bun pe IT, sau devii între timp foarte bun pe o anumită nișă din IT, te vom (putea) recomanda în rețeaua noastră de conexiuni pentru a găsi jobul ideal în consultanță, în Europa, sau la firme gigant precum Amazon, Google sau Apple. În viața reală "nu (prea) contează ce știi, contează pe cine știi". Scuze că ți-am dărâmat în doar câteva cuvinte mitologia și metodologia practicată în sistemele clasice de învățământ (școală, liceu, facultate).
 
