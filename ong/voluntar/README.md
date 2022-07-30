@@ -6,7 +6,7 @@ Orice [proiect](https://start.unpi.ro/ong/povestea/) sau organizație se loveșt
 
 ### te vezi Voluntar?
 
-[Ești serios?](https://www.youtube.com/watch?v=TuQC5hhhqkY) De ce [ai lucra gratis?](https://www.tiktok.com/@tombilyeu/video/6819694843606977798) Pentru un vis care nu este (încă) al tău?
+[Ești serios sau serioasă?](https://www.youtube.com/watch?v=TuQC5hhhqkY) De ce [ai lucra gratis?](https://www.tiktok.com/@tombilyeu/video/6819694843606977798) Pentru un vis care nu este (încă) al tău?
 
 ### Secretul
 
@@ -30,7 +30,7 @@ Dacă ai ajuns până aici, e un semn bun. Hai să vedem ce-ți mai oferim, în 
 
 - dacă nu știi IT, și vrei să înveți, îl vei avea pe [Ciprian](https://www.linkedin.com/in/ciprian-manea/) la contacte rapide. Vei putea urma toate cursurile noastre, pune întrebari direct la sursă, vei putea explica concepte IT indirect și beneficiarilor noștri prin intermediul materialelor unPi digitale. După un [motto](https://dexonline.ro/definitie/motto), pe care și Ciprian îl folosește: "dacă vrei să înțelegi un subiect foarte bine, încearcă să-l predai sau explici și unui copil"
 
-- vei avea prioritate pentru a fi selectat _consultant specializat_ în proiectele speciale pentru care reușim să atragem finanțiare de la sponsori. Aici calitatea muncii tale, aflată deja la nivel Apple, va fi recompensată (temporar) la nivel Apple. Nu crezi? Ar trebui să vezi cum se (vor) uită sponsorii când le confirmăm asta.
+- vei avea prioritate pentru a fi selectat/ă _consultant specializat_ în proiectele speciale în care noi decidem să investim direct. Aici calitatea muncii tale, aflată deja la nivel Apple, va fi recompensată (temporar) la nivel Apple.
 
 - dacă ești deja foarte bun pe IT, sau devii între timp foarte bun pe o anumită nișă din IT, te vom (putea) recomanda în rețeaua noastră de conexiuni pentru a găsi jobul ideal în consultanță, în Europa, sau la firme gigant precum Amazon, Google sau Apple. În viața reală "nu (prea) contează ce știi, contează pe cine știi". Scuze că ți-am dărâmat în doar câteva cuvinte mitologia și metodologia practicată în sistemele clasice de învățământ (școală, liceu, facultate).
 
