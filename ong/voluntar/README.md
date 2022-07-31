@@ -10,7 +10,7 @@ Orice [proiect](https://start.unpi.ro/ong/povestea/) sau organizație se loveșt
 
 ### Secretul
 
-Dacă mă întrebai pe mine, Ciprian, dacă aș fi făcut voluntariat înainte de 2019 (anul când [am fondat unPi](https://start.unpi.ro/ong/echipa/)), ți-aș fi răspuns: contribui ori am contribuit la Crucea Roșie (pentru proiecte în Africa), dar din păcate nu am timp pentru altceva.
+Dacă mă întrebai pe mine, Ciprian, dacă aș fi făcut voluntariat înainte de 2019 (anul când [am fondat unPi](https://start.unpi.ro/ong/echipa/)), ți-aș fi răspuns: eu contribui sau am contribuit la Crucea Roșie (pentru proiecte în Africa), dar din păcate nu am timp pentru altceva.
 
 Ce s-a schimbat în 2019? În primăvara lui 2019 am realizat că se pot schimba destine cu ajutorul tehnologiei. Sincer, viziunea inițială a fost cu totul alta, dar am conștientizat relativ repede că acea viziune este imposibil de atins; asemenea unui ogor, care dacă nu a fost desțelenit și arat în prealabil, nu va permite niciodată ideei tale să prindă rădăcini. Da, unul din bunicii mei a fost țăran. Cel mai important sfat al lui: "nu-ți alege agricultura drept profesie, e o muncă foarte grea, niciodată nu ești total sigur de recoltă". Și uite că [metafizic](https://dexonline.ro/definitie/metafizic), tot la agricultură am ajuns 😎
 
@@ -28,7 +28,7 @@ Dacă ai ajuns până aici, e un semn bun. Hai să vedem ce-ți mai oferim, în 
 
 - poți alege specificul muncii tale de voluntariat. Ceva la ce tu ești foarte bun deja, sau la ceea ce ai vrea să devii foarte bun. _Dezavantaj_: ne așteptăm la o calitate gen [Apple](https://www.apple.com/) a muncii tale, chiar dacă nu o vom putea compensa monetar. Da, vei învăța și practica perfecțiunea, dacă o poți tolera.
 
-- vei avea prioritate pentru a fi selectat/ă _consultant specializat_ în proiectele speciale în care noi decidem să investim direct. Aici calitatea muncii tale, aflată deja la nivel Apple, va fi recompensată (temporar) la nivel Apple.
+- vei avea prioritate pentru a fi selectat/ă _consultant specializat_ în proiectele speciale în care noi decidem să investim direct. Aici calitatea contribuțiilor tale, aflată deja la nivel Apple, va fi recompensată (temporar) la nivel Apple.
 
 - dacă nu știi IT, și vrei să înveți, îl vei avea pe [Ciprian](https://www.linkedin.com/in/ciprian-manea/) la contacte rapide. Vei putea urma toate cursurile noastre, pune întrebari direct la sursă, vei putea explica concepte IT indirect și beneficiarilor noștri prin intermediul materialelor unPi digitale. După un [motto](https://dexonline.ro/definitie/motto), pe care și Ciprian îl folosește: "dacă vrei să înțelegi un subiect foarte bine, încearcă să-l predai sau explici și unui copil"
 
@@ -38,7 +38,7 @@ Dacă ai ajuns până aici, e un semn bun. Hai să vedem ce-ți mai oferim, în 
 
 - o adresă email personalizată @unpi.dev și opțiunile aferente din [Google Suite Basic](https://gsuite.google.com/pricing.html)
 
-- o licență anuală, educațională, pentru a învăța programare (din păcate **nu** și pentru dezvoltarea de produse software), folosind oricare din uneltele IDE profesionale: GoLand, PyCharm, RubyMine, CLion, IntelliJ IDEA, PhpStorm, WebStorm, DataGrip, din partea [JetBrains](https://www.jetbrains.com/all/)
+- o licență anuală, educațională, pentru a învăța programare (din păcate **nu** și pentru dezvoltarea de produse software), folosind oricare din uneltele IDE profesionale: GoLand, PyCharm, RubyMine, CLion (și altele) din partea [JetBrains](https://www.jetbrains.com/all/)
 
 - o licență Windows 10 Professional (for Workstations) în dar, dacă ești forțat astăzi să rulezi Windows nelicențiat din motive financiare. Sau ai nevoie de versiunea "for Workstations" pentru că ai [un calculator personal cu mai mult de 2 procesoare](https://www.anandtech.com/show/15483/amd-threadripper-3990x-review/3) 🤓 (licența va fi returnată _Asociației unPi pentru Școlari_ la _terminarea contractului tău_ de voluntariat)
 
