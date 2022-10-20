@@ -14,7 +14,7 @@ Vrei să contribui €/$/RON? Vezi te rog conturile bancare din pagina [donez](h
 
 #### Bugetul pentru unPi pe an este €300 de participant/donator și conține:
 
-- [Raspberry Pi 4 Model B 4GB RAM Starter Kit](https://www.amazon.de/-/en/Raspberry-Starter-MicroSD-Supply-Switch/dp/B09W9GN3KF/) €200
+- [Raspberry Pi 4 Model B 2GB RAM Starter Kit](https://www.amazon.de/Raspberry-Pi-4/dp/B0BHHCPJ8Y/) €210
 - [Tastatură cu trackpad incorporat](https://www.amazon.de/gp/product/B07HG5Q851/) (wireless) €30
 - [Baterii 2x AAA reîncărcabile](https://www.amazon.de/-/en/gp/product/B00009X3EV/) (pt tastatură) €5
 - [Cablu rețea profesional](https://www.amazon.de/gp/product/B00QV1F160/) în jur de €10
