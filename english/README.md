@@ -16,11 +16,11 @@ In Computer Science engineering _speak_: **concurrency** is the capacity of a pr
 
 ## What are we gifting to a Romanian child?
 
-- an [Raspberry Pi 4 Model B 4GB RAM Starter Kit](https://www.amazon.de/dp/B0BJ278V6W/)
+- an [Raspberry Pi 4 Model B 4GB RAM Starter Kit](https://www.amazon.de/-/en/gp/product/B0CJRHZC54/)
 - a (wireless) [keyboard with built-in trackpad](https://www.amazon.de/gp/product/B07HG5Q851/)
 - [AAA batteries for the (wireless) keyboard](https://www.amazon.de/-/en/gp/product/B00009X3EV/)
 - a [professional network cable](https://www.amazon.de/gp/product/B00QV1F160/) (up to 10Gbit/s)
-- an [Official Raspberry Pi Beginner's Guide](https://www.amazon.de/-/en/Gareth-Halfacree/dp/191204773X/)
+- an [Official Raspberry Pi Beginner's Guide](https://www.amazon.de/-/en/Gareth-Halfacree-dp-1912047268/dp/1912047268/)
 
 ###### NOTE: the project is now oficially registered in Romania as a Non Profit / NGO named “Asociația unPi pentru Școlari”
 
