@@ -53,5 +53,3 @@ We typically respond within 1–2 business days. Complex issues may take longer,
 ## About Asociația unPi pentru Școlari
 
 We are a Romanian non-profit organization with a mission to create accessible, high-quality digital learning tools for students of all ages. All of our apps are developed with care for student privacy, ease of use, and educational value.
-
-[Visit our GitHub organization →](https://github.com/unPi-ro)
