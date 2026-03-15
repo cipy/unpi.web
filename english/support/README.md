@@ -1,8 +1,3 @@
----
-layout: default
-title: Support · unPi Apps
----
-
 # Welcome to unPi Apps Support
 
 This is the support center for all applications developed by **Asociația unPi pentru Școlari** — a non-profit organization bringing quality digital tools to Romanian students.
