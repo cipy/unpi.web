@@ -14,11 +14,11 @@ Vrei să contribui €/$/RON? Vezi te rog conturile bancare din pagina [donez](h
 
 #### Bugetul pentru unPi pe an este €250 de participant/donator și conține:
 
-- [Raspberry Pi 4 Model B 4GB RAM Starter Kit](https://www.amazon.de/-/en/gp/product/B0CJRHZC54/) €150
-- [Tastatură cu trackpad incorporat](https://www.amazon.de/gp/product/B07HG5Q851/) (wireless) €40
-- [Baterii 2x AAA reîncărcabile](https://www.amazon.de/-/en/gp/product/B00009X3EV/) (pt tastatură) €5
+- [Raspberry Pi 4 Model B 4GB RAM Starter Kit](https://www.amazon.de/-/en/Raspberry-Model-Light-Starter-White/dp/B07YCJ8994) €125
+- [Tastatură cu trackpad incorporat](https://www.amazon.de/gp/product/B07HG5Q851/) (wireless) €25
+- [Baterii 2x AAA reîncărcabile](https://www.amazon.de/-/en/VARTA-Longlife-Micro-800mAh-Battery/dp/B0012PUK3O) (pt tastatură) €7
 - [Cablu rețea profesional](https://www.amazon.de/gp/product/B00QV1F160/) în jur de €10
-- [Ghidul Raspberry Pi](https://www.amazon.de/-/en/Gareth-Halfacree-dp-1912047268/dp/1912047268/) în jur de €25
+- [Ghidul Raspberry Pi](https://www.amazon.de/-/en/Gareth-Halfacree-dp-1912047268/dp/1912047268/) în jur de €35
 - Astăzi, transportul din Amazon.de/Germania către România este în jur de €15
 
 #### NOTA: proiectul a devenit “Asociația unPi pentru Școlari”, [ONG](http://ong.unpi.ro/)/non profit înregistrat oficial în România
