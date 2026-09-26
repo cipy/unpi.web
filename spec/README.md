@@ -3,7 +3,7 @@
 ###### Trebuie să primești de la [unPi](https://www.unpi.ro/), să cumperi, or să ai deja următoarele:
 
 - [Ultima versiune Raspbian OS](https://www.raspberrypi.org/downloads/raspbian/) instalată pe microSD
-- [Raspberry Pi 4 Model B 4GB RAM Starter Kit](https://www.amazon.de/-/en/Raspberry-Model-Light-Starter-White/dp/B07YCJ8994/)
+- [Raspberry Pi 5 1GB RAM Starter Kit](https://www.amazon.de/dp/B0GD8M3DQV/)
 - [Tastatură (wireless) cu trackpad incorporat](https://www.amazon.de/gp/product/B07HG5Q851/)
 - [Baterii 2x AAA pentru tastatura (wireless)](https://www.amazon.de/-/en/VARTA-Longlife-Micro-800mAh-Battery/dp/B0012PUK3O)
 - [Cablu rețea profesional](https://www.amazon.de/gp/product/B00QV1F160/)
