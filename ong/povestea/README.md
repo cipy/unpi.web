@@ -12,9 +12,9 @@ Eu mă angajez să [donez](http://donez.unpi.ro/) câte unPi pe an și să preg�
 
 Vrei să contribui €/$/RON? Vezi te rog conturile bancare din pagina [donez](http://donez.unpi.ro/) sau contactează-ne [direct](mailto:donez@unpi.ro?subject=vreau%20sa%20donez%20unPi); Vrei să contribui timp? Poți începe deja în Github cu [pagina aceasta](https://github.com/cipy/unpi.web), continua cu [pagina cursului Golang](https://github.com/cipy/unpi.go), sau poți crea propriul tău curs online [de programare] pentru [platforma unPi](https://www.unpi.ro/spec/).
 
-#### Bugetul pentru unPi pe an este €250 de participant/donator și conține:
+#### Bugetul pentru unPi pe an este €200 de participant/donator și conține:
 
-- [Raspberry Pi 4 Model B 4GB RAM Starter Kit](https://www.amazon.de/-/en/Raspberry-Model-Light-Starter-White/dp/B07YCJ8994) €125
+- [Raspberry Pi 5 1GB RAM Starter Kit](https://www.amazon.de/dp/B0GD8M3DQV/) €110
 - [Tastatură cu trackpad incorporat](https://www.amazon.de/gp/product/B07HG5Q851/) (wireless) €25
 - [Baterii 2x AAA reîncărcabile](https://www.amazon.de/-/en/VARTA-Longlife-Micro-800mAh-Battery/dp/B0012PUK3O) (pt tastatură) €7
 - [Cablu rețea profesional](https://www.amazon.de/gp/product/B00QV1F160/) în jur de €10
